@@ -82,8 +82,9 @@ def get_log_test(pub_name , sub_name , package_name , test_name , log_number, lo
 	for p in pub_list:
 	    return_state = p.poll()
 		
-	    if return_state != None:	    
+	    if return_state == None:	    
 		p.send_signal(signal.SIGINT)
+		return_state = p.poll()
 	    logger.info(pub_name[i] + " --- return Code : " + str(return_state))
 	    i += 1
 
@@ -91,8 +92,9 @@ def get_log_test(pub_name , sub_name , package_name , test_name , log_number, lo
 	for q in sub_list:
 	    return_state = q.poll()
 		
-	    if return_state != None:	    
+	    if return_state == None:	    
 		q.send_signal(signal.SIGINT)
+		return_state = q.poll()
 	    logger.info(sub_name[i] + " --- return Code : " + str(return_state))
 	    i += 1
 
