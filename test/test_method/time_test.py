@@ -59,14 +59,20 @@ def time_test(pub_name , sub_name , package_name , run_time , tmp_path):
 
 	i = 0
 	for p in pub_list:
-	    p.send_signal(signal.SIGINT)
-	    print pub_name[i] + " --- return Code : " + str(p.poll())
+	    return_state = p.poll()
+		
+	    if return_state != None:	    
+		p.send_signal(signal.SIGINT)
+	    print pub_name[i] + " --- return Code : " + str(return_state)
 	    i += 1
 
 	i = 0
 	for q in sub_list:
-	    q.send_signal(signal.SIGINT)
-	    print sub_name[i] + " --- return Code : " + str(p.poll())
+	    return_state = q.poll()
+		
+	    if return_state != None:	    
+		q.send_signal(signal.SIGINT)
+	    print sub_name[i] + " --- return Code : " + str(return_state)
 	    i += 1
 
 

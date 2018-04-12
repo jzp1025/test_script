@@ -80,14 +80,20 @@ def get_log_test(pub_name , sub_name , package_name , test_name , log_number, lo
 		
 	i = 0
 	for p in pub_list:
-	    p.send_signal(signal.SIGINT)
-	    logger.info(pub_name[i] + " --- return Code : " + str(p.poll()))
+	    return_state = p.poll()
+		
+	    if return_state != None:	    
+		p.send_signal(signal.SIGINT)
+	    logger.info(pub_name[i] + " --- return Code : " + str(return_state))
 	    i += 1
 
 	i = 0
 	for q in sub_list:
-	    q.send_signal(signal.SIGINT)
-	    logger.info(sub_name[i] + " --- return Code : " + str(p.poll()))
+	    return_state = q.poll()
+		
+	    if return_state != None:	    
+		q.send_signal(signal.SIGINT)
+	    logger.info(sub_name[i] + " --- return Code : " + str(return_state))
 	    i += 1
 
 	print "Logging finished ! "
