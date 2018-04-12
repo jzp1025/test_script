@@ -2,7 +2,7 @@
 
 import logging, subprocess, signal , os
 
-def get_log_test(pub_name , sub_name , package_name , test_name , log_number, log_path):
+def get_log_test(pub_name , sub_name , package_name , test_name , log_number, log_path , tmp_path):
 
 
 	if(os.path.exists(log_path + '/log/' + test_name + '.log')):
@@ -22,8 +22,8 @@ def get_log_test(pub_name , sub_name , package_name , test_name , log_number, lo
 	sub_list = []
 
 	for name in pub_name:
-	    run_pub_sh = "ros2 run " + package_name + " " + name
-
+	    run_pub_sh = tmp_path + '/install_isolated/' + package_name + "/lib/" + package_name + "/" + name
+	    
 	    logger.info(run_pub_sh)
 
 	    p = subprocess.Popen(run_pub_sh,stdout=subprocess.PIPE,stderr=subprocess.PIPE,shell=True)
@@ -31,7 +31,7 @@ def get_log_test(pub_name , sub_name , package_name , test_name , log_number, lo
 
 
 	for name in sub_name:
-	    run_sub_sh = "ros2 run " + package_name + " " + name  
+	    run_sub_sh = tmp_path + '/install_isolated/' + package_name + "/lib/" + package_name + "/" + name 
 		
 	    logger.info(run_sub_sh)
 

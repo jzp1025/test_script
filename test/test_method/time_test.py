@@ -2,7 +2,7 @@
 
 import time, subprocess,signal
 
-def time_test(pub_name , sub_name , package_name , run_time):
+def time_test(pub_name , sub_name , package_name , run_time , tmp_path):
 	
 	print "begin time_test : "
 
@@ -12,15 +12,17 @@ def time_test(pub_name , sub_name , package_name , run_time):
 	pub_list = []
 
 	sub_list = []
+ 
 
 	for name in pub_name:
-	    run_pub_sh = "ros2 run " + package_name + " " + name
+	    run_pub_sh = tmp_path + '/install_isolated/' + package_name + "/lib/" + package_name + "/" + name
+
 	    p = subprocess.Popen(run_pub_sh,stdout=subprocess.PIPE,stderr=subprocess.PIPE,shell=True)
 	    pub_list.append(p)
 
 
 	for name in sub_name:
-	    run_sub_sh = "ros2 run " + package_name + " " + name  
+	    run_sub_sh = tmp_path + '/install_isolated/' + package_name + "/lib/" + package_name + "/" + name 
 	    q = subprocess.Popen(run_sub_sh,stdout=subprocess.PIPE,stderr=subprocess.PIPE,shell=True)
 	    sub_list.append(q)
 

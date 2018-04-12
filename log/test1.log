@@ -1,24 +1,6 @@
-[INFO][get_log_test][2018-04-11 19:21:43,205]ros2 run pub_and_sub_cpp talker1
-[INFO][get_log_test][2018-04-11 19:21:43,212]ros2 run pub_and_sub_cpp talker1
-[DEBUG][get_log_test][2018-04-11 19:21:43,621]1 --- init time is : 0 ms
-[DEBUG][get_log_test][2018-04-11 19:21:43,768]2 --- init time is : 0 ms
-[DEBUG][get_log_test][2018-04-11 19:21:43,768]3 --- all prepare time is : 114 ms
-[DEBUG][get_log_test][2018-04-11 19:21:43,814]4 --- all prepare time is : 50 ms
-[DEBUG][get_log_test][2018-04-11 19:21:43,814]5 --- Publishing: '2', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:43,866]6 --- Publishing: '2', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:43,866]7 --- Publishing: '3', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:43,916]8 --- Publishing: '3', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:43,916]9 --- Publishing: '4', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:43,966]10 --- Publishing: '4', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:43,967]11 --- Publishing: '5', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:44,020]12 --- Publishing: '5', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:44,020]13 --- Publishing: '6', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:44,070]14 --- Publishing: '6', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:44,071]15 --- Publishing: '7', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:44,124]16 --- Publishing: '7', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:44,124]17 --- Publishing: '8', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:44,174]18 --- Publishing: '8', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:44,175]19 --- Publishing: '9', data size is 2097153
-[DEBUG][get_log_test][2018-04-11 19:21:44,225]20 --- Publishing: '9', data size is 2097153
-[INFO][get_log_test][2018-04-11 19:21:44,225]talker1 --- return Code : None
-[INFO][get_log_test][2018-04-11 19:21:44,225]talker1 --- return Code : None
+[INFO][get_log_test][2018-04-12 10:59:50,603]/home/tusimple/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/talker1
+[INFO][get_log_test][2018-04-12 10:59:50,605]/home/tusimple/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/listener1
+[DEBUG][get_log_test][2018-04-12 10:59:50,605]1 --- 
+[ERROR][get_log_test][2018-04-12 10:59:50,605]talker1 --- Error Code : 127
+[DEBUG][get_log_test][2018-04-12 10:59:50,606]2 --- 
+[ERROR][get_log_test][2018-04-12 10:59:50,606]listener1 --- Error Code : 127

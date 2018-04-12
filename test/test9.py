@@ -20,10 +20,13 @@ def test(run_time , test_name , log_number , log_path):
 	listener_name = ["listener9_1" , "listener9_2" , "listener9_3"]
 
 
-	time_test.time_test(talker_name , listener_name , package_name , run_time)
- 
-	get_log_test.get_log_test(talker_name , listener_name , package_name , test_name , log_number, log_path)
+	run_path = log_path[:-12]
 
+	time_test.time_test(talker_name , listener_name , package_name , run_time , run_path)
+ 
+	get_log_test.get_log_test(talker_name , listener_name , package_name , test_name , log_number, log_path , run_path)
+
+	
 	
 	
 	print "all test finished !"
