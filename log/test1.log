@@ -1,6 +1,4 @@
-[INFO][get_log_test][2018-04-12 10:59:50,603]/home/tusimple/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/talker1
-[INFO][get_log_test][2018-04-12 10:59:50,605]/home/tusimple/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/listener1
-[DEBUG][get_log_test][2018-04-12 10:59:50,605]1 --- 
-[ERROR][get_log_test][2018-04-12 10:59:50,605]talker1 --- Error Code : 127
-[DEBUG][get_log_test][2018-04-12 10:59:50,606]2 --- 
-[ERROR][get_log_test][2018-04-12 10:59:50,606]listener1 --- Error Code : 127
+[DEBUG][time_test][2018-04-18 14:08:29,663]Test : Time Test
+[DEBUG][time_test][2018-04-18 14:08:29,663]test begin , start run shell command :
+[INFO][time_test][2018-04-18 14:08:29,663]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/talker1
+[INFO][time_test][2018-04-18 14:08:29,664]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/listener1

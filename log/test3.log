@@ -1,0 +1,20 @@
+[DEBUG][time_test][2018-04-18 11:17:54,807]Test : Time Test
+[DEBUG][time_test][2018-04-18 11:17:54,808]test begin , start run shell command :
+[INFO][time_test][2018-04-18 11:17:54,808]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/talker3_1
+[INFO][time_test][2018-04-18 11:17:54,809]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/listener3_1
+[INFO][time_test][2018-04-18 11:17:54,810]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/listener3_2
+[INFO][time_test][2018-04-18 11:17:54,811]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/listener3_3
+[DEBUG][time_test][2018-04-18 11:19:34,811]--------------Time Test Finished , Start Logging
+[DEBUG][time_test][2018-04-18 11:19:34,811]Logging talker3_1
+[INFO][time_test][2018-04-18 11:19:34,811] --- init time is : 6 ms
+all prepare time is : 16164 ms
+
+[DEBUG][time_test][2018-04-18 11:19:34,812]Logging listener3_1
+[DEBUG][time_test][2018-04-18 11:19:34,812]Logging listener3_2
+[DEBUG][time_test][2018-04-18 11:19:34,813]Logging listener3_3
+[DEBUG][time_test][2018-04-18 11:19:34,813]Logging Finished , Start quit the subprocess
+[INFO][time_test][2018-04-18 11:19:34,813]talker3_1 --- return Code : None
+[INFO][time_test][2018-04-18 11:19:34,813]listener3_1 --- return Code : None
+[INFO][time_test][2018-04-18 11:19:34,813]listener3_2 --- return Code : None
+[INFO][time_test][2018-04-18 11:19:34,813]listener3_3 --- return Code : None
+[DEBUG][time_test][2018-04-18 11:19:34,813]Test Finished !

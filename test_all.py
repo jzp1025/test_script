@@ -1,48 +1,59 @@
 # -*- conding: UTF-8 -*-
 
-from test import test1
+from test import test1 , test2 , test3
+
 import os
 
-cwd = os.getcwd()
+import sys, getopt
 
-test_cases = ["test1"]
+def main(argv):
 
-if(os.path.exists(cwd+'/log') == False):
-	os.makedirs(cwd+'/log') 
+     cwd = os.getcwd()
 
+     #test_cases = ["test1" , "test2" , "test3"]
+     test_cases = ["test1"]
 
-print "Please Input test cases : ('all' or 'testN.py')"
+     if(os.path.exists(cwd+'/log') == False):
+         os.makedirs(cwd+'/log') 
+         print("log dir build succeed !")
 
-test_case_str = raw_input();
-
-if(test_case_str == "all"):
-	print "Please Input test time : (s)"
-
-	run_time = input();
-
-	print "Please Input number of logging : "
-
-	log_number = input();
+     print("log dir path is : " + cwd+'/log')
 
 
-	for case in test_cases:
-		locals()[case].test(run_time  , case , log_number, cwd)
+#     print "Please Input test cases : ('all' or 'testN.py')"
 
-else:
-	print "Please Input test time : (s)"
 
-	run_time = input();
 
-	print "Whether to see the details : (Y/n)"
+     try:
+        opts, args = getopt.getopt(argv, "hn:t:l:",["test_name=","test_time=","log_number="])
+     except getopt.GetoptError:
+        print 'test_all.py -n <test_name all or testN.py> -t <test_time> -l <log_number>'
+        sys.exit(2)
 
-	detail_flag = raw_input();
+     for opt, arg in opts:
+        if opt == '-h':
+            print 'test_all.py -n <test_name all or testN.py> -t <test_time> -l <log_number>'
+            sys.exit()
+        elif opt in ("-t", "--test_time"):
+            run_time = arg
+        elif opt in ("-l", "--log_number"):
+            log_number = arg
+        elif opt in ("-n", "--test_name"):
+            test_case_str = arg
 
-	print "Please Input number of logging : "
+     if(test_case_str == "all"):
 
-	log_number = input();
+        for case in test_cases:
+             print case
+             globals()[case].test(run_time  , case , log_number, cwd)
+             print case
+
+     else:
+        
 	
-	locals()[test_case_str].test(run_time , test_case_str , log_number , cwd)
+        locals()[test_case_str].test(run_time , test_case_str , log_number , cwd)
 
-
+if __name__ == "__main__":
+     main(sys.argv[1:])
 
 
