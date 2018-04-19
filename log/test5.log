@@ -1,0 +1,20 @@
+[DEBUG][time_test][2018-04-18 18:17:13,764]Test : Time Test
+[DEBUG][time_test][2018-04-18 18:17:13,764]test begin , start run shell command :
+[INFO][time_test][2018-04-18 18:17:13,764]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/talker5_1
+[INFO][time_test][2018-04-18 18:17:13,765]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_cpp/lib/pub_and_sub_cpp/listener5_1
+[DEBUG][time_test][2018-04-18 18:17:43,765]--------------Time Test Finished , Start Logging
+[DEBUG][time_test][2018-04-18 18:17:46,461]Logging talker5_1
+[INFO][time_test][2018-04-18 18:17:46,462]
+init time is : 3 ms
+all prepare time is : 6146 ms
+signal_handler(2)
+
+[INFO][time_test][2018-04-18 18:17:46,462]
+
+[DEBUG][time_test][2018-04-18 18:17:49,488]Logging listener5_1
+[INFO][time_test][2018-04-18 18:17:49,489]
+signal_handler(2)
+
+[INFO][time_test][2018-04-18 18:17:49,489]
+
+[DEBUG][time_test][2018-04-18 18:17:49,489]Logging Finished , Start quit the subprocess

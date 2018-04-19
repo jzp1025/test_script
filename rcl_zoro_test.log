@@ -1,0 +1,348 @@
+[DEBUG][main][2018-04-19 18:31:16,171]rcl_zoro_test start : 
+[DEBUG][main][2018-04-19 18:31:22,662]
+start running : test_graph__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:22,662]
+Running main() from gtest_main.cc
+[==========] Running 6 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 6 tests from TestGraphFixture__rmw_zoro_cpp
+[ RUN      ] TestGraphFixture__rmw_zoro_cpp.test_rcl_get_and_destroy_topic_names_and_types
+starting memory checking...
+[       OK ] TestGraphFixture__rmw_zoro_cpp.test_rcl_get_and_destroy_topic_names_and_types (14 ms)
+[ RUN      ] TestGraphFixture__rmw_zoro_cpp.test_rcl_count_publishers
+stopping memory checking...
+starting memory checking...
+stopping memory checking...
+stopping memory checking...
+[       OK ] TestGraphFixture__rmw_zoro_cpp.test_rcl_count_publishers (7 ms)
+[ RUN      ] TestGraphFixture__rmw_zoro_cpp.test_rcl_count_subscribers
+starting memory checking...
+stopping memory checking...
+[       OK ] TestGraphFixture__rmw_zoro_cpp.test_rcl_count_subscribers (6 ms)
+[ RUN      ] TestGraphFixture__rmw_zoro_cpp.test_graph_query_functions
+starting memory checking...
+stopping memory checking...
+[       OK ] TestGraphFixture__rmw_zoro_cpp.test_graph_query_functions (1487 ms)
+[ RUN      ] TestGraphFixture__rmw_zoro_cpp.test_graph_guard_condition_topics
+starting memory checking...
+stopping memory checking...
+[       OK ] TestGraphFixture__rmw_zoro_cpp.test_graph_guard_condition_topics (1997 ms)
+[ RUN      ] TestGraphFixture__rmw_zoro_cpp.test_rcl_service_server_is_available
+starting memory checking...
+stopping memory checking...
+[       OK ] TestGraphFixture__rmw_zoro_cpp.test_rcl_service_server_is_available (2962 ms)
+[----------] 6 tests from TestGraphFixture__rmw_zoro_cpp (6474 ms total)
+
+[----------] Global test environment tear-down
+[==========] 6 tests from 1 test case ran. (6474 ms total)
+[  PASSED  ] 6 tests.
+
+[DEBUG][main][2018-04-19 18:31:24,706]
+start running : test_node__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:24,707]
+Running main() from gtest_main.cc
+[==========] Running 4 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 4 tests from TestNodeFixture__rmw_zoro_cpp
+[ RUN      ] TestNodeFixture__rmw_zoro_cpp.test_rcl_node_accessors
+starting memory checking...
+stopping memory checking...
+starting memory checking...
+starting memory checking...
+starting memory checking...
+stopping memory checking...
+starting memory checking...
+stopping memory checking...
+starting memory checking...
+stopping memory checking...
+starting memory checking...
+stopping memory checking...
+stopping memory checking...
+[       OK ] TestNodeFixture__rmw_zoro_cpp.test_rcl_node_accessors (13 ms)
+[ RUN      ] TestNodeFixture__rmw_zoro_cpp.test_rcl_node_life_cycle
+starting memory checking...
+stopping memory checking...
+[       OK ] TestNodeFixture__rmw_zoro_cpp.test_rcl_node_life_cycle (7 ms)
+[ RUN      ] TestNodeFixture__rmw_zoro_cpp.test_rcl_node_name_restrictions
+starting memory checking...
+stopping memory checking...
+[       OK ] TestNodeFixture__rmw_zoro_cpp.test_rcl_node_name_restrictions (3 ms)
+[ RUN      ] TestNodeFixture__rmw_zoro_cpp.test_rcl_node_namespace_restrictions
+starting memory checking...
+stopping memory checking...
+[       OK ] TestNodeFixture__rmw_zoro_cpp.test_rcl_node_namespace_restrictions (9 ms)
+[----------] 4 tests from TestNodeFixture__rmw_zoro_cpp (32 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test case ran. (32 ms total)
+[  PASSED  ] 4 tests.
+
+[ERROR][main][2018-04-19 18:31:24,707]
+[rcutils|error_handling.c:109] failed to allocate memory for the error state struct
+
+[DEBUG][main][2018-04-19 18:31:26,723]
+start running : test_rcl__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:26,723]
+Running main() from gtest_main.cc
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from TestRCLFixture__rmw_zoro_cpp
+[ RUN      ] TestRCLFixture__rmw_zoro_cpp.test_rcl_init_and_ok_and_shutdown
+starting memory checking...
+stopping memory checking...
+[       OK ] TestRCLFixture__rmw_zoro_cpp.test_rcl_init_and_ok_and_shutdown (5 ms)
+[ RUN      ] TestRCLFixture__rmw_zoro_cpp.test_rcl_get_instance_id_and_ok
+starting memory checking...
+stopping memory checking...
+[       OK ] TestRCLFixture__rmw_zoro_cpp.test_rcl_get_instance_id_and_ok (0 ms)
+[----------] 2 tests from TestRCLFixture__rmw_zoro_cpp (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (5 ms total)
+[  PASSED  ] 2 tests.
+
+[ERROR][main][2018-04-19 18:31:26,723]
+[rcutils|error_handling.c:109] failed to allocate memory for the error state struct
+
+[DEBUG][main][2018-04-19 18:31:43,239]
+start running : test_namespace__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:43,239]
+Running main() from gtest_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TestNamespaceFixture
+[ RUN      ] TestNamespaceFixture.test_client_server
+starting memory checking...
+stopping memory checking...
+[       OK ] TestNamespaceFixture.test_client_server (14487 ms)
+[----------] 1 test from TestNamespaceFixture (14487 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (14487 ms total)
+[  PASSED  ] 1 test.
+
+[DEBUG][main][2018-04-19 18:31:45,252]
+start running : test_common__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:45,252]
+Running main() from gtest_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TestCommon__rmw_zoro_cpp
+[ RUN      ] TestCommon__rmw_zoro_cpp.test_getenv
+/home/tusimple/xinliu/ros2_ws/src/ros2/rcl/rcl/test/rcl/test_common.cpp:54: Failure
+      Expected: "foo"
+To be equal to: std::string(env)
+      Which is: ""
+[  FAILED  ] TestCommon__rmw_zoro_cpp.test_getenv (0 ms)
+[----------] 1 test from TestCommon__rmw_zoro_cpp (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (0 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] TestCommon__rmw_zoro_cpp.test_getenv
+
+ 1 FAILED TEST
+
+[DEBUG][main][2018-04-19 18:31:47,293]
+start running : test_timer__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:47,293]
+Running main() from gtest_main.cc
+[==========] Running 4 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 4 tests from TestTimerFixture
+[ RUN      ] TestTimerFixture.test_two_timers
+starting memory checking...
+stopping memory checking...
+[       OK ] TestTimerFixture.test_two_timers (12 ms)
+[ RUN      ] TestTimerFixture.test_two_timers_ready_before_timeout
+starting memory checking...
+stopping memory checking...
+[       OK ] TestTimerFixture.test_two_timers_ready_before_timeout (7 ms)
+[ RUN      ] TestTimerFixture.test_timer_not_ready
+starting memory checking...
+stopping memory checking...
+[       OK ] TestTimerFixture.test_timer_not_ready (4 ms)
+[ RUN      ] TestTimerFixture.test_canceled_timer
+starting memory checking...
+stopping memory checking...
+[       OK ] TestTimerFixture.test_canceled_timer (3 ms)
+[----------] 4 tests from TestTimerFixture (26 ms total)
+
+[----------] Global test environment tear-down
+[==========] 4 tests from 1 test case ran. (26 ms total)
+[  PASSED  ] 4 tests.
+
+[DEBUG][main][2018-04-19 18:31:49,312]
+start running : test_guard_condition__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:49,312]
+Running main() from gtest_main.cc
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from TestGuardConditionFixture__rmw_zoro_cpp
+[ RUN      ] TestGuardConditionFixture__rmw_zoro_cpp.test_rcl_guard_condition_accessors
+starting memory checking...
+stopping memory checking...
+starting memory checking...
+stopping memory checking...
+starting memory checking...
+stopping memory checking...
+[       OK ] TestGuardConditionFixture__rmw_zoro_cpp.test_rcl_guard_condition_accessors (4 ms)
+[ RUN      ] TestGuardConditionFixture__rmw_zoro_cpp.test_rcl_guard_condition_life_cycle
+starting memory checking...
+stopping memory checking...
+[       OK ] TestGuardConditionFixture__rmw_zoro_cpp.test_rcl_guard_condition_life_cycle (0 ms)
+[----------] 2 tests from TestGuardConditionFixture__rmw_zoro_cpp (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (4 ms total)
+[  PASSED  ] 2 tests.
+
+[ERROR][main][2018-04-19 18:31:49,312]
+[rcutils|error_handling.c:109] failed to allocate memory for the error state struct
+
+[DEBUG][main][2018-04-19 18:31:52,765]
+start running : test_publisher__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:52,765]
+Running main() from gtest_main.cc
+[==========] Running 3 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 3 tests from TestPublisherFixture__rmw_zoro_cpp
+[ RUN      ] TestPublisherFixture__rmw_zoro_cpp.test_publisher_nominal
+starting memory checking...
+stopping memory checking...
+[       OK ] TestPublisherFixture__rmw_zoro_cpp.test_publisher_nominal (482 ms)
+[ RUN      ] TestPublisherFixture__rmw_zoro_cpp.test_publisher_nominal_string
+starting memory checking...
+stopping memory checking...
+[       OK ] TestPublisherFixture__rmw_zoro_cpp.test_publisher_nominal_string (474 ms)
+[ RUN      ] TestPublisherFixture__rmw_zoro_cpp.test_publisher_init_fini
+starting memory checking...
+stopping memory checking...
+[       OK ] TestPublisherFixture__rmw_zoro_cpp.test_publisher_init_fini (474 ms)
+[----------] 3 tests from TestPublisherFixture__rmw_zoro_cpp (1430 ms total)
+
+[----------] Global test environment tear-down
+[==========] 3 tests from 1 test case ran. (1430 ms total)
+[  PASSED  ] 3 tests.
+
+[ERROR][main][2018-04-19 18:31:52,765]
+
+>>> [rcutils|error_handling.c:155] rcutils_set_error_state()
+This error state is being overwritten:
+
+  'publisher argument is null, at /home/tusimple/xinliu/ros2_ws/src/ros2/rcl/rcl/src/rcl/publisher.c:256'
+
+with this new error message:
+
+  'publisher implementation is invalid, at /home/tusimple/xinliu/ros2_ws/src/ros2/rcl/rcl/src/rcl/publisher.c:258'
+
+rcutils_reset_error() should be called after error handling to avoid this.
+<<<
+[rcutils|error_handling.c:109] failed to allocate memory for the error state struct
+
+[DEBUG][main][2018-04-19 18:31:55,801]
+start running : test_get_node_names__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:55,801]
+Running main() from gtest_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from TestGetNodeNames__rmw_zoro_cpp
+[ RUN      ] TestGetNodeNames__rmw_zoro_cpp.test_rcl_get_node_names
+starting memory checking...
+stopping memory checking...
+[       OK ] TestGetNodeNames__rmw_zoro_cpp.test_rcl_get_node_names (1019 ms)
+[----------] 1 test from TestGetNodeNames__rmw_zoro_cpp (1019 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (1019 ms total)
+[  PASSED  ] 1 test.
+
+[DEBUG][main][2018-04-19 18:31:57,888]
+start running : test_wait__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:57,889]
+Running main() from gtest_main.cc
+[==========] Running 9 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 9 tests from WaitSetTestFixture__rmw_zoro_cpp
+[ RUN      ] WaitSetTestFixture__rmw_zoro_cpp.test_resize_to_zero
+[       OK ] WaitSetTestFixture__rmw_zoro_cpp.test_resize_to_zero (4 ms)
+[ RUN      ] WaitSetTestFixture__rmw_zoro_cpp.finite_timeout
+[       OK ] WaitSetTestFixture__rmw_zoro_cpp.finite_timeout (10 ms)
+[ RUN      ] WaitSetTestFixture__rmw_zoro_cpp.negative_timeout
+[       OK ] WaitSetTestFixture__rmw_zoro_cpp.negative_timeout (11 ms)
+[ RUN      ] WaitSetTestFixture__rmw_zoro_cpp.zero_timeout
+[       OK ] WaitSetTestFixture__rmw_zoro_cpp.zero_timeout (0 ms)
+[ RUN      ] WaitSetTestFixture__rmw_zoro_cpp.zero_timeout_triggered_guard_condition
+[       OK ] WaitSetTestFixture__rmw_zoro_cpp.zero_timeout_triggered_guard_condition (0 ms)
+[ RUN      ] WaitSetTestFixture__rmw_zoro_cpp.canceled_timer
+[       OK ] WaitSetTestFixture__rmw_zoro_cpp.canceled_timer (10 ms)
+[ RUN      ] WaitSetTestFixture__rmw_zoro_cpp.excess_capacity
+[       OK ] WaitSetTestFixture__rmw_zoro_cpp.excess_capacity (0 ms)
+[ RUN      ] WaitSetTestFixture__rmw_zoro_cpp.multi_wait_set_threaded
+[       OK ] WaitSetTestFixture__rmw_zoro_cpp.multi_wait_set_threaded (24 ms)
+[ RUN      ] WaitSetTestFixture__rmw_zoro_cpp.guard_condition
+[       OK ] WaitSetTestFixture__rmw_zoro_cpp.guard_condition (10 ms)
+[----------] 9 tests from WaitSetTestFixture__rmw_zoro_cpp (70 ms total)
+
+[----------] Global test environment tear-down
+[==========] 9 tests from 1 test case ran. (70 ms total)
+[  PASSED  ] 9 tests.
+
+[DEBUG][main][2018-04-19 18:31:59,904]
+start running : test_time__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:31:59,904]
+Running main() from gtest_main.cc
+[==========] Running 7 tests from 2 test cases.
+[----------] Global test environment set-up.
+[----------] 2 tests from TestTimeFixture__rmw_zoro_cpp
+[ RUN      ] TestTimeFixture__rmw_zoro_cpp.test_rcl_ros_time_set_override
+starting memory checking...
+stopping memory checking...
+[       OK ] TestTimeFixture__rmw_zoro_cpp.test_rcl_ros_time_set_override (0 ms)
+[ RUN      ] TestTimeFixture__rmw_zoro_cpp.test_rcl_init_for_clock_and_point
+starting memory checking...
+stopping memory checking...
+[       OK ] TestTimeFixture__rmw_zoro_cpp.test_rcl_init_for_clock_and_point (0 ms)
+[----------] 2 tests from TestTimeFixture__rmw_zoro_cpp (0 ms total)
+
+[----------] 5 tests from rcl_time__rmw_zoro_cpp
+[ RUN      ] rcl_time__rmw_zoro_cpp.clock_validation
+[       OK ] rcl_time__rmw_zoro_cpp.clock_validation (0 ms)
+[ RUN      ] rcl_time__rmw_zoro_cpp.default_clock_instanciation
+[       OK ] rcl_time__rmw_zoro_cpp.default_clock_instanciation (0 ms)
+[ RUN      ] rcl_time__rmw_zoro_cpp.specific_clock_instantiation
+[       OK ] rcl_time__rmw_zoro_cpp.specific_clock_instantiation (0 ms)
+[ RUN      ] rcl_time__rmw_zoro_cpp.rcl_time_difference
+[       OK ] rcl_time__rmw_zoro_cpp.rcl_time_difference (0 ms)
+[ RUN      ] rcl_time__rmw_zoro_cpp.rcl_time_update_callbacks
+[       OK ] rcl_time__rmw_zoro_cpp.rcl_time_update_callbacks (0 ms)
+[----------] 5 tests from rcl_time__rmw_zoro_cpp (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 7 tests from 2 test cases ran. (0 ms total)
+[  PASSED  ] 7 tests.
+
+[DEBUG][main][2018-04-19 18:32:06,901]
+start running : test_subscription__rmw_zoro_cpp
+[DEBUG][main][2018-04-19 18:32:06,901]
+Running main() from gtest_main.cc
+[==========] Running 2 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 2 tests from TestSubscriptionFixture__rmw_zoro_cpp
+[ RUN      ] TestSubscriptionFixture__rmw_zoro_cpp.test_subscription_nominal
+starting memory checking...
+stopping memory checking...
+[       OK ] TestSubscriptionFixture__rmw_zoro_cpp.test_subscription_nominal (2492 ms)
+[ RUN      ] TestSubscriptionFixture__rmw_zoro_cpp.test_subscription_nominal_string
+starting memory checking...
+stopping memory checking...
+[       OK ] TestSubscriptionFixture__rmw_zoro_cpp.test_subscription_nominal_string (2481 ms)
+[----------] 2 tests from TestSubscriptionFixture__rmw_zoro_cpp (4973 ms total)
+
+[----------] Global test environment tear-down
+[==========] 2 tests from 1 test case ran. (4973 ms total)
+[  PASSED  ] 2 tests.
+
+[DEBUG][main][2018-04-19 18:32:08,903]
+all test finished

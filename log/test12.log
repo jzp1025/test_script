@@ -1,0 +1,3614 @@
+[DEBUG][time_test][2018-04-18 18:25:20,694]Test : Time Test
+[DEBUG][time_test][2018-04-18 18:25:20,694]test begin , start run shell command :
+[INFO][time_test][2018-04-18 18:25:20,694]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/talker12_1
+[INFO][time_test][2018-04-18 18:25:20,696]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/talker12_2
+[INFO][time_test][2018-04-18 18:25:20,697]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/talker12_3
+[INFO][time_test][2018-04-18 18:25:20,698]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener12_1
+[INFO][time_test][2018-04-18 18:25:20,698]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener12_2
+[INFO][time_test][2018-04-18 18:25:20,699]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener12_3
+[DEBUG][time_test][2018-04-18 18:25:50,700]--------------Time Test Finished , Start Logging
+[DEBUG][time_test][2018-04-18 18:25:50,714]Logging talker12_1
+[INFO][time_test][2018-04-18 18:25:50,714]
+Publishing: "Hello World: 0AAAAAA"
+Publishing: "Hello World: 1AAAAAA"
+Publishing: "Hello World: 2AAAAAA"
+Publishing: "Hello World: 3AAAAAA"
+Publishing: "Hello World: 4AAAAAA"
+Publishing: "Hello World: 5AAAAAA"
+Publishing: "Hello World: 6AAAAAA"
+Publishing: "Hello World: 7AAAAAA"
+Publishing: "Hello World: 8AAAAAA"
+Publishing: "Hello World: 9AAAAAA"
+Publishing: "Hello World: 10AAAAA"
+Publishing: "Hello World: 11AAAAA"
+Publishing: "Hello World: 12AAAAA"
+Publishing: "Hello World: 13AAAAA"
+Publishing: "Hello World: 14AAAAA"
+Publishing: "Hello World: 15AAAAA"
+Publishing: "Hello World: 16AAAAA"
+Publishing: "Hello World: 17AAAAA"
+Publishing: "Hello World: 18AAAAA"
+Publishing: "Hello World: 19AAAAA"
+Publishing: "Hello World: 20AAAAA"
+Publishing: "Hello World: 21AAAAA"
+Publishing: "Hello World: 22AAAAA"
+Publishing: "Hello World: 23AAAAA"
+Publishing: "Hello World: 24AAAAA"
+Publishing: "Hello World: 25AAAAA"
+Publishing: "Hello World: 26AAAAA"
+Publishing: "Hello World: 27AAAAA"
+Publishing: "Hello World: 28AAAAA"
+Publishing: "Hello World: 29AAAAA"
+Publishing: "Hello World: 30AAAAA"
+Publishing: "Hello World: 31AAAAA"
+Publishing: "Hello World: 32AAAAA"
+Publishing: "Hello World: 33AAAAA"
+Publishing: "Hello World: 34AAAAA"
+Publishing: "Hello World: 35AAAAA"
+Publishing: "Hello World: 36AAAAA"
+Publishing: "Hello World: 37AAAAA"
+Publishing: "Hello World: 38AAAAA"
+Publishing: "Hello World: 39AAAAA"
+Publishing: "Hello World: 40AAAAA"
+Publishing: "Hello World: 41AAAAA"
+Publishing: "Hello World: 42AAAAA"
+Publishing: "Hello World: 43AAAAA"
+Publishing: "Hello World: 44AAAAA"
+Publishing: "Hello World: 45AAAAA"
+Publishing: "Hello World: 46AAAAA"
+Publishing: "Hello World: 47AAAAA"
+Publishing: "Hello World: 48AAAAA"
+Publishing: "Hello World: 49AAAAA"
+Publishing: "Hello World: 50AAAAA"
+Publishing: "Hello World: 51AAAAA"
+Publishing: "Hello World: 52AAAAA"
+Publishing: "Hello World: 53AAAAA"
+Publishing: "Hello World: 54AAAAA"
+Publishing: "Hello World: 55AAAAA"
+Publishing: "Hello World: 56AAAAA"
+Publishing: "Hello World: 57AAAAA"
+Publishing: "Hello World: 58AAAAA"
+Publishing: "Hello World: 59AAAAA"
+Publishing: "Hello World: 60AAAAA"
+Publishing: "Hello World: 61AAAAA"
+Publishing: "Hello World: 62AAAAA"
+Publishing: "Hello World: 63AAAAA"
+Publishing: "Hello World: 64AAAAA"
+Publishing: "Hello World: 65AAAAA"
+Publishing: "Hello World: 66AAAAA"
+Publishing: "Hello World: 67AAAAA"
+Publishing: "Hello World: 68AAAAA"
+Publishing: "Hello World: 69AAAAA"
+Publishing: "Hello World: 70AAAAA"
+Publishing: "Hello World: 71AAAAA"
+Publishing: "Hello World: 72AAAAA"
+Publishing: "Hello World: 73AAAAA"
+Publishing: "Hello World: 74AAAAA"
+Publishing: "Hello World: 75AAAAA"
+Publishing: "Hello World: 76AAAAA"
+Publishing: "Hello World: 77AAAAA"
+Publishing: "Hello World: 78AAAAA"
+Publishing: "Hello World: 79AAAAA"
+Publishing: "Hello World: 80AAAAA"
+Publishing: "Hello World: 81AAAAA"
+Publishing: "Hello World: 82AAAAA"
+Publishing: "Hello World: 83AAAAA"
+Publishing: "Hello World: 84AAAAA"
+Publishing: "Hello World: 85AAAAA"
+Publishing: "Hello World: 86AAAAA"
+Publishing: "Hello World: 87AAAAA"
+Publishing: "Hello World: 88AAAAA"
+Publishing: "Hello World: 89AAAAA"
+Publishing: "Hello World: 90AAAAA"
+Publishing: "Hello World: 91AAAAA"
+Publishing: "Hello World: 92AAAAA"
+Publishing: "Hello World: 93AAAAA"
+Publishing: "Hello World: 94AAAAA"
+Publishing: "Hello World: 95AAAAA"
+Publishing: "Hello World: 96AAAAA"
+Publishing: "Hello World: 97AAAAA"
+Publishing: "Hello World: 98AAAAA"
+Publishing: "Hello World: 99AAAAA"
+Publishing: "Hello World: 100AAAA"
+Publishing: "Hello World: 101AAAA"
+Publishing: "Hello World: 102AAAA"
+Publishing: "Hello World: 103AAAA"
+Publishing: "Hello World: 104AAAA"
+Publishing: "Hello World: 105AAAA"
+Publishing: "Hello World: 106AAAA"
+Publishing: "Hello World: 107AAAA"
+Publishing: "Hello World: 108AAAA"
+Publishing: "Hello World: 109AAAA"
+Publishing: "Hello World: 110AAAA"
+Publishing: "Hello World: 111AAAA"
+Publishing: "Hello World: 112AAAA"
+Publishing: "Hello World: 113AAAA"
+Publishing: "Hello World: 114AAAA"
+Publishing: "Hello World: 115AAAA"
+Publishing: "Hello World: 116AAAA"
+Publishing: "Hello World: 117AAAA"
+Publishing: "Hello World: 118AAAA"
+Publishing: "Hello World: 119AAAA"
+Publishing: "Hello World: 120AAAA"
+Publishing: "Hello World: 121AAAA"
+Publishing: "Hello World: 122AAAA"
+Publishing: "Hello World: 123AAAA"
+Publishing: "Hello World: 124AAAA"
+Publishing: "Hello World: 125AAAA"
+Publishing: "Hello World: 126AAAA"
+Publishing: "Hello World: 127AAAA"
+Publishing: "Hello World: 128AAAA"
+Publishing: "Hello World: 129AAAA"
+Publishing: "Hello World: 130AAAA"
+Publishing: "Hello World: 131AAAA"
+Publishing: "Hello World: 132AAAA"
+Publishing: "Hello World: 133AAAA"
+Publishing: "Hello World: 134AAAA"
+Publishing: "Hello World: 135AAAA"
+Publishing: "Hello World: 136AAAA"
+Publishing: "Hello World: 137AAAA"
+Publishing: "Hello World: 138AAAA"
+Publishing: "Hello World: 139AAAA"
+Publishing: "Hello World: 140AAAA"
+Publishing: "Hello World: 141AAAA"
+Publishing: "Hello World: 142AAAA"
+Publishing: "Hello World: 143AAAA"
+Publishing: "Hello World: 144AAAA"
+Publishing: "Hello World: 145AAAA"
+Publishing: "Hello World: 146AAAA"
+Publishing: "Hello World: 147AAAA"
+Publishing: "Hello World: 148AAAA"
+Publishing: "Hello World: 149AAAA"
+Publishing: "Hello World: 150AAAA"
+Publishing: "Hello World: 151AAAA"
+Publishing: "Hello World: 152AAAA"
+Publishing: "Hello World: 153AAAA"
+Publishing: "Hello World: 154AAAA"
+Publishing: "Hello World: 155AAAA"
+Publishing: "Hello World: 156AAAA"
+Publishing: "Hello World: 157AAAA"
+Publishing: "Hello World: 158AAAA"
+Publishing: "Hello World: 159AAAA"
+Publishing: "Hello World: 160AAAA"
+Publishing: "Hello World: 161AAAA"
+Publishing: "Hello World: 162AAAA"
+Publishing: "Hello World: 163AAAA"
+Publishing: "Hello World: 164AAAA"
+Publishing: "Hello World: 165AAAA"
+Publishing: "Hello World: 166AAAA"
+Publishing: "Hello World: 167AAAA"
+Publishing: "Hello World: 168AAAA"
+Publishing: "Hello World: 169AAAA"
+Publishing: "Hello World: 170AAAA"
+Publishing: "Hello World: 171AAAA"
+Publishing: "Hello World: 172AAAA"
+Publishing: "Hello World: 173AAAA"
+Publishing: "Hello World: 174AAAA"
+Publishing: "Hello World: 175AAAA"
+Publishing: "Hello World: 176AAAA"
+Publishing: "Hello World: 177AAAA"
+Publishing: "Hello World: 178AAAA"
+Publishing: "Hello World: 179AAAA"
+Publishing: "Hello World: 180AAAA"
+Publishing: "Hello World: 181AAAA"
+Publishing: "Hello World: 182AAAA"
+Publishing: "Hello World: 183AAAA"
+Publishing: "Hello World: 184AAAA"
+Publishing: "Hello World: 185AAAA"
+Publishing: "Hello World: 186AAAA"
+Publishing: "Hello World: 187AAAA"
+Publishing: "Hello World: 188AAAA"
+Publishing: "Hello World: 189AAAA"
+Publishing: "Hello World: 190AAAA"
+Publishing: "Hello World: 191AAAA"
+Publishing: "Hello World: 192AAAA"
+Publishing: "Hello World: 193AAAA"
+Publishing: "Hello World: 194AAAA"
+Publishing: "Hello World: 195AAAA"
+Publishing: "Hello World: 196AAAA"
+Publishing: "Hello World: 197AAAA"
+Publishing: "Hello World: 198AAAA"
+Publishing: "Hello World: 199AAAA"
+Publishing: "Hello World: 200AAAA"
+Publishing: "Hello World: 201AAAA"
+Publishing: "Hello World: 202AAAA"
+Publishing: "Hello World: 203AAAA"
+Publishing: "Hello World: 204AAAA"
+Publishing: "Hello World: 205AAAA"
+Publishing: "Hello World: 206AAAA"
+Publishing: "Hello World: 207AAAA"
+Publishing: "Hello World: 208AAAA"
+Publishing: "Hello World: 209AAAA"
+Publishing: "Hello World: 210AAAA"
+Publishing: "Hello World: 211AAAA"
+Publishing: "Hello World: 212AAAA"
+Publishing: "Hello World: 213AAAA"
+Publishing: "Hello World: 214AAAA"
+Publishing: "Hello World: 215AAAA"
+Publishing: "Hello World: 216AAAA"
+Publishing: "Hello World: 217AAAA"
+Publishing: "Hello World: 218AAAA"
+Publishing: "Hello World: 219AAAA"
+Publishing: "Hello World: 220AAAA"
+Publishing: "Hello World: 221AAAA"
+Publishing: "Hello World: 222AAAA"
+Publishing: "Hello World: 223AAAA"
+Publishing: "Hello World: 224AAAA"
+Publishing: "Hello World: 225AAAA"
+Publishing: "Hello World: 226AAAA"
+Publishing: "Hello World: 227AAAA"
+Publishing: "Hello World: 228AAAA"
+Publishing: "Hello World: 229AAAA"
+Publishing: "Hello World: 230AAAA"
+Publishing: "Hello World: 231AAAA"
+Publishing: "Hello World: 232AAAA"
+Publishing: "Hello World: 233AAAA"
+Publishing: "Hello World: 234AAAA"
+Publishing: "Hello World: 235AAAA"
+Publishing: "Hello World: 236AAAA"
+Publishing: "Hello World: 237AAAA"
+Publishing: "Hello World: 238AAAA"
+Publishing: "Hello World: 239AAAA"
+Publishing: "Hello World: 240AAAA"
+Publishing: "Hello World: 241AAAA"
+Publishing: "Hello World: 242AAAA"
+Publishing: "Hello World: 243AAAA"
+Publishing: "Hello World: 244AAAA"
+Publishing: "Hello World: 245AAAA"
+Publishing: "Hello World: 246AAAA"
+Publishing: "Hello World: 247AAAA"
+Publishing: "Hello World: 248AAAA"
+Publishing: "Hello World: 249AAAA"
+Publishing: "Hello World: 250AAAA"
+Publishing: "Hello World: 251AAAA"
+Publishing: "Hello World: 252AAAA"
+Publishing: "Hello World: 253AAAA"
+Publishing: "Hello World: 254AAAA"
+Publishing: "Hello World: 255AAAA"
+Publishing: "Hello World: 256AAAA"
+Publishing: "Hello World: 257AAAA"
+Publishing: "Hello World: 258AAAA"
+Publishing: "Hello World: 259AAAA"
+Publishing: "Hello World: 260AAAA"
+Publishing: "Hello World: 261AAAA"
+Publishing: "Hello World: 262AAAA"
+Publishing: "Hello World: 263AAAA"
+Publishing: "Hello World: 264AAAA"
+Publishing: "Hello World: 265AAAA"
+Publishing: "Hello World: 266AAAA"
+Publishing: "Hello World: 267AAAA"
+Publishing: "Hello World: 268AAAA"
+Publishing: "Hello World: 269AAAA"
+Publishing: "Hello World: 270AAAA"
+Publishing: "Hello World: 271AAAA"
+Publishing: "Hello World: 272AAAA"
+Publishing: "Hello World: 273AAAA"
+Publishing: "Hello World: 274AAAA"
+Publishing: "Hello World: 275AAAA"
+Publishing: "Hello World: 276AAAA"
+Publishing: "Hello World: 277AAAA"
+Publishing: "Hello World: 278AAAA"
+Publishing: "Hello World: 279AAAA"
+Publishing: "Hello World: 280AAAA"
+Publishing: "Hello World: 281AAAA"
+Publishing: "Hello World: 282AAAA"
+Publishing: "Hello World: 283AAAA"
+Publishing: "Hello World: 284AAAA"
+Publishing: "Hello World: 285AAAA"
+Publishing: "Hello World: 286AAAA"
+Publishing: "Hello World: 287AAAA"
+Publishing: "Hello World: 288AAAA"
+Publishing: "Hello World: 289AAAA"
+Publishing: "Hello World: 290AAAA"
+Publishing: "Hello World: 291AAAA"
+Publishing: "Hello World: 292AAAA"
+Publishing: "Hello World: 293AAAA"
+Publishing: "Hello World: 294AAAA"
+Publishing: "Hello World: 295AAAA"
+Publishing: "Hello World: 296AAAA"
+Publishing: "Hello World: 297AAAA"
+Publishing: "Hello World: 298AAAA"
+Publishing: "Hello World: 299AAAA"
+Publishing: "Hello World: 300AAAA"
+Publishing: "Hello World: 301AAAA"
+Publishing: "Hello World: 302AAAA"
+Publishing: "Hello World: 303AAAA"
+Publishing: "Hello World: 304AAAA"
+Publishing: "Hello World: 305AAAA"
+Publishing: "Hello World: 306AAAA"
+Publishing: "Hello World: 307AAAA"
+Publishing: "Hello World: 308AAAA"
+Publishing: "Hello World: 309AAAA"
+Publishing: "Hello World: 310AAAA"
+Publishing: "Hello World: 311AAAA"
+Publishing: "Hello World: 312AAAA"
+Publishing: "Hello World: 313AAAA"
+Publishing: "Hello World: 314AAAA"
+Publishing: "Hello World: 315AAAA"
+Publishing: "Hello World: 316AAAA"
+Publishing: "Hello World: 317AAAA"
+Publishing: "Hello World: 318AAAA"
+Publishing: "Hello World: 319AAAA"
+Publishing: "Hello World: 320AAAA"
+Publishing: "Hello World: 321AAAA"
+Publishing: "Hello World: 322AAAA"
+Publishing: "Hello World: 323AAAA"
+Publishing: "Hello World: 324AAAA"
+Publishing: "Hello World: 325AAAA"
+Publishing: "Hello World: 326AAAA"
+Publishing: "Hello World: 327AAAA"
+Publishing: "Hello World: 328AAAA"
+Publishing: "Hello World: 329AAAA"
+Publishing: "Hello World: 330AAAA"
+Publishing: "Hello World: 331AAAA"
+Publishing: "Hello World: 332AAAA"
+Publishing: "Hello World: 333AAAA"
+Publishing: "Hello World: 334AAAA"
+Publishing: "Hello World: 335AAAA"
+Publishing: "Hello World: 336AAAA"
+Publishing: "Hello World: 337AAAA"
+Publishing: "Hello World: 338AAAA"
+Publishing: "Hello World: 339AAAA"
+Publishing: "Hello World: 340AAAA"
+Publishing: "Hello World: 341AAAA"
+Publishing: "Hello World: 342AAAA"
+Publishing: "Hello World: 343AAAA"
+Publishing: "Hello World: 344AAAA"
+Publishing: "Hello World: 345AAAA"
+Publishing: "Hello World: 346AAAA"
+Publishing: "Hello World: 347AAAA"
+Publishing: "Hello World: 348AAAA"
+Publishing: "Hello World: 349AAAA"
+Publishing: "Hello World: 350AAAA"
+Publishing: "Hello World: 351AAAA"
+Publishing: "Hello World: 352AAAA"
+Publishing: "Hello World: 353AAAA"
+Publishing: "Hello World: 354AAAA"
+Publishing: "Hello World: 355AAAA"
+Publishing: "Hello World: 356AAAA"
+Publishing: "Hello World: 357AAAA"
+Publishing: "Hello World: 358AAAA"
+Publishing: "Hello World: 359AAAA"
+Publishing: "Hello World: 360AAAA"
+Publishing: "Hello World: 361AAAA"
+Publishing: "Hello World: 362AAAA"
+Publishing: "Hello World: 363AAAA"
+Publishing: "Hello World: 364AAAA"
+Publishing: "Hello World: 365AAAA"
+Publishing: "Hello World: 366AAAA"
+Publishing: "Hello World: 367AAAA"
+Publishing: "Hello World: 368AAAA"
+Publishing: "Hello World: 369AAAA"
+Publishing: "Hello World: 370AAAA"
+Publishing: "Hello World: 371AAAA"
+Publishing: "Hello World: 372AAAA"
+Publishing: "Hello World: 373AAAA"
+Publishing: "Hello World: 374AAAA"
+Publishing: "Hello World: 375AAAA"
+Publishing: "Hello World: 376AAAA"
+Publishing: "Hello World: 377AAAA"
+Publishing: "Hello World: 378AAAA"
+Publishing: "Hello World: 379AAAA"
+Publishing: "Hello World: 380AAAA"
+Publishing: "Hello World: 381AAAA"
+Publishing: "Hello World: 382AAAA"
+Publishing: "Hello World: 383AAAA"
+Publishing: "Hello World: 384AAAA"
+Publishing: "Hello World: 385AAAA"
+Publishing: "Hello World: 386AAAA"
+Publishing: "Hello World: 387AAAA"
+Publishing: "Hello World: 388AAAA"
+Publishing: "Hello World: 389AAAA"
+Publishing: "Hello World: 390AAAA"
+Publishing: "Hello World: 391AAAA"
+Publishing: "Hello World: 392AAAA"
+Publishing: "Hello World: 393AAAA"
+Publishing: "Hello World: 394AAAA"
+Publishing: "Hello World: 395AAAA"
+Publishing: "Hello World: 396AAAA"
+Publishing: "Hello World: 397AAAA"
+Publishing: "Hello World: 398AAAA"
+Publishing: "Hello World: 399AAAA"
+Publishing: "Hello World: 400AAAA"
+Publishing: "Hello World: 401AAAA"
+Publishing: "Hello World: 402AAAA"
+Publishing: "Hello World: 403AAAA"
+Publishing: "Hello World: 404AAAA"
+Publishing: "Hello World: 405AAAA"
+Publishing: "Hello World: 406AAAA"
+Publishing: "Hello World: 407AAAA"
+Publishing: "Hello World: 408AAAA"
+Publishing: "Hello World: 409AAAA"
+Publishing: "Hello World: 410AAAA"
+Publishing: "Hello World: 411AAAA"
+Publishing: "Hello World: 412AAAA"
+Publishing: "Hello World: 413AAAA"
+Publishing: "Hello World: 414AAAA"
+Publishing: "Hello World: 415AAAA"
+Publishing: "Hello World: 416AAAA"
+Publishing: "Hello World: 417AAAA"
+Publishing: "Hello World: 418AAAA"
+Publishing: "Hello World: 419AAAA"
+Publishing: "Hello World: 420AAAA"
+Publishing: "Hello World: 421AAAA"
+Publishing: "Hello World: 422AAAA"
+Publishing: "Hello World: 423AAAA"
+Publishing: "Hello World: 424AAAA"
+Publishing: "Hello World: 425AAAA"
+Publishing: "Hello World: 426AAAA"
+Publishing: "Hello World: 427AAAA"
+Publishing: "Hello World: 428AAAA"
+Publishing: "Hello World: 429AAAA"
+Publishing: "Hello World: 430AAAA"
+Publishing: "Hello World: 431AAAA"
+Publishing: "Hello World: 432AAAA"
+Publishing: "Hello World: 433AAAA"
+Publishing: "Hello World: 434AAAA"
+Publishing: "Hello World: 435AAAA"
+Publishing: "Hello World: 436AAAA"
+Publishing: "Hello World: 437AAAA"
+Publishing: "Hello World: 438AAAA"
+Publishing: "Hello World: 439AAAA"
+Publishing: "Hello World: 440AAAA"
+Publishing: "Hello World: 441AAAA"
+Publishing: "Hello World: 442AAAA"
+Publishing: "Hello World: 443AAAA"
+Publishing: "Hello World: 444AAAA"
+Publishing: "Hello World: 445AAAA"
+Publishing: "Hello World: 446AAAA"
+Publishing: "Hello World: 447AAAA"
+Publishing: "Hello World: 448AAAA"
+Publishing: "Hello World: 449AAAA"
+Publishing: "Hello World: 450AAAA"
+Publishing: "Hello World: 451AAAA"
+Publishing: "Hello World: 452AAAA"
+Publishing: "Hello World: 453AAAA"
+Publishing: "Hello World: 454AAAA"
+Publishing: "Hello World: 455AAAA"
+Publishing: "Hello World: 456AAAA"
+Publishing: "Hello World: 457AAAA"
+Publishing: "Hello World: 458AAAA"
+Publishing: "Hello World: 459AAAA"
+Publishing: "Hello World: 460AAAA"
+Publishing: "Hello World: 461AAAA"
+Publishing: "Hello World: 462AAAA"
+Publishing: "Hello World: 463AAAA"
+Publishing: "Hello World: 464AAAA"
+Publishing: "Hello World: 465AAAA"
+Publishing: "Hello World: 466AAAA"
+Publishing: "Hello World: 467AAAA"
+Publishing: "Hello World: 468AAAA"
+Publishing: "Hello World: 469AAAA"
+Publishing: "Hello World: 470AAAA"
+Publishing: "Hello World: 471AAAA"
+Publishing: "Hello World: 472AAAA"
+Publishing: "Hello World: 473AAAA"
+Publishing: "Hello World: 474AAAA"
+Publishing: "Hello World: 475AAAA"
+Publishing: "Hello World: 476AAAA"
+Publishing: "Hello World: 477AAAA"
+Publishing: "Hello World: 478AAAA"
+Publishing: "Hello World: 479AAAA"
+Publishing: "Hello World: 480AAAA"
+Publishing: "Hello World: 481AAAA"
+Publishing: "Hello World: 482AAAA"
+Publishing: "Hello World: 483AAAA"
+Publishing: "Hello World: 484AAAA"
+Publishing: "Hello World: 485AAAA"
+Publishing: "Hello World: 486AAAA"
+Publishing: "Hello World: 487AAAA"
+Publishing: "Hello World: 488AAAA"
+Publishing: "Hello World: 489AAAA"
+Publishing: "Hello World: 490AAAA"
+Publishing: "Hello World: 491AAAA"
+Publishing: "Hello World: 492AAAA"
+Publishing: "Hello World: 493AAAA"
+Publishing: "Hello World: 494AAAA"
+Publishing: "Hello World: 495AAAA"
+Publishing: "Hello World: 496AAAA"
+Publishing: "Hello World: 497AAAA"
+Publishing: "Hello World: 498AAAA"
+Publishing: "Hello World: 499AAAA"
+Publishing: "Hello World: 500AAAA"
+Publishing: "Hello World: 501AAAA"
+Publishing: "Hello World: 502AAAA"
+Publishing: "Hello World: 503AAAA"
+Publishing: "Hello World: 504AAAA"
+Publishing: "Hello World: 505AAAA"
+Publishing: "Hello World: 506AAAA"
+Publishing: "Hello World: 507AAAA"
+Publishing: "Hello World: 508AAAA"
+Publishing: "Hello World: 509AAAA"
+Publishing: "Hello World: 510AAAA"
+Publishing: "Hello World: 511AAAA"
+Publishing: "Hello World: 512AAAA"
+Publishing: "Hello World: 513AAAA"
+Publishing: "Hello World: 514AAAA"
+Publishing: "Hello World: 515AAAA"
+Publishing: "Hello World: 516AAAA"
+Publishing: "Hello World: 517AAAA"
+Publishing: "Hello World: 518AAAA"
+Publishing: "Hello World: 519AAAA"
+Publishing: "Hello World: 520AAAA"
+Publishing: "Hello World: 521AAAA"
+Publishing: "Hello World: 522AAAA"
+Publishing: "Hello World: 523AAAA"
+Publishing: "Hello World: 524AAAA"
+Publishing: "Hello World: 525AAAA"
+Publishing: "Hello World: 526AAAA"
+Publishing: "Hello World: 527AAAA"
+Publishing: "Hello World: 528AAAA"
+Publishing: "Hello World: 529AAAA"
+Publishing: "Hello World: 530AAAA"
+Publishing: "Hello World: 531AAAA"
+Publishing: "Hello World: 532AAAA"
+Publishing: "Hello World: 533AAAA"
+Publishing: "Hello World: 534AAAA"
+Publishing: "Hello World: 535AAAA"
+Publishing: "Hello World: 536AAAA"
+Publishing: "Hello World: 537AAAA"
+Publishing: "Hello World: 538AAAA"
+Publishing: "Hello World: 539AAAA"
+Publishing: "Hello World: 540AAAA"
+Publishing: "Hello World: 541AAAA"
+Publishing: "Hello World: 542AAAA"
+Publishing: "Hello World: 543AAAA"
+Publishing: "Hello World: 544AAAA"
+Publishing: "Hello World: 545AAAA"
+Publishing: "Hello World: 546AAAA"
+Publishing: "Hello World: 547AAAA"
+Publishing: "Hello World: 548AAAA"
+Publishing: "Hello World: 549AAAA"
+Publishing: "Hello World: 550AAAA"
+Publishing: "Hello World: 551AAAA"
+Publishing: "Hello World: 552AAAA"
+Publishing: "Hello World: 553AAAA"
+Publishing: "Hello World: 554AAAA"
+Publishing: "Hello World: 555AAAA"
+Publishing: "Hello World: 556AAAA"
+Publishing: "Hello World: 557AAAA"
+Publishing: "Hello World: 558AAAA"
+Publishing: "Hello World: 559AAAA"
+Publishing: "Hello World: 560AAAA"
+Publishing: "Hello World: 561AAAA"
+Publishing: "Hello World: 562AAAA"
+Publishing: "Hello World: 563AAAA"
+Publishing: "Hello World: 564AAAA"
+Publishing: "Hello World: 565AAAA"
+Publishing: "Hello World: 566AAAA"
+Publishing: "Hello World: 567AAAA"
+Publishing: "Hello World: 568AAAA"
+Publishing: "Hello World: 569AAAA"
+Publishing: "Hello World: 570AAAA"
+Publishing: "Hello World: 571AAAA"
+Publishing: "Hello World: 572AAAA"
+Publishing: "Hello World: 573AAAA"
+Publishing: "Hello World: 574AAAA"
+Publishing: "Hello World: 575AAAA"
+Publishing: "Hello World: 576AAAA"
+Publishing: "Hello World: 577AAAA"
+Publishing: "Hello World: 578AAAA"
+Publishing: "Hello World: 579AAAA"
+Publishing: "Hello World: 580AAAA"
+
+[INFO][time_test][2018-04-18 18:25:50,714]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/talker12_1", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'talker12_1')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test12/talker12_1.py", line 36, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 442, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 431, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 355, in _wait_for_ready_callbacks
+    raise KeyboardInterrupt
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:25:50,727]Logging talker12_2
+[INFO][time_test][2018-04-18 18:25:50,727]
+Publishing: "Hello World: 0AAAAAA"
+Publishing: "Hello World: 1AAAAAA"
+Publishing: "Hello World: 2AAAAAA"
+Publishing: "Hello World: 3AAAAAA"
+Publishing: "Hello World: 4AAAAAA"
+Publishing: "Hello World: 5AAAAAA"
+Publishing: "Hello World: 6AAAAAA"
+Publishing: "Hello World: 7AAAAAA"
+Publishing: "Hello World: 8AAAAAA"
+Publishing: "Hello World: 9AAAAAA"
+Publishing: "Hello World: 10AAAAA"
+Publishing: "Hello World: 11AAAAA"
+Publishing: "Hello World: 12AAAAA"
+Publishing: "Hello World: 13AAAAA"
+Publishing: "Hello World: 14AAAAA"
+Publishing: "Hello World: 15AAAAA"
+Publishing: "Hello World: 16AAAAA"
+Publishing: "Hello World: 17AAAAA"
+Publishing: "Hello World: 18AAAAA"
+Publishing: "Hello World: 19AAAAA"
+Publishing: "Hello World: 20AAAAA"
+Publishing: "Hello World: 21AAAAA"
+Publishing: "Hello World: 22AAAAA"
+Publishing: "Hello World: 23AAAAA"
+Publishing: "Hello World: 24AAAAA"
+Publishing: "Hello World: 25AAAAA"
+Publishing: "Hello World: 26AAAAA"
+Publishing: "Hello World: 27AAAAA"
+Publishing: "Hello World: 28AAAAA"
+Publishing: "Hello World: 29AAAAA"
+Publishing: "Hello World: 30AAAAA"
+Publishing: "Hello World: 31AAAAA"
+Publishing: "Hello World: 32AAAAA"
+Publishing: "Hello World: 33AAAAA"
+Publishing: "Hello World: 34AAAAA"
+Publishing: "Hello World: 35AAAAA"
+Publishing: "Hello World: 36AAAAA"
+Publishing: "Hello World: 37AAAAA"
+Publishing: "Hello World: 38AAAAA"
+Publishing: "Hello World: 39AAAAA"
+Publishing: "Hello World: 40AAAAA"
+Publishing: "Hello World: 41AAAAA"
+Publishing: "Hello World: 42AAAAA"
+Publishing: "Hello World: 43AAAAA"
+Publishing: "Hello World: 44AAAAA"
+Publishing: "Hello World: 45AAAAA"
+Publishing: "Hello World: 46AAAAA"
+Publishing: "Hello World: 47AAAAA"
+Publishing: "Hello World: 48AAAAA"
+Publishing: "Hello World: 49AAAAA"
+Publishing: "Hello World: 50AAAAA"
+Publishing: "Hello World: 51AAAAA"
+Publishing: "Hello World: 52AAAAA"
+Publishing: "Hello World: 53AAAAA"
+Publishing: "Hello World: 54AAAAA"
+Publishing: "Hello World: 55AAAAA"
+Publishing: "Hello World: 56AAAAA"
+Publishing: "Hello World: 57AAAAA"
+Publishing: "Hello World: 58AAAAA"
+Publishing: "Hello World: 59AAAAA"
+Publishing: "Hello World: 60AAAAA"
+Publishing: "Hello World: 61AAAAA"
+Publishing: "Hello World: 62AAAAA"
+Publishing: "Hello World: 63AAAAA"
+Publishing: "Hello World: 64AAAAA"
+Publishing: "Hello World: 65AAAAA"
+Publishing: "Hello World: 66AAAAA"
+Publishing: "Hello World: 67AAAAA"
+Publishing: "Hello World: 68AAAAA"
+Publishing: "Hello World: 69AAAAA"
+Publishing: "Hello World: 70AAAAA"
+Publishing: "Hello World: 71AAAAA"
+Publishing: "Hello World: 72AAAAA"
+Publishing: "Hello World: 73AAAAA"
+Publishing: "Hello World: 74AAAAA"
+Publishing: "Hello World: 75AAAAA"
+Publishing: "Hello World: 76AAAAA"
+Publishing: "Hello World: 77AAAAA"
+Publishing: "Hello World: 78AAAAA"
+Publishing: "Hello World: 79AAAAA"
+Publishing: "Hello World: 80AAAAA"
+Publishing: "Hello World: 81AAAAA"
+Publishing: "Hello World: 82AAAAA"
+Publishing: "Hello World: 83AAAAA"
+Publishing: "Hello World: 84AAAAA"
+Publishing: "Hello World: 85AAAAA"
+Publishing: "Hello World: 86AAAAA"
+Publishing: "Hello World: 87AAAAA"
+Publishing: "Hello World: 88AAAAA"
+Publishing: "Hello World: 89AAAAA"
+Publishing: "Hello World: 90AAAAA"
+Publishing: "Hello World: 91AAAAA"
+Publishing: "Hello World: 92AAAAA"
+Publishing: "Hello World: 93AAAAA"
+Publishing: "Hello World: 94AAAAA"
+Publishing: "Hello World: 95AAAAA"
+Publishing: "Hello World: 96AAAAA"
+Publishing: "Hello World: 97AAAAA"
+Publishing: "Hello World: 98AAAAA"
+Publishing: "Hello World: 99AAAAA"
+Publishing: "Hello World: 100AAAA"
+Publishing: "Hello World: 101AAAA"
+Publishing: "Hello World: 102AAAA"
+Publishing: "Hello World: 103AAAA"
+Publishing: "Hello World: 104AAAA"
+Publishing: "Hello World: 105AAAA"
+Publishing: "Hello World: 106AAAA"
+Publishing: "Hello World: 107AAAA"
+Publishing: "Hello World: 108AAAA"
+Publishing: "Hello World: 109AAAA"
+Publishing: "Hello World: 110AAAA"
+Publishing: "Hello World: 111AAAA"
+Publishing: "Hello World: 112AAAA"
+Publishing: "Hello World: 113AAAA"
+Publishing: "Hello World: 114AAAA"
+Publishing: "Hello World: 115AAAA"
+Publishing: "Hello World: 116AAAA"
+Publishing: "Hello World: 117AAAA"
+Publishing: "Hello World: 118AAAA"
+Publishing: "Hello World: 119AAAA"
+Publishing: "Hello World: 120AAAA"
+Publishing: "Hello World: 121AAAA"
+Publishing: "Hello World: 122AAAA"
+Publishing: "Hello World: 123AAAA"
+Publishing: "Hello World: 124AAAA"
+Publishing: "Hello World: 125AAAA"
+Publishing: "Hello World: 126AAAA"
+Publishing: "Hello World: 127AAAA"
+Publishing: "Hello World: 128AAAA"
+Publishing: "Hello World: 129AAAA"
+Publishing: "Hello World: 130AAAA"
+Publishing: "Hello World: 131AAAA"
+Publishing: "Hello World: 132AAAA"
+Publishing: "Hello World: 133AAAA"
+Publishing: "Hello World: 134AAAA"
+Publishing: "Hello World: 135AAAA"
+Publishing: "Hello World: 136AAAA"
+Publishing: "Hello World: 137AAAA"
+Publishing: "Hello World: 138AAAA"
+Publishing: "Hello World: 139AAAA"
+Publishing: "Hello World: 140AAAA"
+Publishing: "Hello World: 141AAAA"
+Publishing: "Hello World: 142AAAA"
+Publishing: "Hello World: 143AAAA"
+Publishing: "Hello World: 144AAAA"
+Publishing: "Hello World: 145AAAA"
+Publishing: "Hello World: 146AAAA"
+Publishing: "Hello World: 147AAAA"
+Publishing: "Hello World: 148AAAA"
+Publishing: "Hello World: 149AAAA"
+Publishing: "Hello World: 150AAAA"
+Publishing: "Hello World: 151AAAA"
+Publishing: "Hello World: 152AAAA"
+Publishing: "Hello World: 153AAAA"
+Publishing: "Hello World: 154AAAA"
+Publishing: "Hello World: 155AAAA"
+Publishing: "Hello World: 156AAAA"
+Publishing: "Hello World: 157AAAA"
+Publishing: "Hello World: 158AAAA"
+Publishing: "Hello World: 159AAAA"
+Publishing: "Hello World: 160AAAA"
+Publishing: "Hello World: 161AAAA"
+Publishing: "Hello World: 162AAAA"
+Publishing: "Hello World: 163AAAA"
+Publishing: "Hello World: 164AAAA"
+Publishing: "Hello World: 165AAAA"
+Publishing: "Hello World: 166AAAA"
+Publishing: "Hello World: 167AAAA"
+Publishing: "Hello World: 168AAAA"
+Publishing: "Hello World: 169AAAA"
+Publishing: "Hello World: 170AAAA"
+Publishing: "Hello World: 171AAAA"
+Publishing: "Hello World: 172AAAA"
+Publishing: "Hello World: 173AAAA"
+Publishing: "Hello World: 174AAAA"
+Publishing: "Hello World: 175AAAA"
+Publishing: "Hello World: 176AAAA"
+Publishing: "Hello World: 177AAAA"
+Publishing: "Hello World: 178AAAA"
+Publishing: "Hello World: 179AAAA"
+Publishing: "Hello World: 180AAAA"
+Publishing: "Hello World: 181AAAA"
+Publishing: "Hello World: 182AAAA"
+Publishing: "Hello World: 183AAAA"
+Publishing: "Hello World: 184AAAA"
+Publishing: "Hello World: 185AAAA"
+Publishing: "Hello World: 186AAAA"
+Publishing: "Hello World: 187AAAA"
+Publishing: "Hello World: 188AAAA"
+Publishing: "Hello World: 189AAAA"
+Publishing: "Hello World: 190AAAA"
+Publishing: "Hello World: 191AAAA"
+Publishing: "Hello World: 192AAAA"
+Publishing: "Hello World: 193AAAA"
+Publishing: "Hello World: 194AAAA"
+Publishing: "Hello World: 195AAAA"
+Publishing: "Hello World: 196AAAA"
+Publishing: "Hello World: 197AAAA"
+Publishing: "Hello World: 198AAAA"
+Publishing: "Hello World: 199AAAA"
+Publishing: "Hello World: 200AAAA"
+Publishing: "Hello World: 201AAAA"
+Publishing: "Hello World: 202AAAA"
+Publishing: "Hello World: 203AAAA"
+Publishing: "Hello World: 204AAAA"
+Publishing: "Hello World: 205AAAA"
+Publishing: "Hello World: 206AAAA"
+Publishing: "Hello World: 207AAAA"
+Publishing: "Hello World: 208AAAA"
+Publishing: "Hello World: 209AAAA"
+Publishing: "Hello World: 210AAAA"
+Publishing: "Hello World: 211AAAA"
+Publishing: "Hello World: 212AAAA"
+Publishing: "Hello World: 213AAAA"
+Publishing: "Hello World: 214AAAA"
+Publishing: "Hello World: 215AAAA"
+Publishing: "Hello World: 216AAAA"
+Publishing: "Hello World: 217AAAA"
+Publishing: "Hello World: 218AAAA"
+Publishing: "Hello World: 219AAAA"
+Publishing: "Hello World: 220AAAA"
+Publishing: "Hello World: 221AAAA"
+Publishing: "Hello World: 222AAAA"
+Publishing: "Hello World: 223AAAA"
+Publishing: "Hello World: 224AAAA"
+Publishing: "Hello World: 225AAAA"
+Publishing: "Hello World: 226AAAA"
+Publishing: "Hello World: 227AAAA"
+Publishing: "Hello World: 228AAAA"
+Publishing: "Hello World: 229AAAA"
+Publishing: "Hello World: 230AAAA"
+Publishing: "Hello World: 231AAAA"
+Publishing: "Hello World: 232AAAA"
+Publishing: "Hello World: 233AAAA"
+Publishing: "Hello World: 234AAAA"
+Publishing: "Hello World: 235AAAA"
+Publishing: "Hello World: 236AAAA"
+Publishing: "Hello World: 237AAAA"
+Publishing: "Hello World: 238AAAA"
+Publishing: "Hello World: 239AAAA"
+Publishing: "Hello World: 240AAAA"
+Publishing: "Hello World: 241AAAA"
+Publishing: "Hello World: 242AAAA"
+Publishing: "Hello World: 243AAAA"
+Publishing: "Hello World: 244AAAA"
+Publishing: "Hello World: 245AAAA"
+Publishing: "Hello World: 246AAAA"
+Publishing: "Hello World: 247AAAA"
+Publishing: "Hello World: 248AAAA"
+Publishing: "Hello World: 249AAAA"
+Publishing: "Hello World: 250AAAA"
+Publishing: "Hello World: 251AAAA"
+Publishing: "Hello World: 252AAAA"
+Publishing: "Hello World: 253AAAA"
+Publishing: "Hello World: 254AAAA"
+Publishing: "Hello World: 255AAAA"
+Publishing: "Hello World: 256AAAA"
+Publishing: "Hello World: 257AAAA"
+Publishing: "Hello World: 258AAAA"
+Publishing: "Hello World: 259AAAA"
+Publishing: "Hello World: 260AAAA"
+Publishing: "Hello World: 261AAAA"
+Publishing: "Hello World: 262AAAA"
+Publishing: "Hello World: 263AAAA"
+Publishing: "Hello World: 264AAAA"
+Publishing: "Hello World: 265AAAA"
+Publishing: "Hello World: 266AAAA"
+Publishing: "Hello World: 267AAAA"
+Publishing: "Hello World: 268AAAA"
+Publishing: "Hello World: 269AAAA"
+Publishing: "Hello World: 270AAAA"
+Publishing: "Hello World: 271AAAA"
+Publishing: "Hello World: 272AAAA"
+Publishing: "Hello World: 273AAAA"
+Publishing: "Hello World: 274AAAA"
+Publishing: "Hello World: 275AAAA"
+Publishing: "Hello World: 276AAAA"
+Publishing: "Hello World: 277AAAA"
+Publishing: "Hello World: 278AAAA"
+Publishing: "Hello World: 279AAAA"
+Publishing: "Hello World: 280AAAA"
+Publishing: "Hello World: 281AAAA"
+Publishing: "Hello World: 282AAAA"
+Publishing: "Hello World: 283AAAA"
+Publishing: "Hello World: 284AAAA"
+Publishing: "Hello World: 285AAAA"
+Publishing: "Hello World: 286AAAA"
+Publishing: "Hello World: 287AAAA"
+Publishing: "Hello World: 288AAAA"
+Publishing: "Hello World: 289AAAA"
+Publishing: "Hello World: 290AAAA"
+Publishing: "Hello World: 291AAAA"
+Publishing: "Hello World: 292AAAA"
+Publishing: "Hello World: 293AAAA"
+Publishing: "Hello World: 294AAAA"
+Publishing: "Hello World: 295AAAA"
+Publishing: "Hello World: 296AAAA"
+Publishing: "Hello World: 297AAAA"
+Publishing: "Hello World: 298AAAA"
+Publishing: "Hello World: 299AAAA"
+Publishing: "Hello World: 300AAAA"
+Publishing: "Hello World: 301AAAA"
+Publishing: "Hello World: 302AAAA"
+Publishing: "Hello World: 303AAAA"
+Publishing: "Hello World: 304AAAA"
+Publishing: "Hello World: 305AAAA"
+Publishing: "Hello World: 306AAAA"
+Publishing: "Hello World: 307AAAA"
+Publishing: "Hello World: 308AAAA"
+Publishing: "Hello World: 309AAAA"
+Publishing: "Hello World: 310AAAA"
+Publishing: "Hello World: 311AAAA"
+Publishing: "Hello World: 312AAAA"
+Publishing: "Hello World: 313AAAA"
+Publishing: "Hello World: 314AAAA"
+Publishing: "Hello World: 315AAAA"
+Publishing: "Hello World: 316AAAA"
+Publishing: "Hello World: 317AAAA"
+Publishing: "Hello World: 318AAAA"
+Publishing: "Hello World: 319AAAA"
+Publishing: "Hello World: 320AAAA"
+Publishing: "Hello World: 321AAAA"
+Publishing: "Hello World: 322AAAA"
+Publishing: "Hello World: 323AAAA"
+Publishing: "Hello World: 324AAAA"
+Publishing: "Hello World: 325AAAA"
+Publishing: "Hello World: 326AAAA"
+Publishing: "Hello World: 327AAAA"
+Publishing: "Hello World: 328AAAA"
+Publishing: "Hello World: 329AAAA"
+Publishing: "Hello World: 330AAAA"
+Publishing: "Hello World: 331AAAA"
+Publishing: "Hello World: 332AAAA"
+Publishing: "Hello World: 333AAAA"
+Publishing: "Hello World: 334AAAA"
+Publishing: "Hello World: 335AAAA"
+Publishing: "Hello World: 336AAAA"
+Publishing: "Hello World: 337AAAA"
+Publishing: "Hello World: 338AAAA"
+Publishing: "Hello World: 339AAAA"
+Publishing: "Hello World: 340AAAA"
+Publishing: "Hello World: 341AAAA"
+Publishing: "Hello World: 342AAAA"
+Publishing: "Hello World: 343AAAA"
+Publishing: "Hello World: 344AAAA"
+Publishing: "Hello World: 345AAAA"
+Publishing: "Hello World: 346AAAA"
+Publishing: "Hello World: 347AAAA"
+Publishing: "Hello World: 348AAAA"
+Publishing: "Hello World: 349AAAA"
+Publishing: "Hello World: 350AAAA"
+Publishing: "Hello World: 351AAAA"
+Publishing: "Hello World: 352AAAA"
+Publishing: "Hello World: 353AAAA"
+Publishing: "Hello World: 354AAAA"
+Publishing: "Hello World: 355AAAA"
+Publishing: "Hello World: 356AAAA"
+Publishing: "Hello World: 357AAAA"
+Publishing: "Hello World: 358AAAA"
+Publishing: "Hello World: 359AAAA"
+Publishing: "Hello World: 360AAAA"
+Publishing: "Hello World: 361AAAA"
+Publishing: "Hello World: 362AAAA"
+Publishing: "Hello World: 363AAAA"
+Publishing: "Hello World: 364AAAA"
+Publishing: "Hello World: 365AAAA"
+Publishing: "Hello World: 366AAAA"
+Publishing: "Hello World: 367AAAA"
+Publishing: "Hello World: 368AAAA"
+Publishing: "Hello World: 369AAAA"
+Publishing: "Hello World: 370AAAA"
+Publishing: "Hello World: 371AAAA"
+Publishing: "Hello World: 372AAAA"
+Publishing: "Hello World: 373AAAA"
+Publishing: "Hello World: 374AAAA"
+Publishing: "Hello World: 375AAAA"
+Publishing: "Hello World: 376AAAA"
+Publishing: "Hello World: 377AAAA"
+Publishing: "Hello World: 378AAAA"
+Publishing: "Hello World: 379AAAA"
+Publishing: "Hello World: 380AAAA"
+Publishing: "Hello World: 381AAAA"
+Publishing: "Hello World: 382AAAA"
+Publishing: "Hello World: 383AAAA"
+Publishing: "Hello World: 384AAAA"
+Publishing: "Hello World: 385AAAA"
+Publishing: "Hello World: 386AAAA"
+Publishing: "Hello World: 387AAAA"
+Publishing: "Hello World: 388AAAA"
+Publishing: "Hello World: 389AAAA"
+Publishing: "Hello World: 390AAAA"
+Publishing: "Hello World: 391AAAA"
+Publishing: "Hello World: 392AAAA"
+Publishing: "Hello World: 393AAAA"
+Publishing: "Hello World: 394AAAA"
+Publishing: "Hello World: 395AAAA"
+Publishing: "Hello World: 396AAAA"
+Publishing: "Hello World: 397AAAA"
+Publishing: "Hello World: 398AAAA"
+Publishing: "Hello World: 399AAAA"
+Publishing: "Hello World: 400AAAA"
+Publishing: "Hello World: 401AAAA"
+Publishing: "Hello World: 402AAAA"
+Publishing: "Hello World: 403AAAA"
+Publishing: "Hello World: 404AAAA"
+Publishing: "Hello World: 405AAAA"
+Publishing: "Hello World: 406AAAA"
+Publishing: "Hello World: 407AAAA"
+Publishing: "Hello World: 408AAAA"
+Publishing: "Hello World: 409AAAA"
+Publishing: "Hello World: 410AAAA"
+Publishing: "Hello World: 411AAAA"
+Publishing: "Hello World: 412AAAA"
+Publishing: "Hello World: 413AAAA"
+Publishing: "Hello World: 414AAAA"
+Publishing: "Hello World: 415AAAA"
+Publishing: "Hello World: 416AAAA"
+Publishing: "Hello World: 417AAAA"
+Publishing: "Hello World: 418AAAA"
+Publishing: "Hello World: 419AAAA"
+Publishing: "Hello World: 420AAAA"
+Publishing: "Hello World: 421AAAA"
+Publishing: "Hello World: 422AAAA"
+Publishing: "Hello World: 423AAAA"
+Publishing: "Hello World: 424AAAA"
+Publishing: "Hello World: 425AAAA"
+Publishing: "Hello World: 426AAAA"
+Publishing: "Hello World: 427AAAA"
+Publishing: "Hello World: 428AAAA"
+Publishing: "Hello World: 429AAAA"
+Publishing: "Hello World: 430AAAA"
+Publishing: "Hello World: 431AAAA"
+Publishing: "Hello World: 432AAAA"
+Publishing: "Hello World: 433AAAA"
+Publishing: "Hello World: 434AAAA"
+Publishing: "Hello World: 435AAAA"
+Publishing: "Hello World: 436AAAA"
+Publishing: "Hello World: 437AAAA"
+Publishing: "Hello World: 438AAAA"
+Publishing: "Hello World: 439AAAA"
+Publishing: "Hello World: 440AAAA"
+Publishing: "Hello World: 441AAAA"
+Publishing: "Hello World: 442AAAA"
+Publishing: "Hello World: 443AAAA"
+Publishing: "Hello World: 444AAAA"
+Publishing: "Hello World: 445AAAA"
+Publishing: "Hello World: 446AAAA"
+Publishing: "Hello World: 447AAAA"
+Publishing: "Hello World: 448AAAA"
+Publishing: "Hello World: 449AAAA"
+Publishing: "Hello World: 450AAAA"
+Publishing: "Hello World: 451AAAA"
+Publishing: "Hello World: 452AAAA"
+Publishing: "Hello World: 453AAAA"
+Publishing: "Hello World: 454AAAA"
+Publishing: "Hello World: 455AAAA"
+Publishing: "Hello World: 456AAAA"
+Publishing: "Hello World: 457AAAA"
+Publishing: "Hello World: 458AAAA"
+Publishing: "Hello World: 459AAAA"
+Publishing: "Hello World: 460AAAA"
+Publishing: "Hello World: 461AAAA"
+Publishing: "Hello World: 462AAAA"
+Publishing: "Hello World: 463AAAA"
+Publishing: "Hello World: 464AAAA"
+Publishing: "Hello World: 465AAAA"
+Publishing: "Hello World: 466AAAA"
+Publishing: "Hello World: 467AAAA"
+Publishing: "Hello World: 468AAAA"
+Publishing: "Hello World: 469AAAA"
+Publishing: "Hello World: 470AAAA"
+Publishing: "Hello World: 471AAAA"
+Publishing: "Hello World: 472AAAA"
+Publishing: "Hello World: 473AAAA"
+Publishing: "Hello World: 474AAAA"
+Publishing: "Hello World: 475AAAA"
+Publishing: "Hello World: 476AAAA"
+Publishing: "Hello World: 477AAAA"
+Publishing: "Hello World: 478AAAA"
+Publishing: "Hello World: 479AAAA"
+Publishing: "Hello World: 480AAAA"
+Publishing: "Hello World: 481AAAA"
+Publishing: "Hello World: 482AAAA"
+Publishing: "Hello World: 483AAAA"
+Publishing: "Hello World: 484AAAA"
+Publishing: "Hello World: 485AAAA"
+Publishing: "Hello World: 486AAAA"
+Publishing: "Hello World: 487AAAA"
+Publishing: "Hello World: 488AAAA"
+Publishing: "Hello World: 489AAAA"
+Publishing: "Hello World: 490AAAA"
+Publishing: "Hello World: 491AAAA"
+Publishing: "Hello World: 492AAAA"
+Publishing: "Hello World: 493AAAA"
+Publishing: "Hello World: 494AAAA"
+Publishing: "Hello World: 495AAAA"
+Publishing: "Hello World: 496AAAA"
+Publishing: "Hello World: 497AAAA"
+Publishing: "Hello World: 498AAAA"
+Publishing: "Hello World: 499AAAA"
+Publishing: "Hello World: 500AAAA"
+Publishing: "Hello World: 501AAAA"
+Publishing: "Hello World: 502AAAA"
+Publishing: "Hello World: 503AAAA"
+Publishing: "Hello World: 504AAAA"
+Publishing: "Hello World: 505AAAA"
+Publishing: "Hello World: 506AAAA"
+Publishing: "Hello World: 507AAAA"
+Publishing: "Hello World: 508AAAA"
+Publishing: "Hello World: 509AAAA"
+Publishing: "Hello World: 510AAAA"
+Publishing: "Hello World: 511AAAA"
+Publishing: "Hello World: 512AAAA"
+Publishing: "Hello World: 513AAAA"
+Publishing: "Hello World: 514AAAA"
+Publishing: "Hello World: 515AAAA"
+Publishing: "Hello World: 516AAAA"
+Publishing: "Hello World: 517AAAA"
+Publishing: "Hello World: 518AAAA"
+Publishing: "Hello World: 519AAAA"
+Publishing: "Hello World: 520AAAA"
+Publishing: "Hello World: 521AAAA"
+Publishing: "Hello World: 522AAAA"
+Publishing: "Hello World: 523AAAA"
+Publishing: "Hello World: 524AAAA"
+Publishing: "Hello World: 525AAAA"
+Publishing: "Hello World: 526AAAA"
+Publishing: "Hello World: 527AAAA"
+Publishing: "Hello World: 528AAAA"
+Publishing: "Hello World: 529AAAA"
+Publishing: "Hello World: 530AAAA"
+Publishing: "Hello World: 531AAAA"
+Publishing: "Hello World: 532AAAA"
+Publishing: "Hello World: 533AAAA"
+Publishing: "Hello World: 534AAAA"
+Publishing: "Hello World: 535AAAA"
+Publishing: "Hello World: 536AAAA"
+Publishing: "Hello World: 537AAAA"
+Publishing: "Hello World: 538AAAA"
+Publishing: "Hello World: 539AAAA"
+Publishing: "Hello World: 540AAAA"
+Publishing: "Hello World: 541AAAA"
+Publishing: "Hello World: 542AAAA"
+Publishing: "Hello World: 543AAAA"
+Publishing: "Hello World: 544AAAA"
+Publishing: "Hello World: 545AAAA"
+Publishing: "Hello World: 546AAAA"
+Publishing: "Hello World: 547AAAA"
+Publishing: "Hello World: 548AAAA"
+Publishing: "Hello World: 549AAAA"
+Publishing: "Hello World: 550AAAA"
+Publishing: "Hello World: 551AAAA"
+Publishing: "Hello World: 552AAAA"
+Publishing: "Hello World: 553AAAA"
+Publishing: "Hello World: 554AAAA"
+Publishing: "Hello World: 555AAAA"
+Publishing: "Hello World: 556AAAA"
+Publishing: "Hello World: 557AAAA"
+Publishing: "Hello World: 558AAAA"
+Publishing: "Hello World: 559AAAA"
+Publishing: "Hello World: 560AAAA"
+Publishing: "Hello World: 561AAAA"
+Publishing: "Hello World: 562AAAA"
+Publishing: "Hello World: 563AAAA"
+Publishing: "Hello World: 564AAAA"
+Publishing: "Hello World: 565AAAA"
+Publishing: "Hello World: 566AAAA"
+Publishing: "Hello World: 567AAAA"
+Publishing: "Hello World: 568AAAA"
+Publishing: "Hello World: 569AAAA"
+Publishing: "Hello World: 570AAAA"
+Publishing: "Hello World: 571AAAA"
+Publishing: "Hello World: 572AAAA"
+Publishing: "Hello World: 573AAAA"
+Publishing: "Hello World: 574AAAA"
+Publishing: "Hello World: 575AAAA"
+Publishing: "Hello World: 576AAAA"
+Publishing: "Hello World: 577AAAA"
+Publishing: "Hello World: 578AAAA"
+Publishing: "Hello World: 579AAAA"
+Publishing: "Hello World: 580AAAA"
+
+[INFO][time_test][2018-04-18 18:25:50,728]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/talker12_2", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'talker12_2')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test12/talker12_2.py", line 36, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 442, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 431, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 355, in _wait_for_ready_callbacks
+    raise KeyboardInterrupt
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:25:50,741]Logging talker12_3
+[INFO][time_test][2018-04-18 18:25:50,742]
+Publishing: "Hello World: 0AAAAAA"
+Publishing: "Hello World: 1AAAAAA"
+Publishing: "Hello World: 2AAAAAA"
+Publishing: "Hello World: 3AAAAAA"
+Publishing: "Hello World: 4AAAAAA"
+Publishing: "Hello World: 5AAAAAA"
+Publishing: "Hello World: 6AAAAAA"
+Publishing: "Hello World: 7AAAAAA"
+Publishing: "Hello World: 8AAAAAA"
+Publishing: "Hello World: 9AAAAAA"
+Publishing: "Hello World: 10AAAAA"
+Publishing: "Hello World: 11AAAAA"
+Publishing: "Hello World: 12AAAAA"
+Publishing: "Hello World: 13AAAAA"
+Publishing: "Hello World: 14AAAAA"
+Publishing: "Hello World: 15AAAAA"
+Publishing: "Hello World: 16AAAAA"
+Publishing: "Hello World: 17AAAAA"
+Publishing: "Hello World: 18AAAAA"
+Publishing: "Hello World: 19AAAAA"
+Publishing: "Hello World: 20AAAAA"
+Publishing: "Hello World: 21AAAAA"
+Publishing: "Hello World: 22AAAAA"
+Publishing: "Hello World: 23AAAAA"
+Publishing: "Hello World: 24AAAAA"
+Publishing: "Hello World: 25AAAAA"
+Publishing: "Hello World: 26AAAAA"
+Publishing: "Hello World: 27AAAAA"
+Publishing: "Hello World: 28AAAAA"
+Publishing: "Hello World: 29AAAAA"
+Publishing: "Hello World: 30AAAAA"
+Publishing: "Hello World: 31AAAAA"
+Publishing: "Hello World: 32AAAAA"
+Publishing: "Hello World: 33AAAAA"
+Publishing: "Hello World: 34AAAAA"
+Publishing: "Hello World: 35AAAAA"
+Publishing: "Hello World: 36AAAAA"
+Publishing: "Hello World: 37AAAAA"
+Publishing: "Hello World: 38AAAAA"
+Publishing: "Hello World: 39AAAAA"
+Publishing: "Hello World: 40AAAAA"
+Publishing: "Hello World: 41AAAAA"
+Publishing: "Hello World: 42AAAAA"
+Publishing: "Hello World: 43AAAAA"
+Publishing: "Hello World: 44AAAAA"
+Publishing: "Hello World: 45AAAAA"
+Publishing: "Hello World: 46AAAAA"
+Publishing: "Hello World: 47AAAAA"
+Publishing: "Hello World: 48AAAAA"
+Publishing: "Hello World: 49AAAAA"
+Publishing: "Hello World: 50AAAAA"
+Publishing: "Hello World: 51AAAAA"
+Publishing: "Hello World: 52AAAAA"
+Publishing: "Hello World: 53AAAAA"
+Publishing: "Hello World: 54AAAAA"
+Publishing: "Hello World: 55AAAAA"
+Publishing: "Hello World: 56AAAAA"
+Publishing: "Hello World: 57AAAAA"
+Publishing: "Hello World: 58AAAAA"
+Publishing: "Hello World: 59AAAAA"
+Publishing: "Hello World: 60AAAAA"
+Publishing: "Hello World: 61AAAAA"
+Publishing: "Hello World: 62AAAAA"
+Publishing: "Hello World: 63AAAAA"
+Publishing: "Hello World: 64AAAAA"
+Publishing: "Hello World: 65AAAAA"
+Publishing: "Hello World: 66AAAAA"
+Publishing: "Hello World: 67AAAAA"
+Publishing: "Hello World: 68AAAAA"
+Publishing: "Hello World: 69AAAAA"
+Publishing: "Hello World: 70AAAAA"
+Publishing: "Hello World: 71AAAAA"
+Publishing: "Hello World: 72AAAAA"
+Publishing: "Hello World: 73AAAAA"
+Publishing: "Hello World: 74AAAAA"
+Publishing: "Hello World: 75AAAAA"
+Publishing: "Hello World: 76AAAAA"
+Publishing: "Hello World: 77AAAAA"
+Publishing: "Hello World: 78AAAAA"
+Publishing: "Hello World: 79AAAAA"
+Publishing: "Hello World: 80AAAAA"
+Publishing: "Hello World: 81AAAAA"
+Publishing: "Hello World: 82AAAAA"
+Publishing: "Hello World: 83AAAAA"
+Publishing: "Hello World: 84AAAAA"
+Publishing: "Hello World: 85AAAAA"
+Publishing: "Hello World: 86AAAAA"
+Publishing: "Hello World: 87AAAAA"
+Publishing: "Hello World: 88AAAAA"
+Publishing: "Hello World: 89AAAAA"
+Publishing: "Hello World: 90AAAAA"
+Publishing: "Hello World: 91AAAAA"
+Publishing: "Hello World: 92AAAAA"
+Publishing: "Hello World: 93AAAAA"
+Publishing: "Hello World: 94AAAAA"
+Publishing: "Hello World: 95AAAAA"
+Publishing: "Hello World: 96AAAAA"
+Publishing: "Hello World: 97AAAAA"
+Publishing: "Hello World: 98AAAAA"
+Publishing: "Hello World: 99AAAAA"
+Publishing: "Hello World: 100AAAA"
+Publishing: "Hello World: 101AAAA"
+Publishing: "Hello World: 102AAAA"
+Publishing: "Hello World: 103AAAA"
+Publishing: "Hello World: 104AAAA"
+Publishing: "Hello World: 105AAAA"
+Publishing: "Hello World: 106AAAA"
+Publishing: "Hello World: 107AAAA"
+Publishing: "Hello World: 108AAAA"
+Publishing: "Hello World: 109AAAA"
+Publishing: "Hello World: 110AAAA"
+Publishing: "Hello World: 111AAAA"
+Publishing: "Hello World: 112AAAA"
+Publishing: "Hello World: 113AAAA"
+Publishing: "Hello World: 114AAAA"
+Publishing: "Hello World: 115AAAA"
+Publishing: "Hello World: 116AAAA"
+Publishing: "Hello World: 117AAAA"
+Publishing: "Hello World: 118AAAA"
+Publishing: "Hello World: 119AAAA"
+Publishing: "Hello World: 120AAAA"
+Publishing: "Hello World: 121AAAA"
+Publishing: "Hello World: 122AAAA"
+Publishing: "Hello World: 123AAAA"
+Publishing: "Hello World: 124AAAA"
+Publishing: "Hello World: 125AAAA"
+Publishing: "Hello World: 126AAAA"
+Publishing: "Hello World: 127AAAA"
+Publishing: "Hello World: 128AAAA"
+Publishing: "Hello World: 129AAAA"
+Publishing: "Hello World: 130AAAA"
+Publishing: "Hello World: 131AAAA"
+Publishing: "Hello World: 132AAAA"
+Publishing: "Hello World: 133AAAA"
+Publishing: "Hello World: 134AAAA"
+Publishing: "Hello World: 135AAAA"
+Publishing: "Hello World: 136AAAA"
+Publishing: "Hello World: 137AAAA"
+Publishing: "Hello World: 138AAAA"
+Publishing: "Hello World: 139AAAA"
+Publishing: "Hello World: 140AAAA"
+Publishing: "Hello World: 141AAAA"
+Publishing: "Hello World: 142AAAA"
+Publishing: "Hello World: 143AAAA"
+Publishing: "Hello World: 144AAAA"
+Publishing: "Hello World: 145AAAA"
+Publishing: "Hello World: 146AAAA"
+Publishing: "Hello World: 147AAAA"
+Publishing: "Hello World: 148AAAA"
+Publishing: "Hello World: 149AAAA"
+Publishing: "Hello World: 150AAAA"
+Publishing: "Hello World: 151AAAA"
+Publishing: "Hello World: 152AAAA"
+Publishing: "Hello World: 153AAAA"
+Publishing: "Hello World: 154AAAA"
+Publishing: "Hello World: 155AAAA"
+Publishing: "Hello World: 156AAAA"
+Publishing: "Hello World: 157AAAA"
+Publishing: "Hello World: 158AAAA"
+Publishing: "Hello World: 159AAAA"
+Publishing: "Hello World: 160AAAA"
+Publishing: "Hello World: 161AAAA"
+Publishing: "Hello World: 162AAAA"
+Publishing: "Hello World: 163AAAA"
+Publishing: "Hello World: 164AAAA"
+Publishing: "Hello World: 165AAAA"
+Publishing: "Hello World: 166AAAA"
+Publishing: "Hello World: 167AAAA"
+Publishing: "Hello World: 168AAAA"
+Publishing: "Hello World: 169AAAA"
+Publishing: "Hello World: 170AAAA"
+Publishing: "Hello World: 171AAAA"
+Publishing: "Hello World: 172AAAA"
+Publishing: "Hello World: 173AAAA"
+Publishing: "Hello World: 174AAAA"
+Publishing: "Hello World: 175AAAA"
+Publishing: "Hello World: 176AAAA"
+Publishing: "Hello World: 177AAAA"
+Publishing: "Hello World: 178AAAA"
+Publishing: "Hello World: 179AAAA"
+Publishing: "Hello World: 180AAAA"
+Publishing: "Hello World: 181AAAA"
+Publishing: "Hello World: 182AAAA"
+Publishing: "Hello World: 183AAAA"
+Publishing: "Hello World: 184AAAA"
+Publishing: "Hello World: 185AAAA"
+Publishing: "Hello World: 186AAAA"
+Publishing: "Hello World: 187AAAA"
+Publishing: "Hello World: 188AAAA"
+Publishing: "Hello World: 189AAAA"
+Publishing: "Hello World: 190AAAA"
+Publishing: "Hello World: 191AAAA"
+Publishing: "Hello World: 192AAAA"
+Publishing: "Hello World: 193AAAA"
+Publishing: "Hello World: 194AAAA"
+Publishing: "Hello World: 195AAAA"
+Publishing: "Hello World: 196AAAA"
+Publishing: "Hello World: 197AAAA"
+Publishing: "Hello World: 198AAAA"
+Publishing: "Hello World: 199AAAA"
+Publishing: "Hello World: 200AAAA"
+Publishing: "Hello World: 201AAAA"
+Publishing: "Hello World: 202AAAA"
+Publishing: "Hello World: 203AAAA"
+Publishing: "Hello World: 204AAAA"
+Publishing: "Hello World: 205AAAA"
+Publishing: "Hello World: 206AAAA"
+Publishing: "Hello World: 207AAAA"
+Publishing: "Hello World: 208AAAA"
+Publishing: "Hello World: 209AAAA"
+Publishing: "Hello World: 210AAAA"
+Publishing: "Hello World: 211AAAA"
+Publishing: "Hello World: 212AAAA"
+Publishing: "Hello World: 213AAAA"
+Publishing: "Hello World: 214AAAA"
+Publishing: "Hello World: 215AAAA"
+Publishing: "Hello World: 216AAAA"
+Publishing: "Hello World: 217AAAA"
+Publishing: "Hello World: 218AAAA"
+Publishing: "Hello World: 219AAAA"
+Publishing: "Hello World: 220AAAA"
+Publishing: "Hello World: 221AAAA"
+Publishing: "Hello World: 222AAAA"
+Publishing: "Hello World: 223AAAA"
+Publishing: "Hello World: 224AAAA"
+Publishing: "Hello World: 225AAAA"
+Publishing: "Hello World: 226AAAA"
+Publishing: "Hello World: 227AAAA"
+Publishing: "Hello World: 228AAAA"
+Publishing: "Hello World: 229AAAA"
+Publishing: "Hello World: 230AAAA"
+Publishing: "Hello World: 231AAAA"
+Publishing: "Hello World: 232AAAA"
+Publishing: "Hello World: 233AAAA"
+Publishing: "Hello World: 234AAAA"
+Publishing: "Hello World: 235AAAA"
+Publishing: "Hello World: 236AAAA"
+Publishing: "Hello World: 237AAAA"
+Publishing: "Hello World: 238AAAA"
+Publishing: "Hello World: 239AAAA"
+Publishing: "Hello World: 240AAAA"
+Publishing: "Hello World: 241AAAA"
+Publishing: "Hello World: 242AAAA"
+Publishing: "Hello World: 243AAAA"
+Publishing: "Hello World: 244AAAA"
+Publishing: "Hello World: 245AAAA"
+Publishing: "Hello World: 246AAAA"
+Publishing: "Hello World: 247AAAA"
+Publishing: "Hello World: 248AAAA"
+Publishing: "Hello World: 249AAAA"
+Publishing: "Hello World: 250AAAA"
+Publishing: "Hello World: 251AAAA"
+Publishing: "Hello World: 252AAAA"
+Publishing: "Hello World: 253AAAA"
+Publishing: "Hello World: 254AAAA"
+Publishing: "Hello World: 255AAAA"
+Publishing: "Hello World: 256AAAA"
+Publishing: "Hello World: 257AAAA"
+Publishing: "Hello World: 258AAAA"
+Publishing: "Hello World: 259AAAA"
+Publishing: "Hello World: 260AAAA"
+Publishing: "Hello World: 261AAAA"
+Publishing: "Hello World: 262AAAA"
+Publishing: "Hello World: 263AAAA"
+Publishing: "Hello World: 264AAAA"
+Publishing: "Hello World: 265AAAA"
+Publishing: "Hello World: 266AAAA"
+Publishing: "Hello World: 267AAAA"
+Publishing: "Hello World: 268AAAA"
+Publishing: "Hello World: 269AAAA"
+Publishing: "Hello World: 270AAAA"
+Publishing: "Hello World: 271AAAA"
+Publishing: "Hello World: 272AAAA"
+Publishing: "Hello World: 273AAAA"
+Publishing: "Hello World: 274AAAA"
+Publishing: "Hello World: 275AAAA"
+Publishing: "Hello World: 276AAAA"
+Publishing: "Hello World: 277AAAA"
+Publishing: "Hello World: 278AAAA"
+Publishing: "Hello World: 279AAAA"
+Publishing: "Hello World: 280AAAA"
+Publishing: "Hello World: 281AAAA"
+Publishing: "Hello World: 282AAAA"
+Publishing: "Hello World: 283AAAA"
+Publishing: "Hello World: 284AAAA"
+Publishing: "Hello World: 285AAAA"
+Publishing: "Hello World: 286AAAA"
+Publishing: "Hello World: 287AAAA"
+Publishing: "Hello World: 288AAAA"
+Publishing: "Hello World: 289AAAA"
+Publishing: "Hello World: 290AAAA"
+Publishing: "Hello World: 291AAAA"
+Publishing: "Hello World: 292AAAA"
+Publishing: "Hello World: 293AAAA"
+Publishing: "Hello World: 294AAAA"
+Publishing: "Hello World: 295AAAA"
+Publishing: "Hello World: 296AAAA"
+Publishing: "Hello World: 297AAAA"
+Publishing: "Hello World: 298AAAA"
+Publishing: "Hello World: 299AAAA"
+Publishing: "Hello World: 300AAAA"
+Publishing: "Hello World: 301AAAA"
+Publishing: "Hello World: 302AAAA"
+Publishing: "Hello World: 303AAAA"
+Publishing: "Hello World: 304AAAA"
+Publishing: "Hello World: 305AAAA"
+Publishing: "Hello World: 306AAAA"
+Publishing: "Hello World: 307AAAA"
+Publishing: "Hello World: 308AAAA"
+Publishing: "Hello World: 309AAAA"
+Publishing: "Hello World: 310AAAA"
+Publishing: "Hello World: 311AAAA"
+Publishing: "Hello World: 312AAAA"
+Publishing: "Hello World: 313AAAA"
+Publishing: "Hello World: 314AAAA"
+Publishing: "Hello World: 315AAAA"
+Publishing: "Hello World: 316AAAA"
+Publishing: "Hello World: 317AAAA"
+Publishing: "Hello World: 318AAAA"
+Publishing: "Hello World: 319AAAA"
+Publishing: "Hello World: 320AAAA"
+Publishing: "Hello World: 321AAAA"
+Publishing: "Hello World: 322AAAA"
+Publishing: "Hello World: 323AAAA"
+Publishing: "Hello World: 324AAAA"
+Publishing: "Hello World: 325AAAA"
+Publishing: "Hello World: 326AAAA"
+Publishing: "Hello World: 327AAAA"
+Publishing: "Hello World: 328AAAA"
+Publishing: "Hello World: 329AAAA"
+Publishing: "Hello World: 330AAAA"
+Publishing: "Hello World: 331AAAA"
+Publishing: "Hello World: 332AAAA"
+Publishing: "Hello World: 333AAAA"
+Publishing: "Hello World: 334AAAA"
+Publishing: "Hello World: 335AAAA"
+Publishing: "Hello World: 336AAAA"
+Publishing: "Hello World: 337AAAA"
+Publishing: "Hello World: 338AAAA"
+Publishing: "Hello World: 339AAAA"
+Publishing: "Hello World: 340AAAA"
+Publishing: "Hello World: 341AAAA"
+Publishing: "Hello World: 342AAAA"
+Publishing: "Hello World: 343AAAA"
+Publishing: "Hello World: 344AAAA"
+Publishing: "Hello World: 345AAAA"
+Publishing: "Hello World: 346AAAA"
+Publishing: "Hello World: 347AAAA"
+Publishing: "Hello World: 348AAAA"
+Publishing: "Hello World: 349AAAA"
+Publishing: "Hello World: 350AAAA"
+Publishing: "Hello World: 351AAAA"
+Publishing: "Hello World: 352AAAA"
+Publishing: "Hello World: 353AAAA"
+Publishing: "Hello World: 354AAAA"
+Publishing: "Hello World: 355AAAA"
+Publishing: "Hello World: 356AAAA"
+Publishing: "Hello World: 357AAAA"
+Publishing: "Hello World: 358AAAA"
+Publishing: "Hello World: 359AAAA"
+Publishing: "Hello World: 360AAAA"
+Publishing: "Hello World: 361AAAA"
+Publishing: "Hello World: 362AAAA"
+Publishing: "Hello World: 363AAAA"
+Publishing: "Hello World: 364AAAA"
+Publishing: "Hello World: 365AAAA"
+Publishing: "Hello World: 366AAAA"
+Publishing: "Hello World: 367AAAA"
+Publishing: "Hello World: 368AAAA"
+Publishing: "Hello World: 369AAAA"
+Publishing: "Hello World: 370AAAA"
+Publishing: "Hello World: 371AAAA"
+Publishing: "Hello World: 372AAAA"
+Publishing: "Hello World: 373AAAA"
+Publishing: "Hello World: 374AAAA"
+Publishing: "Hello World: 375AAAA"
+Publishing: "Hello World: 376AAAA"
+Publishing: "Hello World: 377AAAA"
+Publishing: "Hello World: 378AAAA"
+Publishing: "Hello World: 379AAAA"
+Publishing: "Hello World: 380AAAA"
+Publishing: "Hello World: 381AAAA"
+Publishing: "Hello World: 382AAAA"
+Publishing: "Hello World: 383AAAA"
+Publishing: "Hello World: 384AAAA"
+Publishing: "Hello World: 385AAAA"
+Publishing: "Hello World: 386AAAA"
+Publishing: "Hello World: 387AAAA"
+Publishing: "Hello World: 388AAAA"
+Publishing: "Hello World: 389AAAA"
+Publishing: "Hello World: 390AAAA"
+Publishing: "Hello World: 391AAAA"
+Publishing: "Hello World: 392AAAA"
+Publishing: "Hello World: 393AAAA"
+Publishing: "Hello World: 394AAAA"
+Publishing: "Hello World: 395AAAA"
+Publishing: "Hello World: 396AAAA"
+Publishing: "Hello World: 397AAAA"
+Publishing: "Hello World: 398AAAA"
+Publishing: "Hello World: 399AAAA"
+Publishing: "Hello World: 400AAAA"
+Publishing: "Hello World: 401AAAA"
+Publishing: "Hello World: 402AAAA"
+Publishing: "Hello World: 403AAAA"
+Publishing: "Hello World: 404AAAA"
+Publishing: "Hello World: 405AAAA"
+Publishing: "Hello World: 406AAAA"
+Publishing: "Hello World: 407AAAA"
+Publishing: "Hello World: 408AAAA"
+Publishing: "Hello World: 409AAAA"
+Publishing: "Hello World: 410AAAA"
+Publishing: "Hello World: 411AAAA"
+Publishing: "Hello World: 412AAAA"
+Publishing: "Hello World: 413AAAA"
+Publishing: "Hello World: 414AAAA"
+Publishing: "Hello World: 415AAAA"
+Publishing: "Hello World: 416AAAA"
+Publishing: "Hello World: 417AAAA"
+Publishing: "Hello World: 418AAAA"
+Publishing: "Hello World: 419AAAA"
+Publishing: "Hello World: 420AAAA"
+Publishing: "Hello World: 421AAAA"
+Publishing: "Hello World: 422AAAA"
+Publishing: "Hello World: 423AAAA"
+Publishing: "Hello World: 424AAAA"
+Publishing: "Hello World: 425AAAA"
+Publishing: "Hello World: 426AAAA"
+Publishing: "Hello World: 427AAAA"
+Publishing: "Hello World: 428AAAA"
+Publishing: "Hello World: 429AAAA"
+Publishing: "Hello World: 430AAAA"
+Publishing: "Hello World: 431AAAA"
+Publishing: "Hello World: 432AAAA"
+Publishing: "Hello World: 433AAAA"
+Publishing: "Hello World: 434AAAA"
+Publishing: "Hello World: 435AAAA"
+Publishing: "Hello World: 436AAAA"
+Publishing: "Hello World: 437AAAA"
+Publishing: "Hello World: 438AAAA"
+Publishing: "Hello World: 439AAAA"
+Publishing: "Hello World: 440AAAA"
+Publishing: "Hello World: 441AAAA"
+Publishing: "Hello World: 442AAAA"
+Publishing: "Hello World: 443AAAA"
+Publishing: "Hello World: 444AAAA"
+Publishing: "Hello World: 445AAAA"
+Publishing: "Hello World: 446AAAA"
+Publishing: "Hello World: 447AAAA"
+Publishing: "Hello World: 448AAAA"
+Publishing: "Hello World: 449AAAA"
+Publishing: "Hello World: 450AAAA"
+Publishing: "Hello World: 451AAAA"
+Publishing: "Hello World: 452AAAA"
+Publishing: "Hello World: 453AAAA"
+Publishing: "Hello World: 454AAAA"
+Publishing: "Hello World: 455AAAA"
+Publishing: "Hello World: 456AAAA"
+Publishing: "Hello World: 457AAAA"
+Publishing: "Hello World: 458AAAA"
+Publishing: "Hello World: 459AAAA"
+Publishing: "Hello World: 460AAAA"
+Publishing: "Hello World: 461AAAA"
+Publishing: "Hello World: 462AAAA"
+Publishing: "Hello World: 463AAAA"
+Publishing: "Hello World: 464AAAA"
+Publishing: "Hello World: 465AAAA"
+Publishing: "Hello World: 466AAAA"
+Publishing: "Hello World: 467AAAA"
+Publishing: "Hello World: 468AAAA"
+Publishing: "Hello World: 469AAAA"
+Publishing: "Hello World: 470AAAA"
+Publishing: "Hello World: 471AAAA"
+Publishing: "Hello World: 472AAAA"
+Publishing: "Hello World: 473AAAA"
+Publishing: "Hello World: 474AAAA"
+Publishing: "Hello World: 475AAAA"
+Publishing: "Hello World: 476AAAA"
+Publishing: "Hello World: 477AAAA"
+Publishing: "Hello World: 478AAAA"
+Publishing: "Hello World: 479AAAA"
+Publishing: "Hello World: 480AAAA"
+Publishing: "Hello World: 481AAAA"
+Publishing: "Hello World: 482AAAA"
+Publishing: "Hello World: 483AAAA"
+Publishing: "Hello World: 484AAAA"
+Publishing: "Hello World: 485AAAA"
+Publishing: "Hello World: 486AAAA"
+Publishing: "Hello World: 487AAAA"
+Publishing: "Hello World: 488AAAA"
+Publishing: "Hello World: 489AAAA"
+Publishing: "Hello World: 490AAAA"
+Publishing: "Hello World: 491AAAA"
+Publishing: "Hello World: 492AAAA"
+Publishing: "Hello World: 493AAAA"
+Publishing: "Hello World: 494AAAA"
+Publishing: "Hello World: 495AAAA"
+Publishing: "Hello World: 496AAAA"
+Publishing: "Hello World: 497AAAA"
+Publishing: "Hello World: 498AAAA"
+Publishing: "Hello World: 499AAAA"
+Publishing: "Hello World: 500AAAA"
+Publishing: "Hello World: 501AAAA"
+Publishing: "Hello World: 502AAAA"
+Publishing: "Hello World: 503AAAA"
+Publishing: "Hello World: 504AAAA"
+Publishing: "Hello World: 505AAAA"
+Publishing: "Hello World: 506AAAA"
+Publishing: "Hello World: 507AAAA"
+Publishing: "Hello World: 508AAAA"
+Publishing: "Hello World: 509AAAA"
+Publishing: "Hello World: 510AAAA"
+Publishing: "Hello World: 511AAAA"
+Publishing: "Hello World: 512AAAA"
+Publishing: "Hello World: 513AAAA"
+Publishing: "Hello World: 514AAAA"
+Publishing: "Hello World: 515AAAA"
+Publishing: "Hello World: 516AAAA"
+Publishing: "Hello World: 517AAAA"
+Publishing: "Hello World: 518AAAA"
+Publishing: "Hello World: 519AAAA"
+Publishing: "Hello World: 520AAAA"
+Publishing: "Hello World: 521AAAA"
+Publishing: "Hello World: 522AAAA"
+Publishing: "Hello World: 523AAAA"
+Publishing: "Hello World: 524AAAA"
+Publishing: "Hello World: 525AAAA"
+Publishing: "Hello World: 526AAAA"
+Publishing: "Hello World: 527AAAA"
+Publishing: "Hello World: 528AAAA"
+Publishing: "Hello World: 529AAAA"
+Publishing: "Hello World: 530AAAA"
+Publishing: "Hello World: 531AAAA"
+Publishing: "Hello World: 532AAAA"
+Publishing: "Hello World: 533AAAA"
+Publishing: "Hello World: 534AAAA"
+Publishing: "Hello World: 535AAAA"
+Publishing: "Hello World: 536AAAA"
+Publishing: "Hello World: 537AAAA"
+Publishing: "Hello World: 538AAAA"
+Publishing: "Hello World: 539AAAA"
+Publishing: "Hello World: 540AAAA"
+Publishing: "Hello World: 541AAAA"
+Publishing: "Hello World: 542AAAA"
+Publishing: "Hello World: 543AAAA"
+Publishing: "Hello World: 544AAAA"
+Publishing: "Hello World: 545AAAA"
+Publishing: "Hello World: 546AAAA"
+Publishing: "Hello World: 547AAAA"
+Publishing: "Hello World: 548AAAA"
+Publishing: "Hello World: 549AAAA"
+Publishing: "Hello World: 550AAAA"
+Publishing: "Hello World: 551AAAA"
+Publishing: "Hello World: 552AAAA"
+Publishing: "Hello World: 553AAAA"
+Publishing: "Hello World: 554AAAA"
+Publishing: "Hello World: 555AAAA"
+Publishing: "Hello World: 556AAAA"
+Publishing: "Hello World: 557AAAA"
+Publishing: "Hello World: 558AAAA"
+Publishing: "Hello World: 559AAAA"
+Publishing: "Hello World: 560AAAA"
+Publishing: "Hello World: 561AAAA"
+Publishing: "Hello World: 562AAAA"
+Publishing: "Hello World: 563AAAA"
+Publishing: "Hello World: 564AAAA"
+Publishing: "Hello World: 565AAAA"
+Publishing: "Hello World: 566AAAA"
+Publishing: "Hello World: 567AAAA"
+Publishing: "Hello World: 568AAAA"
+Publishing: "Hello World: 569AAAA"
+Publishing: "Hello World: 570AAAA"
+Publishing: "Hello World: 571AAAA"
+Publishing: "Hello World: 572AAAA"
+Publishing: "Hello World: 573AAAA"
+Publishing: "Hello World: 574AAAA"
+Publishing: "Hello World: 575AAAA"
+Publishing: "Hello World: 576AAAA"
+Publishing: "Hello World: 577AAAA"
+Publishing: "Hello World: 578AAAA"
+Publishing: "Hello World: 579AAAA"
+Publishing: "Hello World: 580AAAA"
+Publishing: "Hello World: 581AAAA"
+Publishing: "Hello World: 582AAAA"
+
+[INFO][time_test][2018-04-18 18:25:50,742]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/talker12_3", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'talker12_3')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test12/talker12_3.py", line 36, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 442, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 431, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 355, in _wait_for_ready_callbacks
+    raise KeyboardInterrupt
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:25:51,698]Logging listener12_1
+[INFO][time_test][2018-04-18 18:25:51,699]
+I heard: [Hello World: 0AAAAAA]
+I heard: [Hello World: 1AAAAAA]
+I heard: [Hello World: 2AAAAAA]
+I heard: [Hello World: 3AAAAAA]
+I heard: [Hello World: 4AAAAAA]
+I heard: [Hello World: 5AAAAAA]
+I heard: [Hello World: 6AAAAAA]
+I heard: [Hello World: 7AAAAAA]
+I heard: [Hello World: 8AAAAAA]
+I heard: [Hello World: 9AAAAAA]
+I heard: [Hello World: 10AAAAA]
+I heard: [Hello World: 11AAAAA]
+I heard: [Hello World: 12AAAAA]
+I heard: [Hello World: 13AAAAA]
+I heard: [Hello World: 14AAAAA]
+I heard: [Hello World: 15AAAAA]
+I heard: [Hello World: 16AAAAA]
+I heard: [Hello World: 17AAAAA]
+I heard: [Hello World: 18AAAAA]
+I heard: [Hello World: 19AAAAA]
+I heard: [Hello World: 20AAAAA]
+I heard: [Hello World: 21AAAAA]
+I heard: [Hello World: 22AAAAA]
+I heard: [Hello World: 23AAAAA]
+I heard: [Hello World: 24AAAAA]
+I heard: [Hello World: 25AAAAA]
+I heard: [Hello World: 26AAAAA]
+I heard: [Hello World: 27AAAAA]
+I heard: [Hello World: 28AAAAA]
+I heard: [Hello World: 29AAAAA]
+I heard: [Hello World: 30AAAAA]
+I heard: [Hello World: 31AAAAA]
+I heard: [Hello World: 32AAAAA]
+I heard: [Hello World: 33AAAAA]
+I heard: [Hello World: 34AAAAA]
+I heard: [Hello World: 35AAAAA]
+I heard: [Hello World: 36AAAAA]
+I heard: [Hello World: 37AAAAA]
+I heard: [Hello World: 38AAAAA]
+I heard: [Hello World: 39AAAAA]
+I heard: [Hello World: 40AAAAA]
+I heard: [Hello World: 41AAAAA]
+I heard: [Hello World: 42AAAAA]
+I heard: [Hello World: 43AAAAA]
+I heard: [Hello World: 44AAAAA]
+I heard: [Hello World: 45AAAAA]
+I heard: [Hello World: 46AAAAA]
+I heard: [Hello World: 47AAAAA]
+I heard: [Hello World: 48AAAAA]
+I heard: [Hello World: 49AAAAA]
+I heard: [Hello World: 50AAAAA]
+I heard: [Hello World: 51AAAAA]
+I heard: [Hello World: 52AAAAA]
+I heard: [Hello World: 53AAAAA]
+I heard: [Hello World: 54AAAAA]
+I heard: [Hello World: 55AAAAA]
+I heard: [Hello World: 56AAAAA]
+I heard: [Hello World: 57AAAAA]
+I heard: [Hello World: 58AAAAA]
+I heard: [Hello World: 59AAAAA]
+I heard: [Hello World: 60AAAAA]
+I heard: [Hello World: 61AAAAA]
+I heard: [Hello World: 62AAAAA]
+I heard: [Hello World: 63AAAAA]
+I heard: [Hello World: 64AAAAA]
+I heard: [Hello World: 65AAAAA]
+I heard: [Hello World: 66AAAAA]
+I heard: [Hello World: 67AAAAA]
+I heard: [Hello World: 68AAAAA]
+I heard: [Hello World: 69AAAAA]
+I heard: [Hello World: 70AAAAA]
+I heard: [Hello World: 71AAAAA]
+I heard: [Hello World: 72AAAAA]
+I heard: [Hello World: 73AAAAA]
+I heard: [Hello World: 74AAAAA]
+I heard: [Hello World: 75AAAAA]
+I heard: [Hello World: 76AAAAA]
+I heard: [Hello World: 77AAAAA]
+I heard: [Hello World: 78AAAAA]
+I heard: [Hello World: 79AAAAA]
+I heard: [Hello World: 80AAAAA]
+I heard: [Hello World: 81AAAAA]
+I heard: [Hello World: 82AAAAA]
+I heard: [Hello World: 83AAAAA]
+I heard: [Hello World: 84AAAAA]
+I heard: [Hello World: 85AAAAA]
+I heard: [Hello World: 86AAAAA]
+I heard: [Hello World: 87AAAAA]
+I heard: [Hello World: 88AAAAA]
+I heard: [Hello World: 89AAAAA]
+I heard: [Hello World: 90AAAAA]
+I heard: [Hello World: 91AAAAA]
+I heard: [Hello World: 92AAAAA]
+I heard: [Hello World: 93AAAAA]
+I heard: [Hello World: 94AAAAA]
+I heard: [Hello World: 95AAAAA]
+I heard: [Hello World: 96AAAAA]
+I heard: [Hello World: 97AAAAA]
+I heard: [Hello World: 98AAAAA]
+I heard: [Hello World: 99AAAAA]
+I heard: [Hello World: 100AAAA]
+I heard: [Hello World: 101AAAA]
+I heard: [Hello World: 102AAAA]
+I heard: [Hello World: 103AAAA]
+I heard: [Hello World: 104AAAA]
+I heard: [Hello World: 105AAAA]
+I heard: [Hello World: 106AAAA]
+I heard: [Hello World: 107AAAA]
+I heard: [Hello World: 108AAAA]
+I heard: [Hello World: 109AAAA]
+I heard: [Hello World: 110AAAA]
+I heard: [Hello World: 111AAAA]
+I heard: [Hello World: 112AAAA]
+I heard: [Hello World: 113AAAA]
+I heard: [Hello World: 114AAAA]
+I heard: [Hello World: 115AAAA]
+I heard: [Hello World: 116AAAA]
+I heard: [Hello World: 117AAAA]
+I heard: [Hello World: 118AAAA]
+I heard: [Hello World: 119AAAA]
+I heard: [Hello World: 120AAAA]
+I heard: [Hello World: 121AAAA]
+I heard: [Hello World: 122AAAA]
+I heard: [Hello World: 123AAAA]
+I heard: [Hello World: 124AAAA]
+I heard: [Hello World: 125AAAA]
+I heard: [Hello World: 126AAAA]
+I heard: [Hello World: 127AAAA]
+I heard: [Hello World: 128AAAA]
+I heard: [Hello World: 129AAAA]
+I heard: [Hello World: 130AAAA]
+I heard: [Hello World: 131AAAA]
+I heard: [Hello World: 132AAAA]
+I heard: [Hello World: 133AAAA]
+I heard: [Hello World: 134AAAA]
+I heard: [Hello World: 135AAAA]
+I heard: [Hello World: 136AAAA]
+I heard: [Hello World: 137AAAA]
+I heard: [Hello World: 138AAAA]
+I heard: [Hello World: 139AAAA]
+I heard: [Hello World: 140AAAA]
+I heard: [Hello World: 141AAAA]
+I heard: [Hello World: 142AAAA]
+I heard: [Hello World: 143AAAA]
+I heard: [Hello World: 144AAAA]
+I heard: [Hello World: 145AAAA]
+I heard: [Hello World: 146AAAA]
+I heard: [Hello World: 147AAAA]
+I heard: [Hello World: 148AAAA]
+I heard: [Hello World: 149AAAA]
+I heard: [Hello World: 150AAAA]
+I heard: [Hello World: 151AAAA]
+I heard: [Hello World: 152AAAA]
+I heard: [Hello World: 153AAAA]
+I heard: [Hello World: 154AAAA]
+I heard: [Hello World: 155AAAA]
+I heard: [Hello World: 156AAAA]
+I heard: [Hello World: 157AAAA]
+I heard: [Hello World: 158AAAA]
+I heard: [Hello World: 159AAAA]
+I heard: [Hello World: 160AAAA]
+I heard: [Hello World: 161AAAA]
+I heard: [Hello World: 162AAAA]
+I heard: [Hello World: 163AAAA]
+I heard: [Hello World: 164AAAA]
+I heard: [Hello World: 165AAAA]
+I heard: [Hello World: 166AAAA]
+I heard: [Hello World: 167AAAA]
+I heard: [Hello World: 168AAAA]
+I heard: [Hello World: 169AAAA]
+I heard: [Hello World: 170AAAA]
+I heard: [Hello World: 171AAAA]
+I heard: [Hello World: 172AAAA]
+I heard: [Hello World: 173AAAA]
+I heard: [Hello World: 174AAAA]
+I heard: [Hello World: 175AAAA]
+I heard: [Hello World: 176AAAA]
+I heard: [Hello World: 177AAAA]
+I heard: [Hello World: 178AAAA]
+I heard: [Hello World: 179AAAA]
+I heard: [Hello World: 180AAAA]
+I heard: [Hello World: 181AAAA]
+I heard: [Hello World: 182AAAA]
+I heard: [Hello World: 183AAAA]
+I heard: [Hello World: 184AAAA]
+I heard: [Hello World: 185AAAA]
+I heard: [Hello World: 186AAAA]
+I heard: [Hello World: 187AAAA]
+I heard: [Hello World: 188AAAA]
+I heard: [Hello World: 189AAAA]
+I heard: [Hello World: 190AAAA]
+I heard: [Hello World: 191AAAA]
+I heard: [Hello World: 192AAAA]
+I heard: [Hello World: 193AAAA]
+I heard: [Hello World: 194AAAA]
+I heard: [Hello World: 195AAAA]
+I heard: [Hello World: 196AAAA]
+I heard: [Hello World: 197AAAA]
+I heard: [Hello World: 198AAAA]
+I heard: [Hello World: 199AAAA]
+I heard: [Hello World: 200AAAA]
+I heard: [Hello World: 201AAAA]
+I heard: [Hello World: 202AAAA]
+I heard: [Hello World: 203AAAA]
+I heard: [Hello World: 204AAAA]
+I heard: [Hello World: 205AAAA]
+I heard: [Hello World: 206AAAA]
+I heard: [Hello World: 207AAAA]
+I heard: [Hello World: 208AAAA]
+I heard: [Hello World: 209AAAA]
+I heard: [Hello World: 210AAAA]
+I heard: [Hello World: 211AAAA]
+I heard: [Hello World: 212AAAA]
+I heard: [Hello World: 213AAAA]
+I heard: [Hello World: 214AAAA]
+I heard: [Hello World: 215AAAA]
+I heard: [Hello World: 216AAAA]
+I heard: [Hello World: 217AAAA]
+I heard: [Hello World: 218AAAA]
+I heard: [Hello World: 219AAAA]
+I heard: [Hello World: 220AAAA]
+I heard: [Hello World: 221AAAA]
+I heard: [Hello World: 222AAAA]
+I heard: [Hello World: 223AAAA]
+I heard: [Hello World: 224AAAA]
+I heard: [Hello World: 225AAAA]
+I heard: [Hello World: 226AAAA]
+I heard: [Hello World: 227AAAA]
+I heard: [Hello World: 228AAAA]
+I heard: [Hello World: 229AAAA]
+I heard: [Hello World: 230AAAA]
+I heard: [Hello World: 231AAAA]
+I heard: [Hello World: 232AAAA]
+I heard: [Hello World: 233AAAA]
+I heard: [Hello World: 234AAAA]
+I heard: [Hello World: 235AAAA]
+I heard: [Hello World: 236AAAA]
+I heard: [Hello World: 237AAAA]
+I heard: [Hello World: 238AAAA]
+I heard: [Hello World: 239AAAA]
+I heard: [Hello World: 240AAAA]
+I heard: [Hello World: 241AAAA]
+I heard: [Hello World: 242AAAA]
+I heard: [Hello World: 243AAAA]
+I heard: [Hello World: 244AAAA]
+I heard: [Hello World: 245AAAA]
+I heard: [Hello World: 246AAAA]
+I heard: [Hello World: 247AAAA]
+I heard: [Hello World: 248AAAA]
+I heard: [Hello World: 249AAAA]
+I heard: [Hello World: 250AAAA]
+I heard: [Hello World: 251AAAA]
+I heard: [Hello World: 252AAAA]
+I heard: [Hello World: 253AAAA]
+I heard: [Hello World: 254AAAA]
+I heard: [Hello World: 255AAAA]
+I heard: [Hello World: 256AAAA]
+I heard: [Hello World: 257AAAA]
+I heard: [Hello World: 258AAAA]
+I heard: [Hello World: 259AAAA]
+I heard: [Hello World: 260AAAA]
+I heard: [Hello World: 261AAAA]
+I heard: [Hello World: 262AAAA]
+I heard: [Hello World: 263AAAA]
+I heard: [Hello World: 264AAAA]
+I heard: [Hello World: 265AAAA]
+I heard: [Hello World: 266AAAA]
+I heard: [Hello World: 267AAAA]
+I heard: [Hello World: 268AAAA]
+I heard: [Hello World: 269AAAA]
+I heard: [Hello World: 270AAAA]
+I heard: [Hello World: 271AAAA]
+I heard: [Hello World: 272AAAA]
+I heard: [Hello World: 273AAAA]
+I heard: [Hello World: 274AAAA]
+I heard: [Hello World: 275AAAA]
+I heard: [Hello World: 276AAAA]
+I heard: [Hello World: 277AAAA]
+I heard: [Hello World: 278AAAA]
+I heard: [Hello World: 279AAAA]
+I heard: [Hello World: 280AAAA]
+I heard: [Hello World: 281AAAA]
+I heard: [Hello World: 282AAAA]
+I heard: [Hello World: 283AAAA]
+I heard: [Hello World: 284AAAA]
+I heard: [Hello World: 285AAAA]
+I heard: [Hello World: 286AAAA]
+I heard: [Hello World: 287AAAA]
+I heard: [Hello World: 288AAAA]
+I heard: [Hello World: 289AAAA]
+I heard: [Hello World: 290AAAA]
+I heard: [Hello World: 291AAAA]
+I heard: [Hello World: 292AAAA]
+I heard: [Hello World: 293AAAA]
+I heard: [Hello World: 294AAAA]
+I heard: [Hello World: 295AAAA]
+I heard: [Hello World: 296AAAA]
+I heard: [Hello World: 297AAAA]
+I heard: [Hello World: 298AAAA]
+I heard: [Hello World: 299AAAA]
+I heard: [Hello World: 300AAAA]
+I heard: [Hello World: 301AAAA]
+I heard: [Hello World: 302AAAA]
+I heard: [Hello World: 303AAAA]
+I heard: [Hello World: 304AAAA]
+I heard: [Hello World: 305AAAA]
+I heard: [Hello World: 306AAAA]
+I heard: [Hello World: 307AAAA]
+I heard: [Hello World: 308AAAA]
+I heard: [Hello World: 309AAAA]
+I heard: [Hello World: 310AAAA]
+I heard: [Hello World: 311AAAA]
+I heard: [Hello World: 312AAAA]
+I heard: [Hello World: 313AAAA]
+I heard: [Hello World: 314AAAA]
+I heard: [Hello World: 315AAAA]
+I heard: [Hello World: 316AAAA]
+I heard: [Hello World: 317AAAA]
+I heard: [Hello World: 318AAAA]
+I heard: [Hello World: 319AAAA]
+I heard: [Hello World: 320AAAA]
+I heard: [Hello World: 321AAAA]
+I heard: [Hello World: 322AAAA]
+I heard: [Hello World: 323AAAA]
+I heard: [Hello World: 324AAAA]
+I heard: [Hello World: 325AAAA]
+I heard: [Hello World: 326AAAA]
+I heard: [Hello World: 327AAAA]
+I heard: [Hello World: 328AAAA]
+I heard: [Hello World: 329AAAA]
+I heard: [Hello World: 330AAAA]
+I heard: [Hello World: 331AAAA]
+I heard: [Hello World: 332AAAA]
+I heard: [Hello World: 333AAAA]
+I heard: [Hello World: 334AAAA]
+I heard: [Hello World: 335AAAA]
+I heard: [Hello World: 336AAAA]
+I heard: [Hello World: 337AAAA]
+I heard: [Hello World: 338AAAA]
+I heard: [Hello World: 339AAAA]
+I heard: [Hello World: 340AAAA]
+I heard: [Hello World: 341AAAA]
+I heard: [Hello World: 342AAAA]
+I heard: [Hello World: 343AAAA]
+I heard: [Hello World: 344AAAA]
+I heard: [Hello World: 345AAAA]
+I heard: [Hello World: 346AAAA]
+I heard: [Hello World: 347AAAA]
+I heard: [Hello World: 348AAAA]
+I heard: [Hello World: 349AAAA]
+I heard: [Hello World: 350AAAA]
+I heard: [Hello World: 351AAAA]
+I heard: [Hello World: 352AAAA]
+I heard: [Hello World: 353AAAA]
+I heard: [Hello World: 354AAAA]
+I heard: [Hello World: 355AAAA]
+I heard: [Hello World: 356AAAA]
+I heard: [Hello World: 357AAAA]
+I heard: [Hello World: 358AAAA]
+I heard: [Hello World: 359AAAA]
+I heard: [Hello World: 360AAAA]
+I heard: [Hello World: 361AAAA]
+I heard: [Hello World: 362AAAA]
+I heard: [Hello World: 363AAAA]
+I heard: [Hello World: 364AAAA]
+I heard: [Hello World: 365AAAA]
+I heard: [Hello World: 366AAAA]
+I heard: [Hello World: 367AAAA]
+I heard: [Hello World: 368AAAA]
+I heard: [Hello World: 369AAAA]
+I heard: [Hello World: 370AAAA]
+I heard: [Hello World: 371AAAA]
+I heard: [Hello World: 372AAAA]
+I heard: [Hello World: 373AAAA]
+I heard: [Hello World: 374AAAA]
+I heard: [Hello World: 375AAAA]
+I heard: [Hello World: 376AAAA]
+I heard: [Hello World: 377AAAA]
+I heard: [Hello World: 378AAAA]
+I heard: [Hello World: 379AAAA]
+I heard: [Hello World: 380AAAA]
+I heard: [Hello World: 381AAAA]
+I heard: [Hello World: 382AAAA]
+I heard: [Hello World: 383AAAA]
+I heard: [Hello World: 384AAAA]
+I heard: [Hello World: 385AAAA]
+I heard: [Hello World: 386AAAA]
+I heard: [Hello World: 387AAAA]
+I heard: [Hello World: 388AAAA]
+I heard: [Hello World: 389AAAA]
+I heard: [Hello World: 390AAAA]
+I heard: [Hello World: 391AAAA]
+I heard: [Hello World: 392AAAA]
+I heard: [Hello World: 393AAAA]
+I heard: [Hello World: 394AAAA]
+I heard: [Hello World: 395AAAA]
+I heard: [Hello World: 396AAAA]
+I heard: [Hello World: 397AAAA]
+I heard: [Hello World: 398AAAA]
+I heard: [Hello World: 399AAAA]
+I heard: [Hello World: 400AAAA]
+I heard: [Hello World: 401AAAA]
+I heard: [Hello World: 402AAAA]
+I heard: [Hello World: 403AAAA]
+I heard: [Hello World: 404AAAA]
+I heard: [Hello World: 405AAAA]
+I heard: [Hello World: 406AAAA]
+I heard: [Hello World: 407AAAA]
+I heard: [Hello World: 408AAAA]
+I heard: [Hello World: 409AAAA]
+I heard: [Hello World: 410AAAA]
+I heard: [Hello World: 411AAAA]
+I heard: [Hello World: 412AAAA]
+I heard: [Hello World: 413AAAA]
+I heard: [Hello World: 414AAAA]
+I heard: [Hello World: 415AAAA]
+I heard: [Hello World: 416AAAA]
+I heard: [Hello World: 417AAAA]
+I heard: [Hello World: 418AAAA]
+I heard: [Hello World: 419AAAA]
+I heard: [Hello World: 420AAAA]
+I heard: [Hello World: 421AAAA]
+I heard: [Hello World: 422AAAA]
+I heard: [Hello World: 423AAAA]
+I heard: [Hello World: 424AAAA]
+I heard: [Hello World: 425AAAA]
+I heard: [Hello World: 426AAAA]
+I heard: [Hello World: 427AAAA]
+I heard: [Hello World: 428AAAA]
+I heard: [Hello World: 429AAAA]
+I heard: [Hello World: 430AAAA]
+I heard: [Hello World: 431AAAA]
+I heard: [Hello World: 432AAAA]
+I heard: [Hello World: 433AAAA]
+I heard: [Hello World: 434AAAA]
+I heard: [Hello World: 435AAAA]
+I heard: [Hello World: 436AAAA]
+I heard: [Hello World: 437AAAA]
+I heard: [Hello World: 438AAAA]
+I heard: [Hello World: 439AAAA]
+I heard: [Hello World: 440AAAA]
+I heard: [Hello World: 441AAAA]
+I heard: [Hello World: 442AAAA]
+I heard: [Hello World: 443AAAA]
+I heard: [Hello World: 444AAAA]
+I heard: [Hello World: 445AAAA]
+I heard: [Hello World: 446AAAA]
+I heard: [Hello World: 447AAAA]
+I heard: [Hello World: 448AAAA]
+I heard: [Hello World: 449AAAA]
+I heard: [Hello World: 450AAAA]
+I heard: [Hello World: 451AAAA]
+I heard: [Hello World: 452AAAA]
+I heard: [Hello World: 453AAAA]
+I heard: [Hello World: 454AAAA]
+I heard: [Hello World: 455AAAA]
+I heard: [Hello World: 456AAAA]
+I heard: [Hello World: 457AAAA]
+I heard: [Hello World: 458AAAA]
+I heard: [Hello World: 459AAAA]
+I heard: [Hello World: 460AAAA]
+I heard: [Hello World: 461AAAA]
+I heard: [Hello World: 462AAAA]
+I heard: [Hello World: 463AAAA]
+I heard: [Hello World: 464AAAA]
+I heard: [Hello World: 465AAAA]
+I heard: [Hello World: 466AAAA]
+I heard: [Hello World: 467AAAA]
+I heard: [Hello World: 468AAAA]
+I heard: [Hello World: 469AAAA]
+I heard: [Hello World: 470AAAA]
+I heard: [Hello World: 471AAAA]
+I heard: [Hello World: 472AAAA]
+I heard: [Hello World: 473AAAA]
+I heard: [Hello World: 474AAAA]
+I heard: [Hello World: 475AAAA]
+I heard: [Hello World: 476AAAA]
+I heard: [Hello World: 477AAAA]
+I heard: [Hello World: 478AAAA]
+I heard: [Hello World: 479AAAA]
+I heard: [Hello World: 480AAAA]
+I heard: [Hello World: 481AAAA]
+I heard: [Hello World: 482AAAA]
+I heard: [Hello World: 483AAAA]
+I heard: [Hello World: 484AAAA]
+I heard: [Hello World: 485AAAA]
+I heard: [Hello World: 486AAAA]
+I heard: [Hello World: 487AAAA]
+I heard: [Hello World: 488AAAA]
+I heard: [Hello World: 489AAAA]
+I heard: [Hello World: 490AAAA]
+I heard: [Hello World: 491AAAA]
+I heard: [Hello World: 492AAAA]
+I heard: [Hello World: 493AAAA]
+I heard: [Hello World: 494AAAA]
+I heard: [Hello World: 495AAAA]
+I heard: [Hello World: 496AAAA]
+I heard: [Hello World: 497AAAA]
+I heard: [Hello World: 498AAAA]
+I heard: [Hello World: 499AAAA]
+I heard: [Hello World: 500AAAA]
+I heard: [Hello World: 501AAAA]
+I heard: [Hello World: 502AAAA]
+I heard: [Hello World: 503AAAA]
+I heard: [Hello World: 504AAAA]
+I heard: [Hello World: 505AAAA]
+I heard: [Hello World: 506AAAA]
+I heard: [Hello World: 507AAAA]
+I heard: [Hello World: 508AAAA]
+I heard: [Hello World: 509AAAA]
+I heard: [Hello World: 510AAAA]
+I heard: [Hello World: 511AAAA]
+I heard: [Hello World: 512AAAA]
+I heard: [Hello World: 513AAAA]
+I heard: [Hello World: 514AAAA]
+I heard: [Hello World: 515AAAA]
+I heard: [Hello World: 516AAAA]
+I heard: [Hello World: 517AAAA]
+I heard: [Hello World: 518AAAA]
+I heard: [Hello World: 519AAAA]
+I heard: [Hello World: 520AAAA]
+I heard: [Hello World: 521AAAA]
+I heard: [Hello World: 522AAAA]
+I heard: [Hello World: 523AAAA]
+I heard: [Hello World: 524AAAA]
+I heard: [Hello World: 525AAAA]
+I heard: [Hello World: 526AAAA]
+I heard: [Hello World: 527AAAA]
+I heard: [Hello World: 528AAAA]
+I heard: [Hello World: 529AAAA]
+I heard: [Hello World: 530AAAA]
+I heard: [Hello World: 531AAAA]
+I heard: [Hello World: 532AAAA]
+I heard: [Hello World: 533AAAA]
+I heard: [Hello World: 534AAAA]
+I heard: [Hello World: 535AAAA]
+I heard: [Hello World: 536AAAA]
+I heard: [Hello World: 537AAAA]
+I heard: [Hello World: 538AAAA]
+I heard: [Hello World: 539AAAA]
+I heard: [Hello World: 540AAAA]
+I heard: [Hello World: 541AAAA]
+I heard: [Hello World: 542AAAA]
+I heard: [Hello World: 543AAAA]
+I heard: [Hello World: 544AAAA]
+I heard: [Hello World: 545AAAA]
+I heard: [Hello World: 546AAAA]
+I heard: [Hello World: 547AAAA]
+I heard: [Hello World: 548AAAA]
+I heard: [Hello World: 549AAAA]
+I heard: [Hello World: 550AAAA]
+I heard: [Hello World: 551AAAA]
+I heard: [Hello World: 552AAAA]
+I heard: [Hello World: 553AAAA]
+I heard: [Hello World: 554AAAA]
+I heard: [Hello World: 555AAAA]
+I heard: [Hello World: 556AAAA]
+I heard: [Hello World: 557AAAA]
+I heard: [Hello World: 558AAAA]
+I heard: [Hello World: 559AAAA]
+I heard: [Hello World: 560AAAA]
+I heard: [Hello World: 561AAAA]
+I heard: [Hello World: 562AAAA]
+I heard: [Hello World: 563AAAA]
+I heard: [Hello World: 564AAAA]
+I heard: [Hello World: 565AAAA]
+I heard: [Hello World: 566AAAA]
+I heard: [Hello World: 567AAAA]
+I heard: [Hello World: 568AAAA]
+I heard: [Hello World: 569AAAA]
+I heard: [Hello World: 570AAAA]
+I heard: [Hello World: 571AAAA]
+I heard: [Hello World: 572AAAA]
+I heard: [Hello World: 573AAAA]
+I heard: [Hello World: 574AAAA]
+I heard: [Hello World: 575AAAA]
+I heard: [Hello World: 576AAAA]
+I heard: [Hello World: 577AAAA]
+I heard: [Hello World: 578AAAA]
+I heard: [Hello World: 579AAAA]
+I heard: [Hello World: 580AAAA]
+
+[INFO][time_test][2018-04-18 18:25:51,699]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener12_1", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'listener12_1')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test12/listener12_1.py", line 27, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 442, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 431, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 355, in _wait_for_ready_callbacks
+    raise KeyboardInterrupt
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:25:52,694]Logging listener12_2
+[INFO][time_test][2018-04-18 18:25:52,694]
+I heard: [Hello World: 0AAAAAA]
+I heard: [Hello World: 1AAAAAA]
+I heard: [Hello World: 2AAAAAA]
+I heard: [Hello World: 3AAAAAA]
+I heard: [Hello World: 4AAAAAA]
+I heard: [Hello World: 5AAAAAA]
+I heard: [Hello World: 6AAAAAA]
+I heard: [Hello World: 7AAAAAA]
+I heard: [Hello World: 8AAAAAA]
+I heard: [Hello World: 9AAAAAA]
+I heard: [Hello World: 10AAAAA]
+I heard: [Hello World: 11AAAAA]
+I heard: [Hello World: 12AAAAA]
+I heard: [Hello World: 13AAAAA]
+I heard: [Hello World: 14AAAAA]
+I heard: [Hello World: 15AAAAA]
+I heard: [Hello World: 16AAAAA]
+I heard: [Hello World: 17AAAAA]
+I heard: [Hello World: 18AAAAA]
+I heard: [Hello World: 19AAAAA]
+I heard: [Hello World: 20AAAAA]
+I heard: [Hello World: 21AAAAA]
+I heard: [Hello World: 22AAAAA]
+I heard: [Hello World: 23AAAAA]
+I heard: [Hello World: 24AAAAA]
+I heard: [Hello World: 25AAAAA]
+I heard: [Hello World: 26AAAAA]
+I heard: [Hello World: 27AAAAA]
+I heard: [Hello World: 28AAAAA]
+I heard: [Hello World: 29AAAAA]
+I heard: [Hello World: 30AAAAA]
+I heard: [Hello World: 31AAAAA]
+I heard: [Hello World: 32AAAAA]
+I heard: [Hello World: 33AAAAA]
+I heard: [Hello World: 34AAAAA]
+I heard: [Hello World: 35AAAAA]
+I heard: [Hello World: 36AAAAA]
+I heard: [Hello World: 37AAAAA]
+I heard: [Hello World: 38AAAAA]
+I heard: [Hello World: 39AAAAA]
+I heard: [Hello World: 40AAAAA]
+I heard: [Hello World: 41AAAAA]
+I heard: [Hello World: 42AAAAA]
+I heard: [Hello World: 43AAAAA]
+I heard: [Hello World: 44AAAAA]
+I heard: [Hello World: 45AAAAA]
+I heard: [Hello World: 46AAAAA]
+I heard: [Hello World: 47AAAAA]
+I heard: [Hello World: 48AAAAA]
+I heard: [Hello World: 49AAAAA]
+I heard: [Hello World: 50AAAAA]
+I heard: [Hello World: 51AAAAA]
+I heard: [Hello World: 52AAAAA]
+I heard: [Hello World: 53AAAAA]
+I heard: [Hello World: 54AAAAA]
+I heard: [Hello World: 55AAAAA]
+I heard: [Hello World: 56AAAAA]
+I heard: [Hello World: 57AAAAA]
+I heard: [Hello World: 58AAAAA]
+I heard: [Hello World: 59AAAAA]
+I heard: [Hello World: 60AAAAA]
+I heard: [Hello World: 61AAAAA]
+I heard: [Hello World: 62AAAAA]
+I heard: [Hello World: 63AAAAA]
+I heard: [Hello World: 64AAAAA]
+I heard: [Hello World: 65AAAAA]
+I heard: [Hello World: 66AAAAA]
+I heard: [Hello World: 67AAAAA]
+I heard: [Hello World: 68AAAAA]
+I heard: [Hello World: 69AAAAA]
+I heard: [Hello World: 70AAAAA]
+I heard: [Hello World: 71AAAAA]
+I heard: [Hello World: 72AAAAA]
+I heard: [Hello World: 73AAAAA]
+I heard: [Hello World: 74AAAAA]
+I heard: [Hello World: 75AAAAA]
+I heard: [Hello World: 76AAAAA]
+I heard: [Hello World: 77AAAAA]
+I heard: [Hello World: 78AAAAA]
+I heard: [Hello World: 79AAAAA]
+I heard: [Hello World: 80AAAAA]
+I heard: [Hello World: 81AAAAA]
+I heard: [Hello World: 82AAAAA]
+I heard: [Hello World: 83AAAAA]
+I heard: [Hello World: 84AAAAA]
+I heard: [Hello World: 85AAAAA]
+I heard: [Hello World: 86AAAAA]
+I heard: [Hello World: 87AAAAA]
+I heard: [Hello World: 88AAAAA]
+I heard: [Hello World: 89AAAAA]
+I heard: [Hello World: 90AAAAA]
+I heard: [Hello World: 91AAAAA]
+I heard: [Hello World: 92AAAAA]
+I heard: [Hello World: 93AAAAA]
+I heard: [Hello World: 94AAAAA]
+I heard: [Hello World: 95AAAAA]
+I heard: [Hello World: 96AAAAA]
+I heard: [Hello World: 97AAAAA]
+I heard: [Hello World: 98AAAAA]
+I heard: [Hello World: 99AAAAA]
+I heard: [Hello World: 100AAAA]
+I heard: [Hello World: 101AAAA]
+I heard: [Hello World: 102AAAA]
+I heard: [Hello World: 103AAAA]
+I heard: [Hello World: 104AAAA]
+I heard: [Hello World: 105AAAA]
+I heard: [Hello World: 106AAAA]
+I heard: [Hello World: 107AAAA]
+I heard: [Hello World: 108AAAA]
+I heard: [Hello World: 109AAAA]
+I heard: [Hello World: 110AAAA]
+I heard: [Hello World: 111AAAA]
+I heard: [Hello World: 112AAAA]
+I heard: [Hello World: 113AAAA]
+I heard: [Hello World: 114AAAA]
+I heard: [Hello World: 115AAAA]
+I heard: [Hello World: 116AAAA]
+I heard: [Hello World: 117AAAA]
+I heard: [Hello World: 118AAAA]
+I heard: [Hello World: 119AAAA]
+I heard: [Hello World: 120AAAA]
+I heard: [Hello World: 121AAAA]
+I heard: [Hello World: 122AAAA]
+I heard: [Hello World: 123AAAA]
+I heard: [Hello World: 124AAAA]
+I heard: [Hello World: 125AAAA]
+I heard: [Hello World: 126AAAA]
+I heard: [Hello World: 127AAAA]
+I heard: [Hello World: 128AAAA]
+I heard: [Hello World: 129AAAA]
+I heard: [Hello World: 130AAAA]
+I heard: [Hello World: 131AAAA]
+I heard: [Hello World: 132AAAA]
+I heard: [Hello World: 133AAAA]
+I heard: [Hello World: 134AAAA]
+I heard: [Hello World: 135AAAA]
+I heard: [Hello World: 136AAAA]
+I heard: [Hello World: 137AAAA]
+I heard: [Hello World: 138AAAA]
+I heard: [Hello World: 139AAAA]
+I heard: [Hello World: 140AAAA]
+I heard: [Hello World: 141AAAA]
+I heard: [Hello World: 142AAAA]
+I heard: [Hello World: 143AAAA]
+I heard: [Hello World: 144AAAA]
+I heard: [Hello World: 145AAAA]
+I heard: [Hello World: 146AAAA]
+I heard: [Hello World: 147AAAA]
+I heard: [Hello World: 148AAAA]
+I heard: [Hello World: 149AAAA]
+I heard: [Hello World: 150AAAA]
+I heard: [Hello World: 151AAAA]
+I heard: [Hello World: 152AAAA]
+I heard: [Hello World: 153AAAA]
+I heard: [Hello World: 154AAAA]
+I heard: [Hello World: 155AAAA]
+I heard: [Hello World: 156AAAA]
+I heard: [Hello World: 157AAAA]
+I heard: [Hello World: 158AAAA]
+I heard: [Hello World: 159AAAA]
+I heard: [Hello World: 160AAAA]
+I heard: [Hello World: 161AAAA]
+I heard: [Hello World: 162AAAA]
+I heard: [Hello World: 163AAAA]
+I heard: [Hello World: 164AAAA]
+I heard: [Hello World: 165AAAA]
+I heard: [Hello World: 166AAAA]
+I heard: [Hello World: 167AAAA]
+I heard: [Hello World: 168AAAA]
+I heard: [Hello World: 169AAAA]
+I heard: [Hello World: 170AAAA]
+I heard: [Hello World: 171AAAA]
+I heard: [Hello World: 172AAAA]
+I heard: [Hello World: 173AAAA]
+I heard: [Hello World: 174AAAA]
+I heard: [Hello World: 175AAAA]
+I heard: [Hello World: 176AAAA]
+I heard: [Hello World: 177AAAA]
+I heard: [Hello World: 178AAAA]
+I heard: [Hello World: 179AAAA]
+I heard: [Hello World: 180AAAA]
+I heard: [Hello World: 181AAAA]
+I heard: [Hello World: 182AAAA]
+I heard: [Hello World: 183AAAA]
+I heard: [Hello World: 184AAAA]
+I heard: [Hello World: 185AAAA]
+I heard: [Hello World: 186AAAA]
+I heard: [Hello World: 187AAAA]
+I heard: [Hello World: 188AAAA]
+I heard: [Hello World: 189AAAA]
+I heard: [Hello World: 190AAAA]
+I heard: [Hello World: 191AAAA]
+I heard: [Hello World: 192AAAA]
+I heard: [Hello World: 193AAAA]
+I heard: [Hello World: 194AAAA]
+I heard: [Hello World: 195AAAA]
+I heard: [Hello World: 196AAAA]
+I heard: [Hello World: 197AAAA]
+I heard: [Hello World: 198AAAA]
+I heard: [Hello World: 199AAAA]
+I heard: [Hello World: 200AAAA]
+I heard: [Hello World: 201AAAA]
+I heard: [Hello World: 202AAAA]
+I heard: [Hello World: 203AAAA]
+I heard: [Hello World: 204AAAA]
+I heard: [Hello World: 205AAAA]
+I heard: [Hello World: 206AAAA]
+I heard: [Hello World: 207AAAA]
+I heard: [Hello World: 208AAAA]
+I heard: [Hello World: 209AAAA]
+I heard: [Hello World: 210AAAA]
+I heard: [Hello World: 211AAAA]
+I heard: [Hello World: 212AAAA]
+I heard: [Hello World: 213AAAA]
+I heard: [Hello World: 214AAAA]
+I heard: [Hello World: 215AAAA]
+I heard: [Hello World: 216AAAA]
+I heard: [Hello World: 217AAAA]
+I heard: [Hello World: 218AAAA]
+I heard: [Hello World: 219AAAA]
+I heard: [Hello World: 220AAAA]
+I heard: [Hello World: 221AAAA]
+I heard: [Hello World: 222AAAA]
+I heard: [Hello World: 223AAAA]
+I heard: [Hello World: 224AAAA]
+I heard: [Hello World: 225AAAA]
+I heard: [Hello World: 226AAAA]
+I heard: [Hello World: 227AAAA]
+I heard: [Hello World: 228AAAA]
+I heard: [Hello World: 229AAAA]
+I heard: [Hello World: 230AAAA]
+I heard: [Hello World: 231AAAA]
+I heard: [Hello World: 232AAAA]
+I heard: [Hello World: 233AAAA]
+I heard: [Hello World: 234AAAA]
+I heard: [Hello World: 235AAAA]
+I heard: [Hello World: 236AAAA]
+I heard: [Hello World: 237AAAA]
+I heard: [Hello World: 238AAAA]
+I heard: [Hello World: 239AAAA]
+I heard: [Hello World: 240AAAA]
+I heard: [Hello World: 241AAAA]
+I heard: [Hello World: 242AAAA]
+I heard: [Hello World: 243AAAA]
+I heard: [Hello World: 244AAAA]
+I heard: [Hello World: 245AAAA]
+I heard: [Hello World: 246AAAA]
+I heard: [Hello World: 247AAAA]
+I heard: [Hello World: 248AAAA]
+I heard: [Hello World: 249AAAA]
+I heard: [Hello World: 250AAAA]
+I heard: [Hello World: 251AAAA]
+I heard: [Hello World: 252AAAA]
+I heard: [Hello World: 253AAAA]
+I heard: [Hello World: 254AAAA]
+I heard: [Hello World: 255AAAA]
+I heard: [Hello World: 256AAAA]
+I heard: [Hello World: 257AAAA]
+I heard: [Hello World: 258AAAA]
+I heard: [Hello World: 259AAAA]
+I heard: [Hello World: 260AAAA]
+I heard: [Hello World: 261AAAA]
+I heard: [Hello World: 262AAAA]
+I heard: [Hello World: 263AAAA]
+I heard: [Hello World: 264AAAA]
+I heard: [Hello World: 265AAAA]
+I heard: [Hello World: 266AAAA]
+I heard: [Hello World: 267AAAA]
+I heard: [Hello World: 268AAAA]
+I heard: [Hello World: 269AAAA]
+I heard: [Hello World: 270AAAA]
+I heard: [Hello World: 271AAAA]
+I heard: [Hello World: 272AAAA]
+I heard: [Hello World: 273AAAA]
+I heard: [Hello World: 274AAAA]
+I heard: [Hello World: 275AAAA]
+I heard: [Hello World: 276AAAA]
+I heard: [Hello World: 277AAAA]
+I heard: [Hello World: 278AAAA]
+I heard: [Hello World: 279AAAA]
+I heard: [Hello World: 280AAAA]
+I heard: [Hello World: 281AAAA]
+I heard: [Hello World: 282AAAA]
+I heard: [Hello World: 283AAAA]
+I heard: [Hello World: 284AAAA]
+I heard: [Hello World: 285AAAA]
+I heard: [Hello World: 286AAAA]
+I heard: [Hello World: 287AAAA]
+I heard: [Hello World: 288AAAA]
+I heard: [Hello World: 289AAAA]
+I heard: [Hello World: 290AAAA]
+I heard: [Hello World: 291AAAA]
+I heard: [Hello World: 292AAAA]
+I heard: [Hello World: 293AAAA]
+I heard: [Hello World: 294AAAA]
+I heard: [Hello World: 295AAAA]
+I heard: [Hello World: 296AAAA]
+I heard: [Hello World: 297AAAA]
+I heard: [Hello World: 298AAAA]
+I heard: [Hello World: 299AAAA]
+I heard: [Hello World: 300AAAA]
+I heard: [Hello World: 301AAAA]
+I heard: [Hello World: 302AAAA]
+I heard: [Hello World: 303AAAA]
+I heard: [Hello World: 304AAAA]
+I heard: [Hello World: 305AAAA]
+I heard: [Hello World: 306AAAA]
+I heard: [Hello World: 307AAAA]
+I heard: [Hello World: 308AAAA]
+I heard: [Hello World: 309AAAA]
+I heard: [Hello World: 310AAAA]
+I heard: [Hello World: 311AAAA]
+I heard: [Hello World: 312AAAA]
+I heard: [Hello World: 313AAAA]
+I heard: [Hello World: 314AAAA]
+I heard: [Hello World: 315AAAA]
+I heard: [Hello World: 316AAAA]
+I heard: [Hello World: 317AAAA]
+I heard: [Hello World: 318AAAA]
+I heard: [Hello World: 319AAAA]
+I heard: [Hello World: 320AAAA]
+I heard: [Hello World: 321AAAA]
+I heard: [Hello World: 322AAAA]
+I heard: [Hello World: 323AAAA]
+I heard: [Hello World: 324AAAA]
+I heard: [Hello World: 325AAAA]
+I heard: [Hello World: 326AAAA]
+I heard: [Hello World: 327AAAA]
+I heard: [Hello World: 328AAAA]
+I heard: [Hello World: 329AAAA]
+I heard: [Hello World: 330AAAA]
+I heard: [Hello World: 331AAAA]
+I heard: [Hello World: 332AAAA]
+I heard: [Hello World: 333AAAA]
+I heard: [Hello World: 334AAAA]
+I heard: [Hello World: 335AAAA]
+I heard: [Hello World: 336AAAA]
+I heard: [Hello World: 337AAAA]
+I heard: [Hello World: 338AAAA]
+I heard: [Hello World: 339AAAA]
+I heard: [Hello World: 340AAAA]
+I heard: [Hello World: 341AAAA]
+I heard: [Hello World: 342AAAA]
+I heard: [Hello World: 343AAAA]
+I heard: [Hello World: 344AAAA]
+I heard: [Hello World: 345AAAA]
+I heard: [Hello World: 346AAAA]
+I heard: [Hello World: 347AAAA]
+I heard: [Hello World: 348AAAA]
+I heard: [Hello World: 349AAAA]
+I heard: [Hello World: 350AAAA]
+I heard: [Hello World: 351AAAA]
+I heard: [Hello World: 352AAAA]
+I heard: [Hello World: 353AAAA]
+I heard: [Hello World: 354AAAA]
+I heard: [Hello World: 355AAAA]
+I heard: [Hello World: 356AAAA]
+I heard: [Hello World: 357AAAA]
+I heard: [Hello World: 358AAAA]
+I heard: [Hello World: 359AAAA]
+I heard: [Hello World: 360AAAA]
+I heard: [Hello World: 361AAAA]
+I heard: [Hello World: 362AAAA]
+I heard: [Hello World: 363AAAA]
+I heard: [Hello World: 364AAAA]
+I heard: [Hello World: 365AAAA]
+I heard: [Hello World: 366AAAA]
+I heard: [Hello World: 367AAAA]
+I heard: [Hello World: 368AAAA]
+I heard: [Hello World: 369AAAA]
+I heard: [Hello World: 370AAAA]
+I heard: [Hello World: 371AAAA]
+I heard: [Hello World: 372AAAA]
+I heard: [Hello World: 373AAAA]
+I heard: [Hello World: 374AAAA]
+I heard: [Hello World: 375AAAA]
+I heard: [Hello World: 376AAAA]
+I heard: [Hello World: 377AAAA]
+I heard: [Hello World: 378AAAA]
+I heard: [Hello World: 379AAAA]
+I heard: [Hello World: 380AAAA]
+I heard: [Hello World: 381AAAA]
+I heard: [Hello World: 382AAAA]
+I heard: [Hello World: 383AAAA]
+I heard: [Hello World: 384AAAA]
+I heard: [Hello World: 385AAAA]
+I heard: [Hello World: 386AAAA]
+I heard: [Hello World: 387AAAA]
+I heard: [Hello World: 388AAAA]
+I heard: [Hello World: 389AAAA]
+I heard: [Hello World: 390AAAA]
+I heard: [Hello World: 391AAAA]
+I heard: [Hello World: 392AAAA]
+I heard: [Hello World: 393AAAA]
+I heard: [Hello World: 394AAAA]
+I heard: [Hello World: 395AAAA]
+I heard: [Hello World: 396AAAA]
+I heard: [Hello World: 397AAAA]
+I heard: [Hello World: 398AAAA]
+I heard: [Hello World: 399AAAA]
+I heard: [Hello World: 400AAAA]
+I heard: [Hello World: 401AAAA]
+I heard: [Hello World: 402AAAA]
+I heard: [Hello World: 403AAAA]
+I heard: [Hello World: 404AAAA]
+I heard: [Hello World: 405AAAA]
+I heard: [Hello World: 406AAAA]
+I heard: [Hello World: 407AAAA]
+I heard: [Hello World: 408AAAA]
+I heard: [Hello World: 409AAAA]
+I heard: [Hello World: 410AAAA]
+I heard: [Hello World: 411AAAA]
+I heard: [Hello World: 412AAAA]
+I heard: [Hello World: 413AAAA]
+I heard: [Hello World: 414AAAA]
+I heard: [Hello World: 415AAAA]
+I heard: [Hello World: 416AAAA]
+I heard: [Hello World: 417AAAA]
+I heard: [Hello World: 418AAAA]
+I heard: [Hello World: 419AAAA]
+I heard: [Hello World: 420AAAA]
+I heard: [Hello World: 421AAAA]
+I heard: [Hello World: 422AAAA]
+I heard: [Hello World: 423AAAA]
+I heard: [Hello World: 424AAAA]
+I heard: [Hello World: 425AAAA]
+I heard: [Hello World: 426AAAA]
+I heard: [Hello World: 427AAAA]
+I heard: [Hello World: 428AAAA]
+I heard: [Hello World: 429AAAA]
+I heard: [Hello World: 430AAAA]
+I heard: [Hello World: 431AAAA]
+I heard: [Hello World: 432AAAA]
+I heard: [Hello World: 433AAAA]
+I heard: [Hello World: 434AAAA]
+I heard: [Hello World: 435AAAA]
+I heard: [Hello World: 436AAAA]
+I heard: [Hello World: 437AAAA]
+I heard: [Hello World: 438AAAA]
+I heard: [Hello World: 439AAAA]
+I heard: [Hello World: 440AAAA]
+I heard: [Hello World: 441AAAA]
+I heard: [Hello World: 442AAAA]
+I heard: [Hello World: 443AAAA]
+I heard: [Hello World: 444AAAA]
+I heard: [Hello World: 445AAAA]
+I heard: [Hello World: 446AAAA]
+I heard: [Hello World: 447AAAA]
+I heard: [Hello World: 448AAAA]
+I heard: [Hello World: 449AAAA]
+I heard: [Hello World: 450AAAA]
+I heard: [Hello World: 451AAAA]
+I heard: [Hello World: 452AAAA]
+I heard: [Hello World: 453AAAA]
+I heard: [Hello World: 454AAAA]
+I heard: [Hello World: 455AAAA]
+I heard: [Hello World: 456AAAA]
+I heard: [Hello World: 457AAAA]
+I heard: [Hello World: 458AAAA]
+I heard: [Hello World: 459AAAA]
+I heard: [Hello World: 460AAAA]
+I heard: [Hello World: 461AAAA]
+I heard: [Hello World: 462AAAA]
+I heard: [Hello World: 463AAAA]
+I heard: [Hello World: 464AAAA]
+I heard: [Hello World: 465AAAA]
+I heard: [Hello World: 466AAAA]
+I heard: [Hello World: 467AAAA]
+I heard: [Hello World: 468AAAA]
+I heard: [Hello World: 469AAAA]
+I heard: [Hello World: 470AAAA]
+I heard: [Hello World: 471AAAA]
+I heard: [Hello World: 472AAAA]
+I heard: [Hello World: 473AAAA]
+I heard: [Hello World: 474AAAA]
+I heard: [Hello World: 475AAAA]
+I heard: [Hello World: 476AAAA]
+I heard: [Hello World: 477AAAA]
+I heard: [Hello World: 478AAAA]
+I heard: [Hello World: 479AAAA]
+I heard: [Hello World: 480AAAA]
+I heard: [Hello World: 481AAAA]
+I heard: [Hello World: 482AAAA]
+I heard: [Hello World: 483AAAA]
+I heard: [Hello World: 484AAAA]
+I heard: [Hello World: 485AAAA]
+I heard: [Hello World: 486AAAA]
+I heard: [Hello World: 487AAAA]
+I heard: [Hello World: 488AAAA]
+I heard: [Hello World: 489AAAA]
+I heard: [Hello World: 490AAAA]
+I heard: [Hello World: 491AAAA]
+I heard: [Hello World: 492AAAA]
+I heard: [Hello World: 493AAAA]
+I heard: [Hello World: 494AAAA]
+I heard: [Hello World: 495AAAA]
+I heard: [Hello World: 496AAAA]
+I heard: [Hello World: 497AAAA]
+I heard: [Hello World: 498AAAA]
+I heard: [Hello World: 499AAAA]
+I heard: [Hello World: 500AAAA]
+I heard: [Hello World: 501AAAA]
+I heard: [Hello World: 502AAAA]
+I heard: [Hello World: 503AAAA]
+I heard: [Hello World: 504AAAA]
+I heard: [Hello World: 505AAAA]
+I heard: [Hello World: 506AAAA]
+I heard: [Hello World: 507AAAA]
+I heard: [Hello World: 508AAAA]
+I heard: [Hello World: 509AAAA]
+I heard: [Hello World: 510AAAA]
+I heard: [Hello World: 511AAAA]
+I heard: [Hello World: 512AAAA]
+I heard: [Hello World: 513AAAA]
+I heard: [Hello World: 514AAAA]
+I heard: [Hello World: 515AAAA]
+I heard: [Hello World: 516AAAA]
+I heard: [Hello World: 517AAAA]
+I heard: [Hello World: 518AAAA]
+I heard: [Hello World: 519AAAA]
+I heard: [Hello World: 520AAAA]
+I heard: [Hello World: 521AAAA]
+I heard: [Hello World: 522AAAA]
+I heard: [Hello World: 523AAAA]
+I heard: [Hello World: 524AAAA]
+I heard: [Hello World: 525AAAA]
+I heard: [Hello World: 526AAAA]
+I heard: [Hello World: 527AAAA]
+I heard: [Hello World: 528AAAA]
+I heard: [Hello World: 529AAAA]
+I heard: [Hello World: 530AAAA]
+I heard: [Hello World: 531AAAA]
+I heard: [Hello World: 532AAAA]
+I heard: [Hello World: 533AAAA]
+I heard: [Hello World: 534AAAA]
+I heard: [Hello World: 535AAAA]
+I heard: [Hello World: 536AAAA]
+I heard: [Hello World: 537AAAA]
+I heard: [Hello World: 538AAAA]
+I heard: [Hello World: 539AAAA]
+I heard: [Hello World: 540AAAA]
+I heard: [Hello World: 541AAAA]
+I heard: [Hello World: 542AAAA]
+I heard: [Hello World: 543AAAA]
+I heard: [Hello World: 544AAAA]
+I heard: [Hello World: 545AAAA]
+I heard: [Hello World: 546AAAA]
+I heard: [Hello World: 547AAAA]
+I heard: [Hello World: 548AAAA]
+I heard: [Hello World: 549AAAA]
+I heard: [Hello World: 550AAAA]
+I heard: [Hello World: 551AAAA]
+I heard: [Hello World: 552AAAA]
+I heard: [Hello World: 553AAAA]
+I heard: [Hello World: 554AAAA]
+I heard: [Hello World: 555AAAA]
+I heard: [Hello World: 556AAAA]
+I heard: [Hello World: 557AAAA]
+I heard: [Hello World: 558AAAA]
+I heard: [Hello World: 559AAAA]
+I heard: [Hello World: 560AAAA]
+I heard: [Hello World: 561AAAA]
+I heard: [Hello World: 562AAAA]
+I heard: [Hello World: 563AAAA]
+I heard: [Hello World: 564AAAA]
+I heard: [Hello World: 565AAAA]
+I heard: [Hello World: 566AAAA]
+I heard: [Hello World: 567AAAA]
+I heard: [Hello World: 568AAAA]
+I heard: [Hello World: 569AAAA]
+I heard: [Hello World: 570AAAA]
+I heard: [Hello World: 571AAAA]
+I heard: [Hello World: 572AAAA]
+I heard: [Hello World: 573AAAA]
+I heard: [Hello World: 574AAAA]
+I heard: [Hello World: 575AAAA]
+I heard: [Hello World: 576AAAA]
+I heard: [Hello World: 577AAAA]
+I heard: [Hello World: 578AAAA]
+I heard: [Hello World: 579AAAA]
+I heard: [Hello World: 580AAAA]
+
+[INFO][time_test][2018-04-18 18:25:52,694]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener12_2", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'listener12_2')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test12/listener12_2.py", line 27, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 442, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 431, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 355, in _wait_for_ready_callbacks
+    raise KeyboardInterrupt
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:25:53,696]Logging listener12_3
+[INFO][time_test][2018-04-18 18:25:53,696]
+I heard: [Hello World: 0AAAAAA]
+I heard: [Hello World: 1AAAAAA]
+I heard: [Hello World: 2AAAAAA]
+I heard: [Hello World: 3AAAAAA]
+I heard: [Hello World: 4AAAAAA]
+I heard: [Hello World: 5AAAAAA]
+I heard: [Hello World: 6AAAAAA]
+I heard: [Hello World: 7AAAAAA]
+I heard: [Hello World: 8AAAAAA]
+I heard: [Hello World: 9AAAAAA]
+I heard: [Hello World: 10AAAAA]
+I heard: [Hello World: 11AAAAA]
+I heard: [Hello World: 12AAAAA]
+I heard: [Hello World: 13AAAAA]
+I heard: [Hello World: 14AAAAA]
+I heard: [Hello World: 15AAAAA]
+I heard: [Hello World: 16AAAAA]
+I heard: [Hello World: 17AAAAA]
+I heard: [Hello World: 18AAAAA]
+I heard: [Hello World: 19AAAAA]
+I heard: [Hello World: 20AAAAA]
+I heard: [Hello World: 21AAAAA]
+I heard: [Hello World: 22AAAAA]
+I heard: [Hello World: 23AAAAA]
+I heard: [Hello World: 24AAAAA]
+I heard: [Hello World: 25AAAAA]
+I heard: [Hello World: 26AAAAA]
+I heard: [Hello World: 27AAAAA]
+I heard: [Hello World: 28AAAAA]
+I heard: [Hello World: 29AAAAA]
+I heard: [Hello World: 30AAAAA]
+I heard: [Hello World: 31AAAAA]
+I heard: [Hello World: 32AAAAA]
+I heard: [Hello World: 33AAAAA]
+I heard: [Hello World: 34AAAAA]
+I heard: [Hello World: 35AAAAA]
+I heard: [Hello World: 36AAAAA]
+I heard: [Hello World: 37AAAAA]
+I heard: [Hello World: 38AAAAA]
+I heard: [Hello World: 39AAAAA]
+I heard: [Hello World: 40AAAAA]
+I heard: [Hello World: 41AAAAA]
+I heard: [Hello World: 42AAAAA]
+I heard: [Hello World: 43AAAAA]
+I heard: [Hello World: 44AAAAA]
+I heard: [Hello World: 45AAAAA]
+I heard: [Hello World: 46AAAAA]
+I heard: [Hello World: 47AAAAA]
+I heard: [Hello World: 48AAAAA]
+I heard: [Hello World: 49AAAAA]
+I heard: [Hello World: 50AAAAA]
+I heard: [Hello World: 51AAAAA]
+I heard: [Hello World: 52AAAAA]
+I heard: [Hello World: 53AAAAA]
+I heard: [Hello World: 54AAAAA]
+I heard: [Hello World: 55AAAAA]
+I heard: [Hello World: 56AAAAA]
+I heard: [Hello World: 57AAAAA]
+I heard: [Hello World: 58AAAAA]
+I heard: [Hello World: 59AAAAA]
+I heard: [Hello World: 60AAAAA]
+I heard: [Hello World: 61AAAAA]
+I heard: [Hello World: 62AAAAA]
+I heard: [Hello World: 63AAAAA]
+I heard: [Hello World: 64AAAAA]
+I heard: [Hello World: 65AAAAA]
+I heard: [Hello World: 66AAAAA]
+I heard: [Hello World: 67AAAAA]
+I heard: [Hello World: 68AAAAA]
+I heard: [Hello World: 69AAAAA]
+I heard: [Hello World: 70AAAAA]
+I heard: [Hello World: 71AAAAA]
+I heard: [Hello World: 72AAAAA]
+I heard: [Hello World: 73AAAAA]
+I heard: [Hello World: 74AAAAA]
+I heard: [Hello World: 75AAAAA]
+I heard: [Hello World: 76AAAAA]
+I heard: [Hello World: 77AAAAA]
+I heard: [Hello World: 78AAAAA]
+I heard: [Hello World: 79AAAAA]
+I heard: [Hello World: 80AAAAA]
+I heard: [Hello World: 81AAAAA]
+I heard: [Hello World: 82AAAAA]
+I heard: [Hello World: 83AAAAA]
+I heard: [Hello World: 84AAAAA]
+I heard: [Hello World: 85AAAAA]
+I heard: [Hello World: 86AAAAA]
+I heard: [Hello World: 87AAAAA]
+I heard: [Hello World: 88AAAAA]
+I heard: [Hello World: 89AAAAA]
+I heard: [Hello World: 90AAAAA]
+I heard: [Hello World: 91AAAAA]
+I heard: [Hello World: 92AAAAA]
+I heard: [Hello World: 93AAAAA]
+I heard: [Hello World: 94AAAAA]
+I heard: [Hello World: 95AAAAA]
+I heard: [Hello World: 96AAAAA]
+I heard: [Hello World: 97AAAAA]
+I heard: [Hello World: 98AAAAA]
+I heard: [Hello World: 99AAAAA]
+I heard: [Hello World: 100AAAA]
+I heard: [Hello World: 101AAAA]
+I heard: [Hello World: 102AAAA]
+I heard: [Hello World: 103AAAA]
+I heard: [Hello World: 104AAAA]
+I heard: [Hello World: 105AAAA]
+I heard: [Hello World: 106AAAA]
+I heard: [Hello World: 107AAAA]
+I heard: [Hello World: 108AAAA]
+I heard: [Hello World: 109AAAA]
+I heard: [Hello World: 110AAAA]
+I heard: [Hello World: 111AAAA]
+I heard: [Hello World: 112AAAA]
+I heard: [Hello World: 113AAAA]
+I heard: [Hello World: 114AAAA]
+I heard: [Hello World: 115AAAA]
+I heard: [Hello World: 116AAAA]
+I heard: [Hello World: 117AAAA]
+I heard: [Hello World: 118AAAA]
+I heard: [Hello World: 119AAAA]
+I heard: [Hello World: 120AAAA]
+I heard: [Hello World: 121AAAA]
+I heard: [Hello World: 122AAAA]
+I heard: [Hello World: 123AAAA]
+I heard: [Hello World: 124AAAA]
+I heard: [Hello World: 125AAAA]
+I heard: [Hello World: 126AAAA]
+I heard: [Hello World: 127AAAA]
+I heard: [Hello World: 128AAAA]
+I heard: [Hello World: 129AAAA]
+I heard: [Hello World: 130AAAA]
+I heard: [Hello World: 131AAAA]
+I heard: [Hello World: 132AAAA]
+I heard: [Hello World: 133AAAA]
+I heard: [Hello World: 134AAAA]
+I heard: [Hello World: 135AAAA]
+I heard: [Hello World: 136AAAA]
+I heard: [Hello World: 137AAAA]
+I heard: [Hello World: 138AAAA]
+I heard: [Hello World: 139AAAA]
+I heard: [Hello World: 140AAAA]
+I heard: [Hello World: 141AAAA]
+I heard: [Hello World: 142AAAA]
+I heard: [Hello World: 143AAAA]
+I heard: [Hello World: 144AAAA]
+I heard: [Hello World: 145AAAA]
+I heard: [Hello World: 146AAAA]
+I heard: [Hello World: 147AAAA]
+I heard: [Hello World: 148AAAA]
+I heard: [Hello World: 149AAAA]
+I heard: [Hello World: 150AAAA]
+I heard: [Hello World: 151AAAA]
+I heard: [Hello World: 152AAAA]
+I heard: [Hello World: 153AAAA]
+I heard: [Hello World: 154AAAA]
+I heard: [Hello World: 155AAAA]
+I heard: [Hello World: 156AAAA]
+I heard: [Hello World: 157AAAA]
+I heard: [Hello World: 158AAAA]
+I heard: [Hello World: 159AAAA]
+I heard: [Hello World: 160AAAA]
+I heard: [Hello World: 161AAAA]
+I heard: [Hello World: 162AAAA]
+I heard: [Hello World: 163AAAA]
+I heard: [Hello World: 164AAAA]
+I heard: [Hello World: 165AAAA]
+I heard: [Hello World: 166AAAA]
+I heard: [Hello World: 167AAAA]
+I heard: [Hello World: 168AAAA]
+I heard: [Hello World: 169AAAA]
+I heard: [Hello World: 170AAAA]
+I heard: [Hello World: 171AAAA]
+I heard: [Hello World: 172AAAA]
+I heard: [Hello World: 173AAAA]
+I heard: [Hello World: 174AAAA]
+I heard: [Hello World: 175AAAA]
+I heard: [Hello World: 176AAAA]
+I heard: [Hello World: 177AAAA]
+I heard: [Hello World: 178AAAA]
+I heard: [Hello World: 179AAAA]
+I heard: [Hello World: 180AAAA]
+I heard: [Hello World: 181AAAA]
+I heard: [Hello World: 182AAAA]
+I heard: [Hello World: 183AAAA]
+I heard: [Hello World: 184AAAA]
+I heard: [Hello World: 185AAAA]
+I heard: [Hello World: 186AAAA]
+I heard: [Hello World: 187AAAA]
+I heard: [Hello World: 188AAAA]
+I heard: [Hello World: 189AAAA]
+I heard: [Hello World: 190AAAA]
+I heard: [Hello World: 191AAAA]
+I heard: [Hello World: 192AAAA]
+I heard: [Hello World: 193AAAA]
+I heard: [Hello World: 194AAAA]
+I heard: [Hello World: 195AAAA]
+I heard: [Hello World: 196AAAA]
+I heard: [Hello World: 197AAAA]
+I heard: [Hello World: 198AAAA]
+I heard: [Hello World: 199AAAA]
+I heard: [Hello World: 200AAAA]
+I heard: [Hello World: 201AAAA]
+I heard: [Hello World: 202AAAA]
+I heard: [Hello World: 203AAAA]
+I heard: [Hello World: 204AAAA]
+I heard: [Hello World: 205AAAA]
+I heard: [Hello World: 206AAAA]
+I heard: [Hello World: 207AAAA]
+I heard: [Hello World: 208AAAA]
+I heard: [Hello World: 209AAAA]
+I heard: [Hello World: 210AAAA]
+I heard: [Hello World: 211AAAA]
+I heard: [Hello World: 212AAAA]
+I heard: [Hello World: 213AAAA]
+I heard: [Hello World: 214AAAA]
+I heard: [Hello World: 215AAAA]
+I heard: [Hello World: 216AAAA]
+I heard: [Hello World: 217AAAA]
+I heard: [Hello World: 218AAAA]
+I heard: [Hello World: 219AAAA]
+I heard: [Hello World: 220AAAA]
+I heard: [Hello World: 221AAAA]
+I heard: [Hello World: 222AAAA]
+I heard: [Hello World: 223AAAA]
+I heard: [Hello World: 224AAAA]
+I heard: [Hello World: 225AAAA]
+I heard: [Hello World: 226AAAA]
+I heard: [Hello World: 227AAAA]
+I heard: [Hello World: 228AAAA]
+I heard: [Hello World: 229AAAA]
+I heard: [Hello World: 230AAAA]
+I heard: [Hello World: 231AAAA]
+I heard: [Hello World: 232AAAA]
+I heard: [Hello World: 233AAAA]
+I heard: [Hello World: 234AAAA]
+I heard: [Hello World: 235AAAA]
+I heard: [Hello World: 236AAAA]
+I heard: [Hello World: 237AAAA]
+I heard: [Hello World: 238AAAA]
+I heard: [Hello World: 239AAAA]
+I heard: [Hello World: 240AAAA]
+I heard: [Hello World: 241AAAA]
+I heard: [Hello World: 242AAAA]
+I heard: [Hello World: 243AAAA]
+I heard: [Hello World: 244AAAA]
+I heard: [Hello World: 245AAAA]
+I heard: [Hello World: 246AAAA]
+I heard: [Hello World: 247AAAA]
+I heard: [Hello World: 248AAAA]
+I heard: [Hello World: 249AAAA]
+I heard: [Hello World: 250AAAA]
+I heard: [Hello World: 251AAAA]
+I heard: [Hello World: 252AAAA]
+I heard: [Hello World: 253AAAA]
+I heard: [Hello World: 254AAAA]
+I heard: [Hello World: 255AAAA]
+I heard: [Hello World: 256AAAA]
+I heard: [Hello World: 257AAAA]
+I heard: [Hello World: 258AAAA]
+I heard: [Hello World: 259AAAA]
+I heard: [Hello World: 260AAAA]
+I heard: [Hello World: 261AAAA]
+I heard: [Hello World: 262AAAA]
+I heard: [Hello World: 263AAAA]
+I heard: [Hello World: 264AAAA]
+I heard: [Hello World: 265AAAA]
+I heard: [Hello World: 266AAAA]
+I heard: [Hello World: 267AAAA]
+I heard: [Hello World: 268AAAA]
+I heard: [Hello World: 269AAAA]
+I heard: [Hello World: 270AAAA]
+I heard: [Hello World: 271AAAA]
+I heard: [Hello World: 272AAAA]
+I heard: [Hello World: 273AAAA]
+I heard: [Hello World: 274AAAA]
+I heard: [Hello World: 275AAAA]
+I heard: [Hello World: 276AAAA]
+I heard: [Hello World: 277AAAA]
+I heard: [Hello World: 278AAAA]
+I heard: [Hello World: 279AAAA]
+I heard: [Hello World: 280AAAA]
+I heard: [Hello World: 281AAAA]
+I heard: [Hello World: 282AAAA]
+I heard: [Hello World: 283AAAA]
+I heard: [Hello World: 284AAAA]
+I heard: [Hello World: 285AAAA]
+I heard: [Hello World: 286AAAA]
+I heard: [Hello World: 287AAAA]
+I heard: [Hello World: 288AAAA]
+I heard: [Hello World: 289AAAA]
+I heard: [Hello World: 290AAAA]
+I heard: [Hello World: 291AAAA]
+I heard: [Hello World: 292AAAA]
+I heard: [Hello World: 293AAAA]
+I heard: [Hello World: 294AAAA]
+I heard: [Hello World: 295AAAA]
+I heard: [Hello World: 296AAAA]
+I heard: [Hello World: 297AAAA]
+I heard: [Hello World: 298AAAA]
+I heard: [Hello World: 299AAAA]
+I heard: [Hello World: 300AAAA]
+I heard: [Hello World: 301AAAA]
+I heard: [Hello World: 302AAAA]
+I heard: [Hello World: 303AAAA]
+I heard: [Hello World: 304AAAA]
+I heard: [Hello World: 305AAAA]
+I heard: [Hello World: 306AAAA]
+I heard: [Hello World: 307AAAA]
+I heard: [Hello World: 308AAAA]
+I heard: [Hello World: 309AAAA]
+I heard: [Hello World: 310AAAA]
+I heard: [Hello World: 311AAAA]
+I heard: [Hello World: 312AAAA]
+I heard: [Hello World: 313AAAA]
+I heard: [Hello World: 314AAAA]
+I heard: [Hello World: 315AAAA]
+I heard: [Hello World: 316AAAA]
+I heard: [Hello World: 317AAAA]
+I heard: [Hello World: 318AAAA]
+I heard: [Hello World: 319AAAA]
+I heard: [Hello World: 320AAAA]
+I heard: [Hello World: 321AAAA]
+I heard: [Hello World: 322AAAA]
+I heard: [Hello World: 323AAAA]
+I heard: [Hello World: 324AAAA]
+I heard: [Hello World: 325AAAA]
+I heard: [Hello World: 326AAAA]
+I heard: [Hello World: 327AAAA]
+I heard: [Hello World: 328AAAA]
+I heard: [Hello World: 329AAAA]
+I heard: [Hello World: 330AAAA]
+I heard: [Hello World: 331AAAA]
+I heard: [Hello World: 332AAAA]
+I heard: [Hello World: 333AAAA]
+I heard: [Hello World: 334AAAA]
+I heard: [Hello World: 335AAAA]
+I heard: [Hello World: 336AAAA]
+I heard: [Hello World: 337AAAA]
+I heard: [Hello World: 338AAAA]
+I heard: [Hello World: 339AAAA]
+I heard: [Hello World: 340AAAA]
+I heard: [Hello World: 341AAAA]
+I heard: [Hello World: 342AAAA]
+I heard: [Hello World: 343AAAA]
+I heard: [Hello World: 344AAAA]
+I heard: [Hello World: 345AAAA]
+I heard: [Hello World: 346AAAA]
+I heard: [Hello World: 347AAAA]
+I heard: [Hello World: 348AAAA]
+I heard: [Hello World: 349AAAA]
+I heard: [Hello World: 350AAAA]
+I heard: [Hello World: 351AAAA]
+I heard: [Hello World: 352AAAA]
+I heard: [Hello World: 353AAAA]
+I heard: [Hello World: 354AAAA]
+I heard: [Hello World: 355AAAA]
+I heard: [Hello World: 356AAAA]
+I heard: [Hello World: 357AAAA]
+I heard: [Hello World: 358AAAA]
+I heard: [Hello World: 359AAAA]
+I heard: [Hello World: 360AAAA]
+I heard: [Hello World: 361AAAA]
+I heard: [Hello World: 362AAAA]
+I heard: [Hello World: 363AAAA]
+I heard: [Hello World: 364AAAA]
+I heard: [Hello World: 365AAAA]
+I heard: [Hello World: 366AAAA]
+I heard: [Hello World: 367AAAA]
+I heard: [Hello World: 368AAAA]
+I heard: [Hello World: 369AAAA]
+I heard: [Hello World: 370AAAA]
+I heard: [Hello World: 371AAAA]
+I heard: [Hello World: 372AAAA]
+I heard: [Hello World: 373AAAA]
+I heard: [Hello World: 374AAAA]
+I heard: [Hello World: 375AAAA]
+I heard: [Hello World: 376AAAA]
+I heard: [Hello World: 377AAAA]
+I heard: [Hello World: 378AAAA]
+I heard: [Hello World: 379AAAA]
+I heard: [Hello World: 380AAAA]
+I heard: [Hello World: 381AAAA]
+I heard: [Hello World: 382AAAA]
+I heard: [Hello World: 383AAAA]
+I heard: [Hello World: 384AAAA]
+I heard: [Hello World: 385AAAA]
+I heard: [Hello World: 386AAAA]
+I heard: [Hello World: 387AAAA]
+I heard: [Hello World: 388AAAA]
+I heard: [Hello World: 389AAAA]
+I heard: [Hello World: 390AAAA]
+I heard: [Hello World: 391AAAA]
+I heard: [Hello World: 392AAAA]
+I heard: [Hello World: 393AAAA]
+I heard: [Hello World: 394AAAA]
+I heard: [Hello World: 395AAAA]
+I heard: [Hello World: 396AAAA]
+I heard: [Hello World: 397AAAA]
+I heard: [Hello World: 398AAAA]
+I heard: [Hello World: 399AAAA]
+I heard: [Hello World: 400AAAA]
+I heard: [Hello World: 401AAAA]
+I heard: [Hello World: 402AAAA]
+I heard: [Hello World: 403AAAA]
+I heard: [Hello World: 404AAAA]
+I heard: [Hello World: 405AAAA]
+I heard: [Hello World: 406AAAA]
+I heard: [Hello World: 407AAAA]
+I heard: [Hello World: 408AAAA]
+I heard: [Hello World: 409AAAA]
+I heard: [Hello World: 410AAAA]
+I heard: [Hello World: 411AAAA]
+I heard: [Hello World: 412AAAA]
+I heard: [Hello World: 413AAAA]
+I heard: [Hello World: 414AAAA]
+I heard: [Hello World: 415AAAA]
+I heard: [Hello World: 416AAAA]
+I heard: [Hello World: 417AAAA]
+I heard: [Hello World: 418AAAA]
+I heard: [Hello World: 419AAAA]
+I heard: [Hello World: 420AAAA]
+I heard: [Hello World: 421AAAA]
+I heard: [Hello World: 422AAAA]
+I heard: [Hello World: 423AAAA]
+I heard: [Hello World: 424AAAA]
+I heard: [Hello World: 425AAAA]
+I heard: [Hello World: 426AAAA]
+I heard: [Hello World: 427AAAA]
+I heard: [Hello World: 428AAAA]
+I heard: [Hello World: 429AAAA]
+I heard: [Hello World: 430AAAA]
+I heard: [Hello World: 431AAAA]
+I heard: [Hello World: 432AAAA]
+I heard: [Hello World: 433AAAA]
+I heard: [Hello World: 434AAAA]
+I heard: [Hello World: 435AAAA]
+I heard: [Hello World: 436AAAA]
+I heard: [Hello World: 437AAAA]
+I heard: [Hello World: 438AAAA]
+I heard: [Hello World: 439AAAA]
+I heard: [Hello World: 440AAAA]
+I heard: [Hello World: 441AAAA]
+I heard: [Hello World: 442AAAA]
+I heard: [Hello World: 443AAAA]
+I heard: [Hello World: 444AAAA]
+I heard: [Hello World: 445AAAA]
+I heard: [Hello World: 446AAAA]
+I heard: [Hello World: 447AAAA]
+I heard: [Hello World: 448AAAA]
+I heard: [Hello World: 449AAAA]
+I heard: [Hello World: 450AAAA]
+I heard: [Hello World: 451AAAA]
+I heard: [Hello World: 452AAAA]
+I heard: [Hello World: 453AAAA]
+I heard: [Hello World: 454AAAA]
+I heard: [Hello World: 455AAAA]
+I heard: [Hello World: 456AAAA]
+I heard: [Hello World: 457AAAA]
+I heard: [Hello World: 458AAAA]
+I heard: [Hello World: 459AAAA]
+I heard: [Hello World: 460AAAA]
+I heard: [Hello World: 461AAAA]
+I heard: [Hello World: 462AAAA]
+I heard: [Hello World: 463AAAA]
+I heard: [Hello World: 464AAAA]
+I heard: [Hello World: 465AAAA]
+I heard: [Hello World: 466AAAA]
+I heard: [Hello World: 467AAAA]
+I heard: [Hello World: 468AAAA]
+I heard: [Hello World: 469AAAA]
+I heard: [Hello World: 470AAAA]
+I heard: [Hello World: 471AAAA]
+I heard: [Hello World: 472AAAA]
+I heard: [Hello World: 473AAAA]
+I heard: [Hello World: 474AAAA]
+I heard: [Hello World: 475AAAA]
+I heard: [Hello World: 476AAAA]
+I heard: [Hello World: 477AAAA]
+I heard: [Hello World: 478AAAA]
+I heard: [Hello World: 479AAAA]
+I heard: [Hello World: 480AAAA]
+I heard: [Hello World: 481AAAA]
+I heard: [Hello World: 482AAAA]
+I heard: [Hello World: 483AAAA]
+I heard: [Hello World: 484AAAA]
+I heard: [Hello World: 485AAAA]
+I heard: [Hello World: 486AAAA]
+I heard: [Hello World: 487AAAA]
+I heard: [Hello World: 488AAAA]
+I heard: [Hello World: 489AAAA]
+I heard: [Hello World: 490AAAA]
+I heard: [Hello World: 491AAAA]
+I heard: [Hello World: 492AAAA]
+I heard: [Hello World: 493AAAA]
+I heard: [Hello World: 494AAAA]
+I heard: [Hello World: 495AAAA]
+I heard: [Hello World: 496AAAA]
+I heard: [Hello World: 497AAAA]
+I heard: [Hello World: 498AAAA]
+I heard: [Hello World: 499AAAA]
+I heard: [Hello World: 500AAAA]
+I heard: [Hello World: 501AAAA]
+I heard: [Hello World: 502AAAA]
+I heard: [Hello World: 503AAAA]
+I heard: [Hello World: 504AAAA]
+I heard: [Hello World: 505AAAA]
+I heard: [Hello World: 506AAAA]
+I heard: [Hello World: 507AAAA]
+I heard: [Hello World: 508AAAA]
+I heard: [Hello World: 509AAAA]
+I heard: [Hello World: 510AAAA]
+I heard: [Hello World: 511AAAA]
+I heard: [Hello World: 512AAAA]
+I heard: [Hello World: 513AAAA]
+I heard: [Hello World: 514AAAA]
+I heard: [Hello World: 515AAAA]
+I heard: [Hello World: 516AAAA]
+I heard: [Hello World: 517AAAA]
+I heard: [Hello World: 518AAAA]
+I heard: [Hello World: 519AAAA]
+I heard: [Hello World: 520AAAA]
+I heard: [Hello World: 521AAAA]
+I heard: [Hello World: 522AAAA]
+I heard: [Hello World: 523AAAA]
+I heard: [Hello World: 524AAAA]
+I heard: [Hello World: 525AAAA]
+I heard: [Hello World: 526AAAA]
+I heard: [Hello World: 527AAAA]
+I heard: [Hello World: 528AAAA]
+I heard: [Hello World: 529AAAA]
+I heard: [Hello World: 530AAAA]
+I heard: [Hello World: 531AAAA]
+I heard: [Hello World: 532AAAA]
+I heard: [Hello World: 533AAAA]
+I heard: [Hello World: 534AAAA]
+I heard: [Hello World: 535AAAA]
+I heard: [Hello World: 536AAAA]
+I heard: [Hello World: 537AAAA]
+I heard: [Hello World: 538AAAA]
+I heard: [Hello World: 539AAAA]
+I heard: [Hello World: 540AAAA]
+I heard: [Hello World: 541AAAA]
+I heard: [Hello World: 542AAAA]
+I heard: [Hello World: 543AAAA]
+I heard: [Hello World: 544AAAA]
+I heard: [Hello World: 545AAAA]
+I heard: [Hello World: 546AAAA]
+I heard: [Hello World: 547AAAA]
+I heard: [Hello World: 548AAAA]
+I heard: [Hello World: 549AAAA]
+I heard: [Hello World: 550AAAA]
+I heard: [Hello World: 551AAAA]
+I heard: [Hello World: 552AAAA]
+I heard: [Hello World: 553AAAA]
+I heard: [Hello World: 554AAAA]
+I heard: [Hello World: 555AAAA]
+I heard: [Hello World: 556AAAA]
+I heard: [Hello World: 557AAAA]
+I heard: [Hello World: 558AAAA]
+I heard: [Hello World: 559AAAA]
+I heard: [Hello World: 560AAAA]
+I heard: [Hello World: 561AAAA]
+I heard: [Hello World: 562AAAA]
+I heard: [Hello World: 563AAAA]
+I heard: [Hello World: 564AAAA]
+I heard: [Hello World: 565AAAA]
+I heard: [Hello World: 566AAAA]
+I heard: [Hello World: 567AAAA]
+I heard: [Hello World: 568AAAA]
+I heard: [Hello World: 569AAAA]
+I heard: [Hello World: 570AAAA]
+I heard: [Hello World: 571AAAA]
+I heard: [Hello World: 572AAAA]
+I heard: [Hello World: 573AAAA]
+I heard: [Hello World: 574AAAA]
+I heard: [Hello World: 575AAAA]
+I heard: [Hello World: 576AAAA]
+I heard: [Hello World: 577AAAA]
+I heard: [Hello World: 578AAAA]
+I heard: [Hello World: 579AAAA]
+I heard: [Hello World: 580AAAA]
+I heard: [Hello World: 581AAAA]
+I heard: [Hello World: 582AAAA]
+
+[INFO][time_test][2018-04-18 18:25:53,696]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener12_3", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'listener12_3')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test12/listener12_3.py", line 27, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 442, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 431, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 355, in _wait_for_ready_callbacks
+    raise KeyboardInterrupt
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:25:53,696]Logging Finished , Start quit the subprocess

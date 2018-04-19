@@ -1,0 +1,88 @@
+[DEBUG][time_test][2018-04-18 18:20:46,196]Test : Time Test
+[DEBUG][time_test][2018-04-18 18:20:46,196]test begin , start run shell command :
+[INFO][time_test][2018-04-18 18:20:46,196]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/talker8_1
+[INFO][time_test][2018-04-18 18:20:46,197]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener8_1
+[INFO][time_test][2018-04-18 18:20:46,198]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener8_2
+[INFO][time_test][2018-04-18 18:20:46,198]/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener8_3
+[DEBUG][time_test][2018-04-18 18:21:16,199]--------------Time Test Finished , Start Logging
+[DEBUG][time_test][2018-04-18 18:21:16,215]Logging talker8_1
+[INFO][time_test][2018-04-18 18:21:16,215]
+
+[INFO][time_test][2018-04-18 18:21:16,215]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/talker8_1", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'talker8_1')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test8/talker8_1.py", line 36, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 446, in spin_once
+    handler()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 255, in handler
+    call_callback(entity, arg)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 179, in _execute_timer
+    tmr.callback()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test8/talker8_1.py", line 25, in timer_callback
+    self.pub.publish(msg)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/publisher.py", line 28, in publish
+    _rclpy.rclpy_publish(self.publisher_handle, msg)
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:21:17,213]Logging listener8_1
+[INFO][time_test][2018-04-18 18:21:17,213]
+
+[INFO][time_test][2018-04-18 18:21:17,213]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener8_1", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'listener8_1')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test8/listener8_1.py", line 27, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 442, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 431, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 355, in _wait_for_ready_callbacks
+    raise KeyboardInterrupt
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:21:18,212]Logging listener8_2
+[INFO][time_test][2018-04-18 18:21:18,212]
+
+[INFO][time_test][2018-04-18 18:21:18,212]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener8_2", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'listener8_2')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test8/listener8_2.py", line 26, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 442, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 431, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 355, in _wait_for_ready_callbacks
+    raise KeyboardInterrupt
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:21:19,213]Logging listener8_3
+[INFO][time_test][2018-04-18 18:21:19,213]
+
+[INFO][time_test][2018-04-18 18:21:19,213]
+Traceback (most recent call last):
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/pub_and_sub_py/lib/pub_and_sub_py/listener8_3", line 9, in <module>
+    load_entry_point('pub-and-sub-py', 'console_scripts', 'listener8_3')()
+  File "/home/tusimple/xinliu/ros2_ws/build_isolated/pub_and_sub_py/pub_and_sub_py/test8/listener8_3.py", line 27, in main
+    rclpy.spin(node)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/__init__.py", line 54, in spin
+    executor.spin_once()
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 442, in spin_once
+    handler, entity, node = self.wait_for_ready_callbacks(timeout_sec=timeout_sec)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 431, in wait_for_ready_callbacks
+    return next(self._cb_iter)
+  File "/home/tusimple/xinliu/ros2_ws/install_isolated/rclpy/lib/python3.5/site-packages/rclpy/executors.py", line 355, in _wait_for_ready_callbacks
+    raise KeyboardInterrupt
+KeyboardInterrupt
+
+[DEBUG][time_test][2018-04-18 18:21:19,213]Logging Finished , Start quit the subprocess
