@@ -14,164 +14,127 @@ def nonBlockRead(output):
     except:
         return ''
 
-def time_test(pub_name , sub_name , package_name , test_name , log_number, log_path , tmp_path , run_time):
+def time_test(start_list_name , end_turn , exec_name , test_name , log_path , tmp_path , run_time , log_index , test_info,para_list):
 
+        log_name = log_path + '/log/' + test_name +'_' + log_index + '.log'
 
-	if(os.path.exists(log_path + '/log/' + test_name + '.log')):
-		os.remove(log_path + '/log/' + test_name + '.log')
+	if(os.path.exists(log_name)):
+		os.remove(log_name)
 
 	print "start time test logging : "
 	
         logger = logging.getLogger("loggingmodule.NomalLogger")  
-    	handler = logging.FileHandler(log_path + '/log/' + test_name + '.log') 
+    	handler = logging.FileHandler(log_name) 
     	formatter = logging.Formatter("[%(levelname)s][%(funcName)s][%(asctime)s]%(message)s")  
     	handler.setFormatter(formatter)  
     	logger.addHandler(handler)  
     	logger.setLevel(logging.DEBUG)  
 
+        
+        logger.info('\n' + test_info + '\n')
 
         logger.debug("Test : Time Test")
         logger.debug("test begin , start run shell command :")
 
 	
-	pub_list = []
+        start_process_list = []
+	end_process_list = []
 
-	sub_list = []
 
-
-	for name in pub_name:
-	    run_pub_sh =   tmp_path + '/install_isolated/' + package_name + "/lib/" + package_name + "/" + name  
-                           
-#            run_pub_sh = "ros2 run pub_and_sub_cpp talker1"                  
+	for index in range(len(start_list_name)):
+	    run_start_sh = [ tmp_path + exec_name[index] ] 
+            
+            for para in para_list[index]:
+                run_start_sh.append(para)
+                                          
 	    
-	    logger.info(run_pub_sh)
-            print run_pub_sh             
+	    logger.info(run_start_sh)
+            print run_start_sh        
  
-            p = subprocess.Popen([run_pub_sh]  , stdout=subprocess.PIPE,stderr=subprocess.PIPE)
-            #p.send_signal(signal.SIGINT)
+            p = subprocess.Popen(run_start_sh , stdout=subprocess.PIPE,stderr=subprocess.PIPE)
+           
 
-           # p = subprocess.Popen(run_pub_sh,stdin=subprocess.PIPE, stdout=subprocess.PIPE,stderr=subprocess.PIPE, shell = True)
-	    pub_list.append(p)
+	    start_process_list.append(p)
 
             print p.pid
 
 
-	for name in sub_name:
-	    run_sub_sh = tmp_path + '/install_isolated/' + package_name + "/lib/" + package_name + "/" + name  
-            
-
-	    logger.info(run_sub_sh)
-
-            q = subprocess.Popen([run_sub_sh] , stdout=subprocess.PIPE,stderr=subprocess.PIPE)
-            #q.send_signal(signal.SIGINT)
-
-	    #q = subprocess.Popen(run_sub_sh,stdin=subprocess.PIPE,stdout=subprocess.PIPE,stderr=subprocess.PIPE, shell = True)
-	    sub_list.append(q)
+	for index in end_turn:
+	    end_process_list.append(start_process_list[index])
 
       
 
         time_start = time.time()
-        flag = 0
+        time_end = time_start + run_time
+        wait_second = 1
 
         while True:
-            time_end = time.time()
-            #print time_end - time_start
-            if(time_end-time_start >= run_time):
+            time_now = time.time()
+            
+            if(time_now >= time_end):
                 break
 
-            i = 0
-            for p in pub_list:
-                    return_state = p.poll()
-                    #print i
-                    #p.send_signal(signal.SIGINT)
+            
+        
+            time.sleep(wait_second)
 
-                    if return_state != None:
-                        print pub_name[i] + " --- Error Code : " + str(return_state)
-                        logger.error(pub_name[i] + " --- Error Code : " + str(return_state))
-                        flag = 1
-                        break
-#                    else:
- #                       p.send_signal(signal.SIGINT)
-                    i += 1
 
-            i = 0
-            for q in sub_list:
-                    return_state = q.poll()
-                    #q.send_signal(signal.SIGINT)
- 
-                    if return_state != None:
-                        print sub_name[i] + " --- Error Code : " + str(return_state)
-                        logger.error(sub_name[i] + " --- Error Code : " + str(return_state))
+        flag = 0
 
-                        flag = 1
-                        break
-  #                  else:
-   #                     q.send_signal(signal.SIGINT)
-                    i += 1
+        i = 0
+        for p in start_process_list:
+            return_state = p.poll()
 
-            if(flag == 1):
+            if return_state != None:
+                print start_list_name[i] + " --- Error Code : " + str(return_state)
+                logger.error(start_list_name[i] + " --- Error Code : " + str(return_state))
+                flag = 1
                 break
+            
+            i += 1
+
 
         logger.debug("--------------Time Test Finished , Start Logging")     
-                 
+        if(flag == 1):
+            logger.debug("--------------Logger exit : terminal exit unnormally")
+            return
 
-        i = 0
+
+
         
-        for p in pub_list:
+        for p in end_process_list:
             print "try to kill " + str(p.pid)
             p.send_signal(signal.SIGINT) 
-            p.wait()
-               #time.sleep(5)
-              
+            time.sleep(5)
+
+        for p in start_process_list:
+            if(p.poll() == None):
+               print("Failed to kill -2 " + str(p.pid))
+               logger.error("Failed to Ctrl^C " + str(p.pid) + " , kill -9")
+               flag = 1
+    
+        if(flag == 1):
+            logger.error("Failed to exit subprocess , exit")
+            return
+ 
+ 
+ 
+        i = 0
+        for p in start_process_list:         
             print p.pid
             print p.poll()
+           
+
             (out,err ) = p.communicate()
             print "communicate succeed"
-            #err = p.communicate()[1]
-            count = 0
-            print "Log of " + pub_name[i]
-            logger.debug("Logging " + pub_name[i])
+            
+            print "Log of " + start_list_name[i]
+            logger.debug("Logging " + start_list_name[i])
             logger.info("\n" + out)
             logger.info("\n" + err)
-            #while(count < log_number):
-             #   line  = nonBlockRead(p.stdout)
-                        #print line
-              #  if line :
-               #     print line
-                #    logger.info("\n" + line)
-              #  err = nonBlockRead(p.stderr)
-              #  if err :
-              #      logger.error("\n" + err)
-              #  count += 1
             i += 1
 
-        i = 0
         
-        for q in sub_list:
-            q.send_signal(signal.SIGINT)
-            q.wait()
-            print q.pid
-            print q.poll()
-            (out,err) = q.communicate()
-           # err = q.communicate()[1]
-
-            count = 0
-            print "Log of " + sub_name[i]
-            logger.debug("Logging " + sub_name[i])
-            logger.info("\n" + out)
-            logger.info("\n" + err) 
-          # while(count < log_number):
-            #    line  = nonBlockRead(q.stdout)
-                        #print line
-             #   if line :
-              #      print line
-             #       logger.info(" --- " + line)
-             #   err = nonBlockRead(q.stderr)
-             #   if err :
-             #       logger.error("\n" + err)
-
-              #  count += 1
-            i += 1
 
         logger.debug("Logging Finished , Start quit the subprocess")
 
@@ -180,49 +143,3 @@ def time_test(pub_name , sub_name , package_name , test_name , log_number, log_p
 
         return 
 
-        i = 0
-        for p in pub_list:
-            return_state = p.poll()
-
-            if return_state == None:
-                #p.send_signal(signal.SIGINT)
-            
-                print p.pid
-                while(p.poll() == None):
-                     print "try to kill " + str(p.pid)
-                     print p.poll()
-                     time.sleep(1)
-                     os.kill(p.pid, signal.SIGINT)              
-                   
-
-                return_state = p.poll()
-                print pub_name[i] + str(return_state)
-                logger.info(pub_name[i] + " --- return Code : " + str(return_state))
-            else:
-                logger.error(pub_name[i] + " --- Error Code : " + str(return_state))
-            i += 1
-            
-
-        i = 0
-        for q in sub_list:
-            return_state = q.poll()
-
-            if return_state == None:
-                 while(q.poll() == None):
-                      print "try to kill " + str(q.pid)
-                      os.kill(q.pid, signal.SIGINT)
-                 
-
-                 return_state = q.poll()
-                 print sub_name[i] + str(return_state)
-                 logger.info(sub_name[i] + " --- return Code : " + str(return_state))
-            else:
-                logger.error(sub_name[i] + " --- Error Code : " + str(return_state))
-  
-            i += 1
-
-        print "Test finished ! "
-
-        logger.debug("Test Finished !")
-
-        logger.removeHandler(handler)
