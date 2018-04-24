@@ -1,3 +1,4 @@
-/test/*.pyc
-/log/
+log/
+test/*.pyc
+test/test_method/*.swp
 
