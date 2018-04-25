@@ -2,4 +2,4 @@ log/
 test/*.pyc
 test/test_method/*.swp
 test/test_method/*.pyc
-
+core
