@@ -80,7 +80,7 @@ def time_test(end_turn , exec_name , test_name , log_path , tmp_path , run_time 
             if(rpc_flag == True):
                 rpc_end_flag = True
                 for index in range(len(start_process_list)):
-                    if(index >= client_st && start_process_list[index].poll() == None):
+                    if(index >= client_st and start_process_list[index].poll() == None):
                         rpc_end_flag = False
                         break;
                 if(rpc_end_flag == True):
@@ -94,10 +94,12 @@ def time_test(end_turn , exec_name , test_name , log_path , tmp_path , run_time 
         i = 0
         for p in start_process_list:
             return_state = p.poll()
-
-            if return_state != None && i < client_st:
-                print start_list_name[i] + " --- Error Code : " + str(return_state)
-                logger.error('\n' + start_list_name[i] + " --- Error Code : " + str(return_state) + '\n')
+            if(rpc_flag == True and return_state >= client_st):
+                break
+              
+            if return_state != None:
+                print exec_name[i] + " --- Error Code : " + str(return_state)
+                logger.error('\n' + exec_name[i] + " --- Error Code : " + str(return_state) + '\n')
                 flag = 1
                 break
             
@@ -114,6 +116,7 @@ def time_test(end_turn , exec_name , test_name , log_path , tmp_path , run_time 
         
         for p in end_process_list:
             print "try to kill " + str(p.pid)
+            print p.poll()
             p.send_signal(signal.SIGINT) 
             time.sleep(5)
 

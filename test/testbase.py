@@ -181,7 +181,7 @@ def test_5():
 
         package_name = "pub_and_sub_cpp"
 
-        exec_name = ["talker5","listener5"]
+        exec_name = ["talker5_1","listener5_1"]
 
         end_turn = [1,0]
 
@@ -795,22 +795,22 @@ def test(tmp_test_name  ,tmp_log_path):
         log_path = tmp_log_path
 
 
-        test_1()
+#        test_1()
 
-        test_2()
+ #       test_2()
 
-        test_3()
-        test_4()
-        test_5()
-        test_6()
-        test_7()
-        test_8()
-        test_9()
-        test_10()
-        test_11()
-        test_12()
+  #      test_3()
+ #       test_4()
+ #       test_5()
+#        test_6()
+ #       test_7()
+ #       test_8()
+ #       test_9()
+  #      test_10()
+   #     test_11()
+    #    test_12()
 
-        test_N1()
+    #    test_N1()
 
         test_13()
         test_14()
