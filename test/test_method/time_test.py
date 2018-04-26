@@ -14,7 +14,7 @@ def nonBlockRead(output):
     except:
         return ''
 
-def time_test(start_list_name , end_turn , exec_name , test_name , log_path , tmp_path , run_time , log_index , test_info,para_list):
+def time_test(end_turn , exec_name , test_name , log_path , tmp_path , run_time , log_index , test_info,para_list , rpc_flag = False , client_st = 0):
 
         log_name = log_path + '/log/' + test_name +'_' + log_index + '.log'
 
@@ -33,15 +33,15 @@ def time_test(start_list_name , end_turn , exec_name , test_name , log_path , tm
         
         logger.info('\n' + test_info + '\n')
 
-        logger.debug("Test : Time Test")
-        logger.debug("test begin , start run shell command :")
+        logger.debug('\n' + "Test : Time Test" + '\n')
+        logger.debug('\n' + "test begin , start run shell command :" + '\n')
 
 	
         start_process_list = []
 	end_process_list = []
 
 
-	for index in range(len(start_list_name)):
+	for index in range(len(exec_name)):
 	    run_start_sh = [ tmp_path + exec_name[index] ] 
             
             for para in para_list[index]:
@@ -65,8 +65,11 @@ def time_test(start_list_name , end_turn , exec_name , test_name , log_path , tm
       
 
         time_start = time.time()
+
         time_end = time_start + run_time
         wait_second = 1
+
+        rpc_end_flag = False
 
         while True:
             time_now = time.time()
@@ -74,7 +77,14 @@ def time_test(start_list_name , end_turn , exec_name , test_name , log_path , tm
             if(time_now >= time_end):
                 break
 
-            
+            if(rpc_flag == True):
+                rpc_end_flag = True
+                for index in range(len(start_process_list)):
+                    if(index >= client_st && start_process_list[index].poll() == None):
+                        rpc_end_flag = False
+                        break;
+                if(rpc_end_flag == True):
+                    break;
         
             time.sleep(wait_second)
 
@@ -85,18 +95,18 @@ def time_test(start_list_name , end_turn , exec_name , test_name , log_path , tm
         for p in start_process_list:
             return_state = p.poll()
 
-            if return_state != None:
+            if return_state != None && i < client_st:
                 print start_list_name[i] + " --- Error Code : " + str(return_state)
-                logger.error(start_list_name[i] + " --- Error Code : " + str(return_state))
+                logger.error('\n' + start_list_name[i] + " --- Error Code : " + str(return_state) + '\n')
                 flag = 1
                 break
             
             i += 1
 
 
-        logger.debug("--------------Time Test Finished , Start Logging")     
+        logger.debug('\n' + "--------------Time Test Finished , Start Logging" + '\n')     
         if(flag == 1):
-            logger.debug("--------------Logger exit : terminal exit unnormally")
+            logger.error('\n' + "--------------Logger exit : terminal exit unnormally" + '\n')
             return
 
 
@@ -110,11 +120,11 @@ def time_test(start_list_name , end_turn , exec_name , test_name , log_path , tm
         for p in start_process_list:
             if(p.poll() == None):
                print("Failed to kill -2 " + str(p.pid))
-               logger.error("Failed to Ctrl^C " + str(p.pid) + " , kill -9")
+               logger.error('\n' + "Failed to Ctrl^C " + str(p.pid) + " , kill -9" + '\n')
                flag = 1
     
         if(flag == 1):
-            logger.error("Failed to exit subprocess , exit")
+            logger.error('\n' + "Failed to exit subprocess , exit" + '\n')
             return
  
  
@@ -128,15 +138,15 @@ def time_test(start_list_name , end_turn , exec_name , test_name , log_path , tm
             (out,err ) = p.communicate()
             print "communicate succeed"
             
-            print "Log of " + start_list_name[i]
-            logger.debug("Logging " + start_list_name[i])
-            logger.info("\n" + out)
-            logger.info("\n" + err)
+            print "Log of " + exec_name[i]
+            logger.debug('\n' + "Logging " + exec_name[i] + '\n')
+            logger.info("\n" + out + '\n')
+            logger.info("\n" + err + '\n')
             i += 1
 
         
 
-        logger.debug("Logging Finished , Start quit the subprocess")
+        logger.debug('\n' + "Logging Finished , Start quit the subprocess" + '\n')
 
         logger.removeHandler(handler)
 
