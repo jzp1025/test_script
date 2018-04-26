@@ -809,6 +809,9 @@ def test(tmp_test_name  ,tmp_log_path):
         test_10()
         test_11()
         test_12()
+
+        test_N1()
+
         test_13()
         test_14()
         test_15()
