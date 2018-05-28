@@ -14,7 +14,7 @@ def nonBlockRead(output):
     except:
         return ''
 
-def time_test(end_turn , exec_name , test_name , log_path , tmp_path , run_time , log_index , test_info,para_list , rpc_flag = False , client_st = 0):
+def time_test(end_turn , exec_name , test_name , log_path , tmp_path , run_time , log_index , test_info,para_list,test_msg_content , rpc_flag = False , client_st = 0):
 
         log_name = log_path + '/log/' + test_name +'_' + log_index + '.log'
 
@@ -153,6 +153,42 @@ def time_test(end_turn , exec_name , test_name , log_path , tmp_path , run_time 
 
         logger.removeHandler(handler)
 
+
+	f = open(log_name , 'r')
+
+	state = 0
+	ac_num = 0
+	sub_num = 0
+	pub_num = 0
+	
+	for line in f:
+		line = line.strip('\n')
+		if("all prepare time" in line):
+			state = 1
+			continue
+		if("signal_handler" in line):
+			break
+		if(state == 1):
+			pub_num += 1
+	
+        for line in f:
+                line = line.strip('\n')
+                if("all prepare time" in line):
+                        state = 2
+                        continue
+                if("signal_handler" in line):
+                        break
+		if(state != 2):
+			continue
+                if(line == test_msg_content):
+                        ac_num += 1 
+                sub_num += 1
+
+	print "ac_num : " + str(ac_num)
+	print "pub_num : "+ str(pub_num)
+	print "sub_num : "+ str(sub_num)
+
+	print test_msg_content
 
         return 
 

@@ -8,6 +8,7 @@ from test_method import time_test
 test_name = ""
 log_path = ""
 
+
 def test_1():
         print_name = "test_1"
 
@@ -34,13 +35,13 @@ def test_1():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , test_msg_content)
 
         test_info =  "1 pub, 1 sub, 20hz , 2M data , 60s , valgrand used for memory leak , pub stopped first"
         end_turn = [0,1]
         log_index = "1_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -74,14 +75,14 @@ def test_2():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "3 pub, 1 sub, 20hz , 2M data , 60s , pub stopped first"
 
         end_turn = [0,1,2,3]
         log_index = "2_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -114,14 +115,14 @@ def test_3():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "1 pub, 3 sub, 20hz , 2M data , 60s , pub stopped first"
 
         end_turn = [0,1,2,3]
         log_index = "3_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -156,14 +157,14 @@ def test_4():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "3 pub, 3 sub, 20hz , 2M data , 60s , pub stopped first"
 
         end_turn = [0,1,2,3,4,5]
         log_index = "4_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -193,14 +194,14 @@ def test_5():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "1 pub, 1 sub, 20hz , 256B - 2M data , 60s , pub stopped first"
 
         end_turn = [0,1]
         log_index = "5_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -229,14 +230,14 @@ def test_6():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "1 pub, 1 sub, 20hz , 2M data , 60s , pub stopped first"
 
         end_turn = [0,1]
         log_index = "6_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -267,14 +268,14 @@ def test_7():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "3 pub, 1 sub, 20hz , 2M data , 60s , pub stopped first"
 
         end_turn = [0,1,2,3]
         log_index = "7_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -306,14 +307,14 @@ def test_8():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "1 pub, 3 sub, 20hz , 2M data , 60s , pub stopped first"
 
         end_turn = [0,1,2,3]
         log_index = "8_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -347,14 +348,14 @@ def test_9():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "3 pub, 3 sub, 20hz , 2M data , 60s , pub stopped first"
 
         end_turn = [0,1,2,3,4,5]
         log_index = "9_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -384,14 +385,14 @@ def test_10():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "1 pub, 1 sub, 20hz , 256B - 2M data , 60s , pub stopped first"
 
         end_turn = [0,1]
         log_index = "10_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -425,14 +426,14 @@ def test_11():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "3 pub, 3 sub, 3 topic , 20hz , 2M data , 300s , pub stopped first"
 
         end_turn = [0,1,2,3,4,5]
         log_index = "11_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -466,14 +467,14 @@ def test_12():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  " 3 pub, 3 sub, 20hz , 2M data , 300s , pub stopped first"
 
         end_turn = [0,1,2,3,4,5]
         log_index = "12_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -503,14 +504,14 @@ def test_N1():
                     ]
 
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         test_info =  "1 pub, 1 sub, 20hz , 256B - 2M data , 60s , pub stopped first"
 
         end_turn = [0,1]
         log_index = "N1_2"
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content)
 
         print "finished " + print_name
 
@@ -542,7 +543,7 @@ def test_13():
         rpc_flag = True
         client_st = 1
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , rpc_flag , client_st)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list ,test_msg_content, rpc_flag , client_st)
 
         print "finished " + print_name
 
@@ -576,7 +577,7 @@ def test_14():
         rpc_flag = True
         client_st = 1
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , rpc_flag , client_st)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , test_msg_content, rpc_flag , client_st)
 
         print "finished " + print_name
 
@@ -610,7 +611,7 @@ def test_15():
         rpc_flag = True
         client_st = 1
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , rpc_flag , client_st)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , test_msg_content, rpc_flag , client_st)
 
         print "finished " + print_name
 
@@ -646,7 +647,7 @@ def test_16():
         rpc_flag = True
         client_st = 3
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , rpc_flag , client_st)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , test_msg_content, rpc_flag , client_st)
 
         print "finished " + print_name
 
@@ -677,7 +678,7 @@ def test_17():
         rpc_flag = True
         client_st = 1
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , rpc_flag , client_st)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content , rpc_flag , client_st)
 
         print "finished " + print_name
 
@@ -711,7 +712,7 @@ def test_18():
         rpc_flag = True
         client_st = 1
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , rpc_flag , client_st)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list, test_msg_content , rpc_flag , client_st)
 
         print "finished " + print_name
 
@@ -744,7 +745,7 @@ def test_19():
         rpc_flag = True
         client_st = 1
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , rpc_flag , client_st)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , test_msg_content, rpc_flag , client_st)
 
         print "finished " + print_name
 
@@ -780,22 +781,23 @@ def test_20():
         rpc_flag = True
         client_st = 3
 
-        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , rpc_flag , client_st)
+        time_test.time_test( end_turn , exec_name , test_name , log_path , run_path , run_time , log_index , test_info , para_list , test_msg_content, rpc_flag , client_st)
 
         print "finished " + print_name
 
 
 
 
-def test(tmp_test_name  ,tmp_log_path):
+def test(tmp_test_name  ,tmp_log_path, tmp_test_msg_content):
 
-        global  test_name , log_path
+        global  test_name , log_path , test_msg_content
  
         test_name = tmp_test_name
         log_path = tmp_log_path
+     	test_msg_content = tmp_test_msg_content
 
 
-#        test_1()
+        test_1()
 
  #       test_2()
 
@@ -812,14 +814,14 @@ def test(tmp_test_name  ,tmp_log_path):
 
     #    test_N1()
 
-        test_13()
-        test_14()
-        test_15()
-        test_16()
-        test_17()
-        test_18()
-        test_19()
-        test_20()
+     #   test_13()
+     #   test_14()
+     #   test_15()
+    #    test_16()
+   #     test_17()
+  #      test_18()
+ #       test_19()
+#        test_20()
 	
 	
 	print "all test finished !"
